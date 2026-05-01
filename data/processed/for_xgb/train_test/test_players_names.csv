@@ -1,0 +1,732 @@
+Player,Nation,Pos,Squad,league
+Aron Donnum,NOR,"DF,MF",Toulouse,FR1
+Mikkel Damsgaard,DEN,"MF,FW",Brentford,GB1
+Ivan Oblyakov,RUS,"MF,FW",CSKA Moscow,RU1
+Vando Felix,GNB,"FW,MF",Vitoria,PO1
+Jesper Karlstrom,SWE,MF,Udinese,IT1
+Sergi Canos,ESP,"MF,FW",Valencia,ES1
+Cesar Azpilicueta,ESP,DF,Atlético Madrid,ES1
+Mert Komur,GER,MF,Augsburg,L1
+Alfon,ESP,"FW,MF",Celta Vigo,ES1
+David Hancko,SVK,DF,Feyenoord,NL1
+Diogo Jota,POR,FW,Liverpool,GB1
+Joey Veerman,NED,MF,PSV Eindhoven,NL1
+Ethan Nwaneri,ENG,"FW,MF",Arsenal,GB1
+Wi­lmar Barrios,COL,MF,Zenit,RU1
+Kanya Fujimoto,JPN,MF,Gil Vicente FC,PO1
+Nuno Mendes,POR,DF,Paris S-G,FR1
+Kornelius Hansen,NOR,"FW,MF",Almere City,NL1
+Pedro Neto,POR,FW,Chelsea,GB1
+Leopold Querfeld,AUT,DF,Union Berlin,L1
+Dave Kwakman,NED,"FW,MF",Groningen,NL1
+Antonio Blanco,ESP,MF,Alavés,ES1
+Alex Balboa,EQG,MF,Almere City,NL1
+Gijs Smal,NED,"DF,MF",Feyenoord,NL1
+Andre Sousa,POR,MF,Nacional,PO1
+Malang Sarr,FRA,DF,Lens,FR1
+Sandi Lovric,SVN,MF,Udinese,IT1
+Vetle Dragsnes,NOR,DF,Charleroi,BE1
+Matteo Pessina,ITA,MF,Monza,IT1
+Bruninho,BRA,"MF,FW",Cercle Brugge,BE1
+Nikita Ermakov,RUS,"MF,FW",Nizhny Novgorod,RU1
+Jeremy Sebas,MTQ,"FW,MF",Strasbourg,FR1
+Arthur,BRA,"MF,FW",Dynamo Mosc,RU1
+Matthias Braunoder,AUT,MF,Como,IT1
+Vinicius Zanocelo,BRA,MF,Estoril,PO1
+Ilay Camara,SEN,DF,Standard Liège,BE1
+Gustavo Mantuan,BRA,"DF,MF",Zenit,RU1
+Vinicius,BRA,"FW,MF",Santa Clara,PO1
+Joao Mendes,POR,DF,Vitoria,PO1
+Oscar Rodriguez Arnaiz,ESP,"MF,FW",Leganés,ES1
+Felix Nmecha,GER,MF,Dortmund,L1
+Raheem Sterling,ENG,"FW,MF",Arsenal,GB1
+Roberto Piccoli,ITA,FW,Cagliari,IT1
+Joao Goulart Silva,POR,DF,Casa Pia,PO1
+Junior Messias,BRA,"MF,FW",Genoa,IT1
+Bence Dardai,HUN,MF,Wolfsburg,L1
+Nnamdi Collins,GER,DF,Eint Frankfurt,L1
+Alex Valle,ESP,DF,Como,IT1
+Oliver McBurnie,SCO,FW,Las Palmas,ES1
+Griffin Yow,USA,FW,Westerlo,BE1
+Eduardo Camavinga,FRA,"MF,DF",Real Madrid,ES1
+Alessandro Buongiorno,ITA,DF,Napoli,IT1
+Ilya Gaponov,RUS,DF,Samara,RU1
+Peio Canales,ESP,"MF,FW",Athletic Club,ES1
+Fedde Leysen,BEL,DF,Union SG,BE1
+Philip Billing,DEN,MF,Napoli,IT1
+Mohamed Lamine Bayo,GUI,FW,Lille,FR1
+Ibe Hautekiet,BEL,DF,Standard Liège,BE1
+Dimitris Rallis,GRE,FW,Heerenveen,NL1
+Mohamed Berte,BEL,FW,Dender,BE1
+Matheus Cunha,BRA,"MF,FW",Wolves,GB1
+Jann-Fiete Arp,GER,"FW,MF",Holstein Kiel,L1
+Amir Rrahmani,KVX,DF,Napoli,IT1
+Benjamin Bouchouari,MAR,MF,Saint-Étienne,FR1
+Denis Zakaria,SUI,MF,Monaco,FR1
+Yeremi Pino,ESP,"MF,FW",Villarreal,ES1
+Charlie Cresswell,ENG,DF,Toulouse,FR1
+Zelimkhan Bakayev,RUS,"MF,FW",FC Khimki,RU1
+Max Balard,AUS,MF,NAC Breda,NL1
+Miguel Sousa,POR,"MF,FW",Casa Pia,PO1
+Harry Wilson,WAL,"FW,MF",Fulham,GB1
+Noahkai Banks,USA,DF,Augsburg,L1
+Cedric Teguia,ESP,FW,Moreirense,PO1
+Federico Baschirotto,ITA,DF,Lecce,IT1
+Finn Ole Becker,GER,MF,Hoffenheim,L1
+Giorgi Aburjania,GEO,MF,AVS Futebol,PO1
+Noah Weisshaupt,GER,FW,Freiburg,L1
+Andre Gomes,POR,MF,Lille,FR1
+Samuel Lobato,POR,"FW,MF",Famalicão,PO1
+Keane Lewis-Potter,ENG,"DF,FW",Brentford,GB1
+Roberto Navarro,ESP,"MF,FW",Mallorca,ES1
+Tomas Conechny,ARG,"FW,MF",Alavés,ES1
+Brian Olivan,ESP,DF,Espanyol,ES1
+Romain Faivre,FRA,"MF,FW",Brest,FR1
+Jordan Ayew,GHA,"FW,MF",Leicester City,GB1
+Sergio Camello,ESP,FW,Rayo Vallecano,ES1
+Jacob Greaves,ENG,DF,Ipswich Town,GB1
+Cherrion Valerius,CUW,DF,NAC Breda,NL1
+Arnaut Danjuma,NED,"FW,MF",Girona,ES1
+Rayan Senhadji,FRA,DF,Fakel Voronezh,RU1
+Diego Rico,ESP,DF,Getafe,ES1
+Miguel Gutierrez,ESP,"DF,MF",Girona,ES1
+Sergi Roberto,ESP,MF,Como,IT1
+Fredrik Jensen,FIN,MF,Augsburg,L1
+Marc Roca,ESP,MF,Betis,ES1
+Matteo Darmian,ITA,DF,Inter,IT1
+Lamine Camara,SEN,MF,Monaco,FR1
+Roman Kvet,CZE,MF,Dender,BE1
+Urko Gonzalez,ESP,MF,Real Sociedad,ES1
+Mateo Flores,ESP,MF,Betis,ES1
+Lucas Lovat,BRA,DF,Akhmat Grozny,RU1
+Ivan Basic,BIH,MF,Orenburg,RU1
+Kyan Vaesen,BEL,FW,Willem II,NL1
+Keisuke Goto,JPN,FW,Anderlecht,BE1
+James Garner,ENG,"MF,DF",Everton,GB1
+Iaroslav Mikhailov,RUS,MF,Orenburg,RU1
+Aaron Wan-Bissaka,ENG,DF,West Ham,GB1
+Bas van den Eynden,BEL,DF,Mechelen,BE1
+Nikita Glushkov,RUS,MF,D'mo Makhachkala,RU1
+Aleksandr Soldatenkov,RUS,DF,Samara,RU1
+Svetoslav Kovachev,BUL,"MF,FW",Akhmat Grozny,RU1
+Warren Bondo,FRA,MF,Milan,IT1
+Dario Essugo,POR,MF,Las Palmas,ES1
+El Bilal Toure,MLI,"FW,MF",Stuttgart,L1
+Javi Puado,ESP,"FW,MF",Espanyol,ES1
+Bruno Onyemaechi,NGA,"DF,MF",Boavista,PO1
+Martin Terrier,FRA,"MF,FW",Leverkusen,L1
+Diederrick Joel,CMR,FW,Nacional,PO1
+Marc Cardona,ESP,"FW,DF",Las Palmas,ES1
+Noah Ohio,NED,FW,Utrecht,NL1
+Boy Kemper,NED,DF,NAC Breda,NL1
+Mickael Nade,FRA,DF,Saint-Étienne,FR1
+Ferran Jutglà,ESP,"FW,MF",Club Brugge,BE1
+Massimo Luongo,AUS,MF,Ipswich Town,GB1
+Yael Mouanga,FRA,DF,Montpellier,FR1
+Jamie Leweling,GER,"MF,FW",Stuttgart,L1
+Justin Cuero,ECU,FW,Orenburg,RU1
+James Mcatee,ENG,"MF,FW",Manchester City,GB1
+Pablo Solari,ARG,"MF,FW",Spartak Moscow,RU1
+Mathias Pereira Lage,POR,"FW,MF",Brest,FR1
+Nordi Mukiele,FRA,DF,Leverkusen,L1
+Kevin Martins,ITA,"MF,DF",Monza,IT1
+Pablo Duran,ESP,"FW,MF",Celta Vigo,ES1
+Rafael Toloi,ITA,DF,Atalanta,IT1
+Mamadou Sarr,FRA,DF,Strasbourg,FR1
+Ilya Samoshnikov,RUS,"MF,DF",Loko Moscow,RU1
+Toni Lato,ESP,DF,Mallorca,ES1
+Rivaldo,,"DF,MF",Farense,PO1
+Morlaye Sylla,GUI,"FW,MF",Arouca,PO1
+Djibril Sow,SUI,MF,Sevilla,ES1
+Miguel Menino,POR,MF,Farense,PO1
+Leif Davis,ENG,DF,Ipswich Town,GB1
+Oscar Hojlund,DEN,MF,Eint Frankfurt,L1
+Ihor Kalinin,UKR,"DF,MF",Fakel Voronezh,RU1
+Dailon Livramento,CPV,"FW,MF",Hellas Verona,IT1
+Daniel van Kaam,NED,MF,Heracles Almelo,NL1
+Marco Palestra,ITA,DF,Atalanta,IT1
+Dmitri Tsypchenko,RUS,FW,Samara,RU1
+Ulisses,BRA,DF,Nacional,PO1
+Danil Prutsev,RUS,MF,Spartak Moscow,RU1
+Diego Carlos,BRA,DF,Aston Villa,GB1
+Arthur Melo,BRA,MF,Girona,ES1
+Miguel Maga,POR,DF,Vitoria,PO1
+Andrey Langovich,RUS,DF,Rostov,RU1
+Lewis Ferguson,SCO,MF,Bologna,IT1
+Raphinha,BRA,"FW,MF",Barcelona,ES1
+Jorthy Mokio,BEL,"MF,DF",Ajax,NL1
+Zaydou Youssouf,COM,MF,Famalicão,PO1
+Archie Gray,ENG,"DF,MF",Tottenham,GB1
+Brandon Mechele,BEL,DF,Club Brugge,BE1
+Albert Gronbaek,DEN,"MF,FW",Rennes,FR1
+Lucas Fernandes,BRA,"MF,FW",AVS Futebol,PO1
+Darko Brasanac,SRB,MF,Leganés,ES1
+Danny da Costa,GER,DF,Mainz 05,L1
+Veldin Hodza,KVX,MF,Rubin Kazan,RU1
+David Jurasek,CZE,DF,Hoffenheim,L1
+Tomas Araujo,POR,DF,Benfica,PO1
+Kacper Urbanski,POL,MF,Monza,IT1
+Giuseppe Pezzella,ITA,"DF,FW",Empoli,IT1
+Noah Adedeji,BEL,"FW,MF",Genk,BE1
+Ross Barkley,ENG,MF,Aston Villa,GB1
+Mees de Wit,NED,"DF,FW",AZ Alkmaar,NL1
+Nicolas Otamendi,ARG,DF,Benfica,PO1
+Finn Stokkers,NED,FW,Go Ahead Eag,NL1
+Leandro Trossard,BEL,FW,Arsenal,GB1
+Michel,BRA,DF,Moreirense,PO1
+Juan Caceres,PAR,DF,Dynamo Mosc,RU1
+Pontus Almqvist,SWE,"FW,MF",Parma,IT1
+Benedikt Pichler,AUT,FW,Holstein Kiel,L1
+Natan,BRA,DF,Betis,ES1
+Pablo Gozalbez,ESP,MF,Arouca,PO1
+Oliver Edvardsen,NOR,"FW,MF",Go Ahead Eag,NL1
+Saul Coco,EQG,DF,Torino,IT1
+Tanguy Coulibaly,FRA,"FW,MF",Montpellier,FR1
+Oskar Zawada,POL,FW,RKC Waalwijk,NL1
+Nick Woltemade,GER,"FW,MF",Stuttgart,L1
+Curtis Jones,ENG,"MF,DF",Liverpool,GB1
+Wagner Pina,CPV,"DF,MF",Estoril,PO1
+Stefan Loncar,MNE,MF,FK Akron Tolyatti,RU1
+Antoine Semenyo,GHA,FW,Bournemouth,GB1
+Nacho Ferri,ESP,FW,Kortrijk,BE1
+Daniel Parejo,ESP,MF,Villarreal,ES1
+Vladimir Ilyin,RUS,FW,Fakel Voronezh,RU1
+Ze Turbo,GNB,FW,Nizhny Novgorod,RU1
+Mark Mampasi,UKR,DF,Kortrijk,BE1
+Babatunde Akinsola,NGA,"MF,FW",AVS Futebol,PO1
+Andreas Pereira,BRA,MF,Fulham,GB1
+Moussa Kone,SEN,"MF,FW",Boavista,PO1
+Herve Matthys,BEL,DF,Beerschot,BE1
+Marco Moreno,ESP,DF,Farense,PO1
+Kasey McAteer,IRL,FW,Leicester City,GB1
+Victor Edvardsen,SWE,"FW,MF",Go Ahead Eag,NL1
+Jizz Hornkamp,NED,"FW,MF",Heracles Almelo,NL1
+Andi Zeqiri,SUI,FW,Standard Liège,BE1
+David Lopez,ESP,DF,Girona,ES1
+Bogdan Jocic,SRB,MF,Rubin Kazan,RU1
+Philippe Sandler,NED,DF,NEC Nijmegen,NL1
+Neil El Aynaoui,MAR,MF,Lens,FR1
+Louis Leroux,FRA,"MF,DF",Nantes,FR1
+Alex Scott,ENG,MF,Bournemouth,GB1
+Naci Unuvar,NED,"MF,DF",Twente,NL1
+Sebastian Perez Cardona,COL,MF,Boavista,PO1
+Senny Mayulu,FRA,MF,Paris S-G,FR1
+Milos Lukovic,SRB,"FW,MF",Heerenveen,NL1
+Cristhian Mosquera,ESP,DF,Valencia,ES1
+Mats Pannewig,GER,MF,Bochum,L1
+Alessio Castro-Montes,BEL,"DF,FW",Union SG,BE1
+Carlos Gomez,COL,"MF,DF",Rennes,FR1
+Dieu-Merci Michel,CAN,FW,Vitoria,PO1
+Phillip Tietz,GER,FW,Augsburg,L1
+Evert Linthorst,NED,MF,Go Ahead Eag,NL1
+Douglas,BRA,MF,Nantes,FR1
+Jesper Karlsson,SWE,FW,Lecce,IT1
+Lautaro Martinez,ARG,FW,Inter,IT1
+Stefan Lainer,AUT,DF,Gladbach,L1
+Jeffrey Gouweleeuw,NED,DF,Augsburg,L1
+Yaya Kader Fofana,MLI,"MF,FW",Reims,FR1
+Pierrick Capelle,FRA,MF,Angers,FR1
+Antoni Milambo,NED,MF,Feyenoord,NL1
+Stephen Eustaquio,CAN,"MF,DF",Porto,PO1
+Ivan Jaime Pajuelo,ESP,MF,Porto,PO1
+Viti,ESP,DF,Las Palmas,ES1
+Nail Umyarov,RUS,MF,Spartak Moscow,RU1
+Jhon Lucumi,COL,DF,Bologna,IT1
+Magnus Kofod Andersen,DEN,MF,Venezia,IT1
+Anton Shvets,RUS,"MF,DF",Akhmat Grozny,RU1
+Oleksandr Zinchenko,UKR,"DF,MF",Arsenal,GB1
+Matte Smets,BEL,DF,Genk,BE1
+Marcos Senesi,ARG,DF,Bournemouth,GB1
+Sergiu Perciun,MDA,"FW,MF",Torino,IT1
+Noa Lang,NED,FW,PSV Eindhoven,NL1
+Dara O'Shea,IRL,DF,Ipswich Town,GB1
+Victor Sa,BRA,MF,Krasnodar,RU1
+Pedro gomes,POR,DF,Boavista,PO1
+Egas Cacintura,ANG,"FW,MF",D'mo Makhachkala,RU1
+Tiago Gabriel,POR,DF,Estrela,PO1
+Jeremy Livolant,FRA,"FW,MF",Casa Pia,PO1
+Goncalo Almeida,POR,"DF,MF",Boavista,PO1
+Eren Dinkci,GER,"MF,FW",Freiburg,L1
+Nathan Zeze,FRA,DF,Nantes,FR1
+Gabriel Airton de Souza,BRA,"FW,MF",Moreirense,PO1
+Shavy Babicka,GAB,"MF,FW",Toulouse,FR1
+Patrik Schick,CZE,FW,Leverkusen,L1
+Juanpe,ESP,DF,Girona,ES1
+Fabiano Parisi,ITA,"DF,MF",Fiorentina,IT1
+Ismael Bekhoucha,MAR,"MF,DF",Getafe,ES1
+Andre,BRA,MF,Wolves,GB1
+Lucas Gourna-Douath,FRA,MF,Roma,IT1
+Manuel Osifo,BEL,DF,OH Leuven,BE1
+Dani Ceballos,ESP,MF,Real Madrid,ES1
+Moses David Cobnan,NGA,"MF,FW",Krasnodar,RU1
+Sammie Szmodics,IRL,"FW,MF",Ipswich Town,GB1
+Max Kilman,ENG,DF,West Ham,GB1
+Sandro Cruz,ANG,DF,Gil Vicente FC,PO1
+Juan Herzog,ESP,DF,Las Palmas,ES1
+Adama Traore,ESP,"FW,MF",Fulham,GB1
+Yannik Keitel,GER,MF,Stuttgart,L1
+Ali Dembele,FRA,DF,Torino,IT1
+Kobe Cools,BEL,DF,Dender,BE1
+Thomas Van den Keybus,BEL,MF,Westerlo,BE1
+Artyom Timofeyev,RUS,MF,Loko Moscow,RU1
+Nair Tiknizyan,ARM,"MF,DF",Loko Moscow,RU1
+Youri Baas,NED,DF,Ajax,NL1
+Luciano Gondou,ARG,"FW,MF",Zenit,RU1
+Tete Morente,ESP,"FW,MF",Lecce,IT1
+Marko Ivezic,SRB,DF,Holstein Kiel,L1
+Leftheris Lyratzis,GRE,DF,NEC Nijmegen,NL1
+Tolis Konstantopoulos,GRE,DF,Beerschot,BE1
+Noah Okafor,SUI,"FW,MF",Napoli,IT1
+Lisandro Martinez,ARG,DF,Manchester Utd,GB1
+Samuel Bamba,GER,"FW,MF",Bochum,L1
+Cedric Zesiger,SUI,DF,Wolfsburg,L1
+Enzo Fernandez,ARG,MF,Chelsea,GB1
+Dario Grujcic,AUT,"DF,MF",Fortuna Sittard,NL1
+Vyacheslav Bardybakhin,RUS,DF,FK Akron Tolyatti,RU1
+Vladislav Masternoy,RUS,MF,Fakel Voronezh,RU1
+Harry Clarke,ENG,DF,Ipswich Town,GB1
+Pau Cubarsi,ESP,DF,Barcelona,ES1
+Aleksandr Chernikov,RUS,MF,Krasnodar,RU1
+Kyle Walker,ENG,DF,Manchester City,GB1
+Simion Michez,BEL,"DF,MF",Beerschot,BE1
+Michel Aebischer,SUI,MF,Bologna,IT1
+Bosko Sutalo,CRO,DF,Standard Liège,BE1
+Frederico Venancio,POR,DF,Santa Clara,PO1
+Mounaim El Idrissy,FRA,"DF,FW",Kortrijk,BE1
+Denis Makarov,RUS,"FW,MF",Dynamo Mosc,RU1
+Paul Nebel,GER,MF,Mainz 05,L1
+Mees Hilgers,IDN,DF,Twente,NL1
+Nene,BRA,FW,AVS Futebol,PO1
+Aleksandr Zotov,RUS,MF,Rubin Kazan,RU1
+Maksim Shnaptsev,RUS,DF,Nizhny Novgorod,RU1
+Sekou Koita,MLI,"FW,MF",CSKA Moscow,RU1
+Benjamin Rollheiser,ARG,"MF,FW",Benfica,PO1
+Adam Hlozek,CZE,"FW,MF",Hoffenheim,L1
+Benito Ramirez,ESP,"DF,FW",Las Palmas,ES1
+Michael Olise,FRA,"FW,MF",Bayern Munich,L1
+Yari Verschaeren,BEL,"MF,FW",Anderlecht,BE1
+Francisco Petrasso,ARG,DF,Rio Ave,PO1
+Thilo Kehrer,GER,DF,Monaco,FR1
+Taylor Booth,USA,FW,Twente,NL1
+Romelu Lukaku,BEL,FW,Napoli,IT1
+Takuma Ominami,JPN,DF,OH Leuven,BE1
+Ricardo Mangas,POR,DF,Vitoria,PO1
+Wahbi Khazri,TUN,"FW,MF",Montpellier,FR1
+Valentin Castellanos,ARG,FW,Lazio,IT1
+Esequiel Barco,ARG,MF,Spartak Moscow,RU1
+Joao Mendes,POR,"MF,FW",Vitoria,PO1
+Ivan Mesik,SVK,DF,Heracles Almelo,NL1
+Mamadou Loum,SEN,"MF,DF",Arouca,PO1
+Matias Soule,ARG,"MF,DF",Roma,IT1
+Karim Onisiwo,AUT,"MF,FW",Mainz 05,L1
+Ricky van Wolfswinkel,NED,FW,Twente,NL1
+Said Bakari,COM,DF,Sparta R'dam,NL1
+Yerry Mina,COL,DF,Cagliari,IT1
+Kader Ouattara,BFA,"MF,FW",Cercle Brugge,BE1
+Noussair Mazraoui,MAR,DF,Manchester Utd,GB1
+Anis Hadj Moussa,ALG,"FW,MF",Feyenoord,NL1
+Dean Huijsen,ESP,DF,Bournemouth,GB1
+Luke Shaw,ENG,DF,Manchester Utd,GB1
+Hamdi Akujobi,NED,DF,Almere City,NL1
+Fabian Rieder,SUI,"MF,FW",Stuttgart,L1
+Bruno Fernandes,POR,MF,Manchester Utd,GB1
+Nemanja Matic,SRB,MF,Lyon,FR1
+Cristian Castro,COL,DF,AVS Futebol,PO1
+Zineddine Belaid,ALG,DF,Sint-Truiden,BE1
+Zaim Divanovic,MNE,MF,Akhmat Grozny,RU1
+Adamo Nagalo,BFA,DF,PSV Eindhoven,NL1
+Dmitri Skopintsev,RUS,DF,Dynamo Mosc,RU1
+Aster Vranckx,BEL,MF,Wolfsburg,L1
+Jurgen Ekkelenkamp,NED,MF,Udinese,IT1
+Rassoul Ndiaye,SEN,MF,Le Havre,FR1
+Luca Pellegrini,ITA,DF,Lazio,IT1
+Emmanuel Agbadou,CIV,DF,Wolves,GB1
+Conor Coady,ENG,DF,Leicester City,GB1
+Jonathan Rowe,ENG,"FW,MF",Marseille,FR1
+Pierre Cornud,FRA,DF,Saint-Étienne,FR1
+Marash Kumbulla,ALB,DF,Espanyol,ES1
+Jesse Bosch,NED,MF,Willem II,NL1
+Callum Wilson,ENG,FW,Newcastle Utd,GB1
+Jake O'Brien,IRL,DF,Everton,GB1
+Saul Niguez,ESP,MF,Sevilla,ES1
+Josue Casimir,HAI,"FW,MF",Le Havre,FR1
+Ilija Vukotic,MNE,MF,Boavista,PO1
+Alexandro Calut,BEL,"DF,MF",Standard Liège,BE1
+Justin Diehl,GER,"FW,DF",Stuttgart,L1
+David Torres,ESP,DF,Valladolid,ES1
+Tommaso Baldanzi,ITA,"MF,FW",Roma,IT1
+Oleg Reabciuk,MDA,DF,Spartak Moscow,RU1
+Sergi Gomez,ESP,DF,Espanyol,ES1
+Jordan Teze,NED,DF,Monaco,FR1
+Chris Richards,USA,DF,Crystal Palace,GB1
+Dean James,IDN,DF,Go Ahead Eag,NL1
+Aurele Amenda,SUI,DF,Eint Frankfurt,L1
+Gavi,ESP,"MF,FW",Barcelona,ES1
+Jamie Vardy,ENG,FW,Leicester City,GB1
+Maksim Osipenko,RUS,DF,Rostov,RU1
+Thomas Foket,BEL,DF,Anderlecht,BE1
+Antonio Silva,POR,DF,Benfica,PO1
+Jim Allevinah,GAB,FW,Angers,FR1
+Eric Bailly,CIV,DF,Villarreal,ES1
+Patson Daka,ZAM,"FW,MF",Leicester City,GB1
+Lovro Majer,CRO,MF,Wolfsburg,L1
+Lucas Perrin,FRA,DF,Cercle Brugge,BE1
+Borja Iglesias,ESP,FW,Celta Vigo,ES1
+Danil Krugovoy,RUS,"MF,DF",CSKA Moscow,RU1
+Daan Dierckx,BEL,DF,Standard Liège,BE1
+Moises,BRA,DF,CSKA Moscow,RU1
+Aleksei Kashtanov,RUS,FW,Fakel Voronezh,RU1
+Eser Gurbuz,NED,FW,Heerenveen,NL1
+Calvin Verdonk,IDN,DF,NEC Nijmegen,NL1
+Florian Sotoca,FRA,"FW,MF",Lens,FR1
+Iver Fossum,NOR,MF,Kortrijk,BE1
+Matty Cash,POL,DF,Aston Villa,GB1
+Manu Bueno,ESP,"MF,FW",Sevilla,ES1
+Oleksandr Filin,RUS,DF,FC Khimki,RU1
+Ismaily,BRA,DF,Lille,FR1
+German Valera,ESP,MF,Valencia,ES1
+Ognjen Ozegovic,SRB,FW,Nizhny Novgorod,RU1
+Jorg Schreuders,NED,"MF,FW",Groningen,NL1
+Yassine Kechta,MAR,"MF,FW",Le Havre,FR1
+Abdon Prats,ESP,"FW,MF",Mallorca,ES1
+Alex Bermejo,ESP,"MF,FW",Farense,PO1
+Nico O’Reilly,ENG,DF,Manchester City,GB1
+Warren Zaire-Emery,FRA,"MF,DF",Paris S-G,FR1
+David Neres,BRA,FW,Napoli,IT1
+Pierre Lees-Melou,FRA,MF,Brest,FR1
+Miroslav Bogosavac,SRB,"DF,MF",Akhmat Grozny,RU1
+Marat Bokoev,RUS,DF,FK Akron Tolyatti,RU1
+Jonas Martin,FRA,MF,Brest,FR1
+Paulo Vitor,BRA,DF,FK Akron Tolyatti,RU1
+Tom Reyners,BEL,"MF,FW",Beerschot,BE1
+Abel Ruiz,ESP,FW,Girona,ES1
+Saeid Saharkhizan,IRN,"FW,MF",Orenburg,RU1
+Dante Vanzeir,BEL,FW,Gent,BE1
+Folarin Balogun,USA,FW,Monaco,FR1
+Jordi Mboula,ESP,"FW,MF",Gil Vicente FC,PO1
+Abdul Mumin,GHA,DF,Rayo Vallecano,ES1
+Jesper Lindstrom,DEN,FW,Everton,GB1
+Kevin Castano,COL,MF,Krasnodar,RU1
+Alen Halilovic,CRO,"MF,FW",Fortuna Sittard,NL1
+Alberto costa,POR,DF,Vitoria,PO1
+Kobe Corbanie,BEL,"DF,MF",Antwerp,BE1
+Ramon Terrats,ESP,"MF,FW",Getafe,ES1
+Allan Nyom,CMR,"DF,MF",Getafe,ES1
+Joao Carvalho,POR,"MF,FW",Estoril,PO1
+Leonardo Pavoletti,ITA,"FW,MF",Cagliari,IT1
+Gaetan Perrin,FRA,"MF,FW",Auxerre,FR1
+Vasco Lopes,CPV,"FW,MF",AVS Futebol,PO1
+Marin Ljubicic,CRO,"FW,MF",Union Berlin,L1
+Pablo Maffeo,ESP,DF,Mallorca,ES1
+Amine Talal,MAR,"MF,FW",Akhmat Grozny,RU1
+Patrick,BRA,DF,Rio Ave,PO1
+El Chadaille Bitshiabu,FRA,DF,RB Leipzig,L1
+Kingstone Mutandwa,ZAM,"FW,MF",Cagliari,IT1
+Matthijs de Ligt,NED,DF,Manchester Utd,GB1
+Mahmoud Dahoud,GER,MF,Eint Frankfurt,L1
+Oumar Diakite,CIV,FW,Reims,FR1
+Mario Balotelli,ITA,"FW,MF",Genoa,IT1
+Sebastian Nanasi,SWE,"MF,FW",Strasbourg,FR1
+Dwight McNeil,ENG,"MF,FW",Everton,GB1
+Rein Van Helden,BEL,DF,Sint-Truiden,BE1
+Konstantinos Koulierakis,GRE,DF,Wolfsburg,L1
+Abdoulaye Niakhate Ndiaye,SEN,DF,Brest,FR1
+Christopher Wooh,CMR,DF,Rennes,FR1
+Adrien Tameze,CMR,"MF,DF",Torino,IT1
+Frederic Ananou,TOG,"DF,MF",Sint-Truiden,BE1
+Artem Dovbyk,UKR,FW,Roma,IT1
+Philipp Lienhart,AUT,DF,Freiburg,L1
+Butta Magomedov,RUS,"MF,FW",FC Khimki,RU1
+Thomas Meunier,BEL,DF,Lille,FR1
+Marcos Andre,BRA,FW,Valladolid,ES1
+Louis Mouton,FRA,MF,Saint-Étienne,FR1
+David Pastor,BRA,"DF,MF",Farense,PO1
+Mateo Kovacic,CRO,MF,Manchester City,GB1
+Lior Kasa,ISR,"MF,FW",Genoa,IT1
+Dany Mota,POR,"FW,MF",Monza,IT1
+Hamza Mendyl,MAR,DF,OH Leuven,BE1
+Fahem Benaissa Yahia,FRA,"MF,DF",Casa Pia,PO1
+Jan Djapo,SVN,"MF,DF",D'mo Makhachkala,RU1
+Maksim Paliyenko,RUS,MF,FK Akron Tolyatti,RU1
+Sem Scheperman,NED,MF,Heracles Almelo,NL1
+David Hrncar,SVK,DF,Dender,BE1
+Aske Adelgaard,DEN,DF,Go Ahead Eag,NL1
+Vanderson,BRA,DF,Monaco,FR1
+Gonzalo Montiel,ARG,"DF,MF",Sevilla,ES1
+Geovany Quenda,POR,"MF,DF",Sporting CP,PO1
+Gerard Moreno,ESP,FW,Villarreal,ES1
+Takuma Asano,JPN,"FW,MF",Mallorca,ES1
+Caleb Wiley,USA,"DF,MF",Strasbourg,FR1
+Matija Frigan,CRO,FW,Westerlo,BE1
+Luka Tunjic,CRO,"FW,MF",Fortuna Sittard,NL1
+Ruslan Malinovskyi,UKR,"MF,FW",Genoa,IT1
+Jhoanner Chavez,ECU,"DF,MF",Lens,FR1
+Moussa N'Diaye,SEN,DF,Anderlecht,BE1
+Kirill Kaplenko,BLR,MF,FC Khimki,RU1
+Jerdy Schouten,NED,MF,PSV Eindhoven,NL1
+Jonathan David,CAN,FW,Lille,FR1
+Roy Kuijpers,NED,"FW,MF",NAC Breda,NL1
+Ivan Perisic,CRO,FW,PSV Eindhoven,NL1
+Chemsdine Talbi,MAR,"FW,MF",Club Brugge,BE1
+Nikolai Rasskazov,RUS,"DF,MF",Samara,RU1
+Rodrigo Mora,POR,"MF,FW",Porto,PO1
+Ibrahim Diakite,GUI,DF,Cercle Brugge,BE1
+Rifat Zhemaletdinov,RUS,"FW,MF",CSKA Moscow,RU1
+Allahyar Sayyadmanesh,IRN,"FW,MF",Westerlo,BE1
+Carlos Benavidez,URU,MF,Alavés,ES1
+Jean-Clair Todibo,FRA,DF,West Ham,GB1
+Anselmo Garcia MacNulty,IRL,DF,Zwolle,NL1
+Ki-Jana Hoever,NED,DF,Auxerre,FR1
+Tomas Suslov,SVK,"MF,FW",Hellas Verona,IT1
+Soungoutou Magassa,FRA,MF,Monaco,FR1
+Sander Berge,NOR,MF,Fulham,GB1
+Andre Ayew,GHA,FW,Le Havre,FR1
+Marco Komenda,CRO,DF,Holstein Kiel,L1
+Zinedine Ferhat,ALG,"FW,MF",Angers,FR1
+Elias Saad,TUN,"FW,MF",St. Pauli,L1
+Gernot Trauner,AUT,DF,Feyenoord,NL1
+Jerome Roussillon,FRA,"DF,MF",Union Berlin,L1
+Irakli Kvekveskiri,GEO,MF,Fakel Voronezh,RU1
+Matthias Ginter,GER,DF,Freiburg,L1
+Malick Thiaw,GER,DF,Milan,IT1
+Giovanni Leoni,ITA,DF,Parma,IT1
+Jaden Philogene Bidace,ENG,"FW,DF",Ipswich Town,GB1
+Orri Steinn Oskarsson,ISL,FW,Real Sociedad,ES1
+Michel Costa,BRA,MF,Estoril,PO1
+Idrissa Gana Gueye,SEN,MF,Everton,GB1
+Emmanuel Gyasi,GHA,"DF,FW",Empoli,IT1
+Siebe Van Der Heyden,BEL,"DF,MF",St. Pauli,L1
+Yunus Musah,USA,"MF,FW",Milan,IT1
+Levi Smans,NED,"MF,FW",Heerenveen,NL1
+Alex Grimaldo,ESP,DF,Leverkusen,L1
+Nemanja Andjelkovic,SRB,DF,FC Khimki,RU1
+Kirian Rodriguez,ESP,MF,Las Palmas,ES1
+Nikita Krivtsov,RUS,MF,Krasnodar,RU1
+Hugo Guillamon,ESP,MF,Valencia,ES1
+Arthur Theate,BEL,DF,Eint Frankfurt,L1
+Luka Vesner Ticic,SVN,"MF,DF",Nizhny Novgorod,RU1
+Alexander Bernhardsson,SWE,"FW,MF",Holstein Kiel,L1
+Isaias Delpupo,ARG,"FW,DF",Sint-Truiden,BE1
+Leo Petrot,FRA,DF,Saint-Étienne,FR1
+Tyler Dibling,ENG,"FW,MF",Southampton,GB1
+Orkun Kokcu,TUR,MF,Benfica,PO1
+Benjamin Andre,FRA,MF,Lille,FR1
+Parfait Guiagon,CIV,FW,Charleroi,BE1
+Lasse Rosenboom,GER,DF,Holstein Kiel,L1
+Lewis Holtby,GER,MF,Holstein Kiel,L1
+Sikou Niakate,MLI,DF,Braga,PO1
+Morten Frendrup,DEN,MF,Genoa,IT1
+Ruben Roosken,NED,DF,Heracles Almelo,NL1
+James Bree,ENG,DF,Southampton,GB1
+Valentin Rongier,FRA,"MF,DF",Marseille,FR1
+Manfred Ugalde,CRC,FW,Spartak Moscow,RU1
+Calvin Bassey,NGA,DF,Fulham,GB1
+Benat Turrientes,ESP,MF,Real Sociedad,ES1
+Koki Ogawa,JPN,FW,NEC Nijmegen,NL1
+Ruben van Bommel,NED,FW,AZ Alkmaar,NL1
+Gianluca Prestianni,ARG,"MF,FW",Benfica,PO1
+Ronaldo Cesar,BRA,"FW,MF",Rostov,RU1
+Justin Smith,CAN,MF,Espanyol,ES1
+Leonardo da Silva Lopes,POR,MF,Gent,BE1
+Amar Rahmanovic,BIH,MF,Samara,RU1
+Skelly Alvero,FRA,MF,Werder Bremen,L1
+Emi Buendia,ARG,MF,Leverkusen,L1
+Sandy Walsh,IDN,DF,Mechelen,BE1
+Malo Gusto,FRA,DF,Chelsea,GB1
+Tamerlan Musaev,RUS,FW,CSKA Moscow,RU1
+Trevoh Chalobah,ENG,DF,Chelsea,GB1
+Alex Berenguer,ESP,"FW,MF",Athletic Club,ES1
+Maks Dziov,RUS,DF,Fakel Voronezh,RU1
+Tomas Handel,POR,MF,Vitoria,PO1
+Ramon Hendriks,NED,DF,Stuttgart,L1
+Daniel Karlsbakk,NOR,FW,Heerenveen,NL1
+Jacques Ekomie,GAB,"DF,FW",Angers,FR1
+Andre Franco,POR,"MF,FW",Porto,PO1
+Stefan Lekovic,SRB,DF,Monza,IT1
+Eliano Reijnders,IDN,DF,Zwolle,NL1
+Goncalo Borges,POR,"FW,MF",Porto,PO1
+Jordan Torunarigha,GER,DF,Gent,BE1
+Taiwo Awoniyi,NGA,FW,Nott'ham Forest,GB1
+Rayan Cherki,FRA,"FW,MF",Lyon,FR1
+Mattia Valoti,ITA,MF,Monza,IT1
+Denis Suarez,ESP,MF,Villarreal,ES1
+Nacho Vidal,ESP,DF,Osasuna,ES1
+Dardan Shabanhaxhaj,AUT,"FW,MF",Rubin Kazan,RU1
+Rodrigo Saravia,URU,MF,Rostov,RU1
+Benat Prados,ESP,MF,Athletic Club,ES1
+Mats Deijl,NED,DF,Go Ahead Eag,NL1
+Francisco Chissumba,POR,DF,Braga,PO1
+Johnny Cardoso,USA,MF,Betis,ES1
+Dion De Neve,BEL,DF,Kortrijk,BE1
+Raul Moro,ESP,"MF,FW",Valladolid,ES1
+Franjo Ivanovic,CRO,"FW,MF",Union SG,BE1
+Angelino,ESP,DF,Roma,IT1
+Jeff Ekhator,ITA,"FW,MF",Genoa,IT1
+Georginio Rutter,FRA,"MF,FW",Brighton,GB1
+Alfonso Pedraza,ESP,"DF,MF",Villarreal,ES1
+Mathieu Maertens,BEL,"FW,MF",OH Leuven,BE1
+Loic Mbe Soh,FRA,DF,Beerschot,BE1
+Ronald Araujo,URU,DF,Barcelona,ES1
+Souleyman Doumbia,CIV,DF,Standard Liège,BE1
+Keliano,ANG,MF,Estrela,PO1
+Andrei Mostovoy,RUS,MF,Zenit,RU1
+Kobbie Mainoo,ENG,MF,Manchester Utd,GB1
+Tobias Lauritsen,NOR,FW,Sparta R'dam,NL1
+Danilho Doekhi,NED,DF,Union Berlin,L1
+Joao Moutinho,POR,MF,Braga,PO1
+Dylan Batubinsika,COD,DF,Saint-Étienne,FR1
+Gerrit Nauber,GER,DF,Go Ahead Eag,NL1
+Juan Carlos Familia,DOM,"DF,FW",RKC Waalwijk,NL1
+Andrej Kramaric,CRO,"MF,FW",Hoffenheim,L1
+Finn Stam,NED,DF,Groningen,NL1
+Diogo Calila,MOZ,"MF,DF",Santa Clara,PO1
+Sergi Cardona,ESP,DF,Villarreal,ES1
+Joel Schingtienne,BEL,DF,Venezia,IT1
+Junior Ndiaye,FRA,FW,Montpellier,FR1
+Tidiam Gomis,FRA,"MF,FW",RB Leipzig,L1
+Valentin Rosier,FRA,DF,Leganés,ES1
+Jordy Bruijn,NED,MF,Heracles Almelo,NL1
+Julien Ngoy,BEL,FW,Mechelen,BE1
+Zeki Celik,TUR,DF,Roma,IT1
+Saminu Abdullahi,NGA,MF,FC Khimki,RU1
+Yoel Lago,ESP,DF,Celta Vigo,ES1
+Jonathan Panzo,ENG,DF,Rio Ave,PO1
+Castello Lukeba,FRA,DF,RB Leipzig,L1
+Woyo Coulibaly,MLI,DF,Parma,IT1
+Tom Krauss,GER,MF,Bochum,L1
+Sergey Pinyaev,RUS,"MF,FW",Loko Moscow,RU1
+Eder Militao,BRA,DF,Real Madrid,ES1
+Axel Disasi,FRA,DF,Chelsea,GB1
+Jonas Hofmann,GER,"MF,DF",Leverkusen,L1
+Alan Matturro,URU,DF,Genoa,IT1
+Alberto Dossena,ITA,DF,Como,IT1
+Konstantin Kuchayev,RUS,MF,Rostov,RU1
+Konstantin Savichev,RUS,DF,FK Akron Tolyatti,RU1
+Roberto Fernandez,ESP,FW,Espanyol,ES1
+Thierno Barry,FRA,FW,Villarreal,ES1
+Asier Villalibre,ESP,FW,Alavés,ES1
+Luka Kulenovic,BIH,FW,Heracles Almelo,NL1
+Mathias Olivera,URU,DF,Napoli,IT1
+Jamiro Monteiro,CPV,MF,Zwolle,NL1
+Ayrton Costa,ARG,DF,Antwerp,BE1
+Dennis Man,ROU,"FW,MF",Parma,IT1
+Vladimir Moskvichev,RUS,MF,FK Akron Tolyatti,RU1
+Jack Clarke,ENG,"FW,MF",Ipswich Town,GB1
+Fran Navarro,ESP,FW,Braga,PO1
+Tom Louchet,FRA,"DF,MF",Nice,FR1
+John Joe,IRL,"MF,FW",Reims,FR1
+Miguel Rodriguez,ESP,"FW,MF",Utrecht,NL1
+Alexis Claude-Maurice,FRA,"MF,FW",Augsburg,L1
+Caleb Ekuban,GHA,FW,Genoa,IT1
+Kialonda,ANG,DF,Lecce,IT1
+Malamine Efekele,FRA,"MF,FW",Cercle Brugge,BE1
+Max Bruns,NED,DF,Twente,NL1
+Javier Manquillo,ESP,DF,Celta Vigo,ES1
+Morgan Gibbs-White,ENG,MF,Nott'ham Forest,GB1
+Tyler Adams,USA,MF,Bournemouth,GB1
+Leander Dendoncker,BEL,"MF,DF",Anderlecht,BE1
+Isaac Palazon Camacho,ESP,"MF,FW",Rayo Vallecano,ES1
+Bill Antonio,ZIM,"DF,FW",Mechelen,BE1
+Victor Jensen,DEN,MF,Utrecht,NL1
+Denzel Hall,NED,DF,Heerenveen,NL1
+Ibrahim Mbaye,FRA,"FW,MF",Paris S-G,FR1
+Daichi Kamada,JPN,MF,Crystal Palace,GB1
+Billy Gilmour,SCO,MF,Napoli,IT1
+Danilo D'Ambrosio,ITA,DF,Monza,IT1
+Gaby Jean,FRA,DF,Lecce,IT1
+Vitor Roque,BRA,FW,Betis,ES1
+Maxime Bernauer,FRA,DF,Saint-Étienne,FR1
+Kevin Pina,CPV,MF,Krasnodar,RU1
+Maghnes Akliouche,FRA,"FW,MF",Monaco,FR1
+Ryotaro Ito,JPN,MF,Sint-Truiden,BE1
+Joao Mario Lopes,POR,"DF,MF",Porto,PO1
+Benjamin Henrichs,GER,DF,RB Leipzig,L1
+Eric Veiga,LUX,"DF,MF",AVS Futebol,PO1
+Ole Romeny,IDN,FW,Utrecht,NL1
+Jan Van den Bergh,BEL,DF,NAC Breda,NL1
+Douglas Luiz,BRA,MF,Juventus,IT1
+Ole Pohlmann,GER,"MF,FW",Rio Ave,PO1
+Tomane,POR,FW,Farense,PO1
+Nicola Sansone,ITA,"MF,FW",Lecce,IT1
+Lucas Beltran,ARG,"FW,MF",Fiorentina,IT1
+Andre Lacximicant,POR,FW,Estoril,PO1
+Theo Leoni,BEL,"MF,DF",Anderlecht,BE1
+Roshon van Eijma,CUW,DF,RKC Waalwijk,NL1
+Elves Balde,GNB,"MF,FW",Farense,PO1
+Caleb Okoli,ITA,DF,Leicester City,GB1
+Kevin Akpoguma,NGA,DF,Hoffenheim,L1
+Dennis Praet,BEL,MF,Antwerp,BE1
+Elliot Anderson,ENG,MF,Nott'ham Forest,GB1
+Rasmus Hojlund,DEN,FW,Manchester Utd,GB1
+Justin Hoogma,NED,DF,Heracles Almelo,NL1
+Dogucan Haspolat,TUR,MF,Westerlo,BE1
+Alessandro Deiola,ITA,MF,Cagliari,IT1
+Michel Vlap,NED,"MF,FW",Twente,NL1
+Rodrigo Ribeiro,POR,FW,Sporting CP,PO1
+Atsamaz Revazov,RUS,FW,Orenburg,RU1
+Tomas Soucek,CZE,MF,West Ham,GB1
+Jeremy Doku,BEL,"FW,MF",Manchester City,GB1
+Joe Aribo,NGA,"MF,DF",Southampton,GB1
+Modibo Sagnan,MLI,DF,Montpellier,FR1
+Issa Kabore,BFA,"DF,FW",Werder Bremen,L1
+Stoichkov,ESP,"MF,FW",Alavés,ES1
+Saba Goglichidze,GEO,DF,Empoli,IT1
+Leo Santos,BRA,DF,Nacional,PO1
+Eliaquim Mangala,FRA,DF,Estoril,PO1
+Gabriel Jesus,BRA,FW,Arsenal,GB1
+Piotr Zielinski,POL,MF,Inter,IT1
+Amin Sarr,SWE,FW,Hellas Verona,IT1
+Raphael Onyedika,NGA,MF,Club Brugge,BE1
+Wes Burns,WAL,"FW,DF",Ipswich Town,GB1
+Carlos Vicente,ESP,"FW,MF",Alavés,ES1
+Fyodor Smolov,RUS,FW,Krasnodar,RU1
+Iglesias,ESP,DF,Getafe,ES1
+Vincent Janssen,NED,"FW,MF",Antwerp,BE1
+Viktor Aleksandrov,RUS,DF,Nizhny Novgorod,RU1
+Gleison Bremer,BRA,DF,Juventus,IT1
+Felix Correia,POR,"FW,MF",Gil Vicente FC,PO1
+Odsonne Edouard,FRA,FW,Leicester City,GB1
+Tiago Djalo,POR,DF,Porto,PO1
+Nicolas Pays,FRA,"FW,MF",Montpellier,FR1
+Dusan Vlahovic,SRB,FW,Juventus,IT1
+Daniel Penha,BRA,MF,Nacional,PO1
+Tim Drexler,GER,DF,Hoffenheim,L1
+Nico Williams,ESP,FW,Athletic Club,ES1
+Unai Nunez,ESP,DF,Athletic Club,ES1
+Thomas Robinet,FRA,"MF,FW",Almere City,NL1
+Fabio Conceicao,POR,"FW,DF",Rio Ave,PO1
+Joao Escoval,POR,DF,FK Akron Tolyatti,RU1
+Bitelo,BRA,MF,Dynamo Mosc,RU1
+Orel Mangala,BEL,MF,Everton,GB1
+Ousmane Dembele,FRA,FW,Paris S-G,FR1
+Gabriel Bares,SUI,"MF,DF",Montpellier,FR1
+Soltmurad Bakaev,RUS,"FW,MF",FK Akron Tolyatti,RU1
+Keven Schlotterbeck,GER,DF,Augsburg,L1
+Casper Terho,FIN,"DF,FW",Union SG,BE1
+Joao Novais,POR,MF,Rio Ave,PO1
+Andreas Albers,DEN,FW,St. Pauli,L1
+Troy Parrott,IRL,FW,AZ Alkmaar,NL1
+Maxwel Cornet,CIV,FW,Genoa,IT1
+Moura,POR,"DF,MF",Porto,PO1
+Edoardo Goldaniga,ITA,DF,Como,IT1
+Amar Dedic,BIH,DF,Marseille,FR1
+Frank Onyeka,NGA,MF,Augsburg,L1
+Jhon Cordoba,COL,FW,Krasnodar,RU1
+Harry Maguire,ENG,DF,Manchester Utd,GB1
+Mattia De Sciglio,ITA,DF,Empoli,IT1
+Almugera Kabar,GER,DF,Dortmund,L1
+Albert Sambi Lokonga,BEL,MF,Sevilla,ES1
+Teun Koopmeiners,NED,"MF,FW",Juventus,IT1
+Dmitri Barinov,RUS,MF,Loko Moscow,RU1
+Danilo,BRA,"MF,FW",Nott'ham Forest,GB1
+Lukas Kubler,GER,DF,Freiburg,L1
+Rodrigo De Paul,ARG,MF,Atlético Madrid,ES1
+Ewoud Pletinckx,BEL,DF,OH Leuven,BE1
+Davy Klaassen,NED,MF,Ajax,NL1
+Stefan Mitrovic,SRB,"FW,MF",OH Leuven,BE1
+Ismael Gharbi,TUN,"FW,MF",Braga,PO1
+Zalimkhan Yusupov,RUS,MF,D'mo Makhachkala,RU1
+Lewis Hall,ENG,DF,Newcastle Utd,GB1
+Miguel Almiron,PAR,FW,Newcastle Utd,GB1
+Henok Teklab,GER,"DF,FW",Union SG,BE1
+Thomas Bruns,NED,"MF,FW",Heracles Almelo,NL1
