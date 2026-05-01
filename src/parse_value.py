@@ -121,7 +121,6 @@ for country in leagues:
         df = df[['Игрок(и)', 'Стоимость']]
         df = df.rename(columns={'Игрок(и)':'Player', 'Стоимость':'Value'})
         df['Player'] = df['Player'].str.replace(r'[А-ЯЁа-яё\.]', '', regex=True)
-        # df['Player'] = df['Player'].str.replace('\s$', '', regex=True)
         df['Value'] = df['Value'].str.replace(',', '.')
         df['Value'] = df['Value'].str.replace(r'(\d+(?:\.\d+)?)\s*(тыс|млн)\s*€', convert_to_millions, regex=True)
         df['Value'] = df['Value'].str.replace('-', '0')
@@ -136,13 +135,13 @@ for country in leagues:
         print(df.info())
 
         if i == 0:
-            df.to_csv(f'csv/values/{leagues[country]}_players_values_24-25.csv', index=False)
+            df.to_csv(f'../data/raw/values/{leagues[country]}_players_values_24-25.csv', index=False)
         else:
-            values = pd.read_csv(f'csv/values/{leagues[country]}_players_values_24-25.csv')
+            values = pd.read_csv(f'../data/raw/values/{leagues[country]}_players_values_24-25.csv')
             values = pd.concat([values, df])
-            values.to_csv(f'csv/values/{leagues[country]}_players_values_24-25.csv', index=False)
+            values.to_csv(f'../data/raw/values/{leagues[country]}_players_values_24-25.csv', index=False)
 
         time.sleep(15)
     values = values.drop_duplicates()
     print(values)
-    values.to_csv(f'csv/values/{leagues[country]}_players_values_24-25.csv', index=False)
+    values.to_csv(f'../data/raw/values/{leagues[country]}_players_values_24-25.csv', index=False)
