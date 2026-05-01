@@ -1,0 +1,786 @@
+Player,Value,Squad
+Thibaut Courtois,20.0,Real Madrid
+Andriy Lunin,18.0,Real Madrid
+Fran González,0.4,Real Madrid
+Sergio Mestre,0.05,Real Madrid
+Dean Huijsen,60.0,Real Madrid
+Raúl Asencio,40.0,Real Madrid
+Éder Militão,30.0,Real Madrid
+Antonio Rüdiger,20.0,Real Madrid
+David Alaba,6.0,Real Madrid
+Jacobo Ramón,1.0,Real Madrid
+Diego Aguado,1.0,Real Madrid
+Jesús Vallejo,1.0,Real Madrid
+Víctor Valdepeñas,0.5,Real Madrid
+Mario Rivas,0.3,Real Madrid
+Fran García,18.0,Real Madrid
+Ferland Mendy,14.0,Real Madrid
+Youssef Enríquez,0.5,Real Madrid
+Trent Alexander-Arnold,75.0,Real Madrid
+Daniel Carvajal,8.0,Real Madrid
+Lucas Vázquez,3.0,Real Madrid
+David Jiménez,0.4,Real Madrid
+Jesús Fortea,0.2,Real Madrid
+Lorenzo Aguado,0.1,Real Madrid
+Aurélien Tchouaméni,75.0,Real Madrid
+Mario Martín,1.5,Real Madrid
+Chema Andrés,0.8,Real Madrid
+Federico Valverde,130.0,Real Madrid
+Eduardo Camavinga,60.0,Real Madrid
+Dani Ceballos,10.0,Real Madrid
+Luka Modrić,4.0,Real Madrid
+Jude Bellingham,180.0,Real Madrid
+Arda Güler,45.0,Real Madrid
+Pol Fortuny,0.4,Real Madrid
+Vinicius Junior,170.0,Real Madrid
+Víctor Muñoz,1.0,Real Madrid
+Hugo de Llanos,0.2,Real Madrid
+Rodrygo,90.0,Real Madrid
+Brahim Díaz,40.0,Real Madrid
+Daniel Yáñez,0.15,Real Madrid
+Kylian Mbappé,180.0,Real Madrid
+Endrick,35.0,Real Madrid
+Gonzalo García,8.0,Real Madrid
+Marc-André ter Stegen,12.0,Barcelona
+Iñaki Peña,8.0,Barcelona
+Wojciech Szczesny,1.0,Barcelona
+Ander Astralaga,0.8,Barcelona
+Diego Kochen,0.5,Barcelona
+Áron Yaakobishvili,0.3,Barcelona
+Pau Cubarsí,80.0,Barcelona
+Ronald Araujo,35.0,Barcelona
+Eric García,18.0,Barcelona
+Andreas Christensen,12.0,Barcelona
+Iñigo Martínez,5.0,Barcelona
+Sergi Domínguez,1.0,Barcelona
+Alexis Olmedo,0.2,Barcelona
+Andrés Cuenca,0.2,Barcelona
+Álvaro Cortés,0.15,Barcelona
+Alejandro Balde,60.0,Barcelona
+Gerard Martín,12.0,Barcelona
+Álex Valle,6.0,Barcelona
+Jules Koundé,65.0,Barcelona
+Héctor Fort,10.0,Barcelona
+Landry Farré,0.3,Barcelona
+Marc Casadó,30.0,Barcelona
+Marc Bernal,5.0,Barcelona
+Pedri,140.0,Barcelona
+Gavi,60.0,Barcelona
+Frenkie de Jong,45.0,Barcelona
+Guille Fernández,3.0,Barcelona
+Dani Olmo,60.0,Barcelona
+Fermín López,50.0,Barcelona
+Pablo Torre,6.0,Barcelona
+Noah Darvich,2.0,Barcelona
+Raphinha,90.0,Barcelona
+Ansu Fati,5.0,Barcelona
+Lamine Yamal,200.0,Barcelona
+Toni Fernández,3.0,Barcelona
+Dani Rodríguez,0.2,Barcelona
+Ferran Torres,40.0,Barcelona
+Robert Lewandowski,12.0,Barcelona
+Pau Víctor,4.0,Barcelona
+Jan Oblak,20.0,Atlético Madrid
+Juan Musso,3.5,Atlético Madrid
+Horațiu Moldovan,2.2,Atlético Madrid
+Alejandro Iturbe,2.0,Atlético Madrid
+Antonio Gomis,0.15,Atlético Madrid
+Robin Le Normand,40.0,Atlético Madrid
+José María Giménez,20.0,Atlético Madrid
+Clément Lenglet,7.5,Atlético Madrid
+César Azpilicueta,1.5,Atlético Madrid
+Ilias Kostis,0.5,Atlético Madrid
+Gerónimo Spina,0.2,Atlético Madrid
+Reinildo Mandava,5.0,Atlético Madrid
+Javi Galán,4.0,Atlético Madrid
+Marcos Llorente,25.0,Atlético Madrid
+Nahuel Molina,20.0,Atlético Madrid
+Santiago Mouriño,3.0,Atlético Madrid
+Carlos Giménez,0.25,Atlético Madrid
+Arthur Vermeeren,22.0,Atlético Madrid
+Axel Witsel,2.0,Atlético Madrid
+Pablo Barrios,55.0,Atlético Madrid
+Conor Gallagher,40.0,Atlético Madrid
+Rodrigo De Paul,25.0,Atlético Madrid
+Koke,8.0,Atlético Madrid
+Javi Serrano,0.7,Atlético Madrid
+Aitor Gismera,0.25,Atlético Madrid
+Thomas Lemar,5.0,Atlético Madrid
+Rayane Belaid,0.6,Atlético Madrid
+Samuel Lino,22.0,Atlético Madrid
+Rodrigo Riquelme,12.0,Atlético Madrid
+Carlos Martín,2.8,Atlético Madrid
+Marcos Paulo,0.45,Atlético Madrid
+Giuliano Simeone,35.0,Atlético Madrid
+Ángel Correa,10.0,Atlético Madrid
+Germán Valera,1.5,Atlético Madrid
+Víctor Mollejo,0.3,Atlético Madrid
+Antoine Griezmann,18.0,Atlético Madrid
+Julián Alvarez,100.0,Atlético Madrid
+Alexander Sørloth,25.0,Atlético Madrid
+Omar Janneh,1.0,Atlético Madrid
+Adrián Niño,0.8,Atlético Madrid
+Borja Garcés,0.3,Atlético Madrid
+Unai Simón,28.0,Athletic Club
+Julen Agirrezabala,15.0,Athletic Club
+Álex Padilla,3.0,Athletic Club
+Oier Gastesi,0.15,Athletic Club
+Dani Vivian,40.0,Athletic Club
+Aitor Paredes,22.0,Athletic Club
+Yeray Álvarez,7.0,Athletic Club
+Unai Núñez,3.0,Athletic Club
+Unai Egiluz,0.6,Athletic Club
+Aimar Duñabeitia,0.15,Athletic Club
+Ander Izagirre,0.05,Athletic Club
+Adama Boiro,2.5,Athletic Club
+Yuri Berchiche,1.4,Athletic Club
+Andoni Gorosabel,5.0,Athletic Club
+Iñigo Lekue,2.0,Athletic Club
+Óscar de Marcos,1.5,Athletic Club
+Mikel Vesga,2.5,Athletic Club
+Mikel Jauregizar,30.0,Athletic Club
+Beñat Prados,18.0,Athletic Club
+Iñigo Ruiz de Galarreta,3.0,Athletic Club
+Ander Herrera,0.8,Athletic Club
+Alejandro Rego,0.3,Athletic Club
+Oihan Sancet,60.0,Athletic Club
+Unai Gómez,6.0,Athletic Club
+Peio Canales,1.0,Athletic Club
+Nico Williams,70.0,Athletic Club
+Álex Berenguer,9.0,Athletic Club
+Álvaro Djaló,5.0,Athletic Club
+Nico Serrano,1.2,Athletic Club
+Iker Varela,0.3,Athletic Club
+Iñaki Williams,15.0,Athletic Club
+Adu Ares,1.6,Athletic Club
+Aingeru Olabarrieta,0.5,Athletic Club
+Endika Buján,0.3,Athletic Club
+Maroan Sannadi,10.0,Athletic Club
+Gorka Guruzeta,9.0,Athletic Club
+Javi Martón,0.5,Athletic Club
+Álex Remiro,18.0,Real Sociedad
+Unai Marrero,0.6,Real Sociedad
+Aitor Fraga,0.5,Real Sociedad
+Egoitz Arana,0.05,Real Sociedad
+Nayef Aguerd,18.0,Real Sociedad
+Igor Zubeldia,12.0,Real Sociedad
+Jon Martín,8.0,Real Sociedad
+Jon Pacheco,6.0,Real Sociedad
+Aritz Elustondo,3.0,Real Sociedad
+Luken Beitia,0.3,Real Sociedad
+Sergio Gómez,20.0,Real Sociedad
+Javi López,7.5,Real Sociedad
+Aihen Muñoz,4.0,Real Sociedad
+Jon Balda,0.3,Real Sociedad
+Jon Aramburu,15.0,Real Sociedad
+Hamari Traoré,2.0,Real Sociedad
+Álvaro Odriozola,1.0,Real Sociedad
+Iñaki Rupérez,0.3,Real Sociedad
+Martín Zubimendi,60.0,Real Sociedad
+Urko González de Zárate,5.0,Real Sociedad
+Luka Sucic,15.0,Real Sociedad
+Beñat Turrientes,10.0,Real Sociedad
+Jon Ander Olasagasti,4.0,Real Sociedad
+Mikel Rodriguez,0.25,Real Sociedad
+Brais Méndez,22.0,Real Sociedad
+Arsen Zakharyan,9.0,Real Sociedad
+Pablo Marín,8.0,Real Sociedad
+Jon Magunazelaia,0.6,Real Sociedad
+Mikel Goti,0.4,Real Sociedad
+Ander Barrenetxea,15.0,Real Sociedad
+Sheraldo Becker,2.5,Real Sociedad
+Arkaitz Mariezkurrena,0.7,Real Sociedad
+Alex Marchal,0.5,Real Sociedad
+Takefusa Kubo,30.0,Real Sociedad
+Dani Díaz,0.3,Real Sociedad
+Mikel Oyarzabal,25.0,Real Sociedad
+Orri Óskarsson,15.0,Real Sociedad
+Umar Sadiq,5.0,Real Sociedad
+Ekain Orobengoa,0.25,Real Sociedad
+Rui Silva,7.0,Betis
+Fran Vieites,2.0,Betis
+Adrián,0.5,Betis
+Guilherme Fernandes,0.15,Betis
+Germán García,0.05,Betis
+Manu González,0.0,Betis
+Natan,9.0,Betis
+Diego Llorente,6.0,Betis
+Nobel Mendy,4.0,Betis
+Marc Bartra,1.0,Betis
+Sergio Arribas,0.4,Betis
+Rudy Kohon,0.4,Betis
+Romain Perraud,5.0,Betis
+Ricardo Rodríguez,2.0,Betis
+Lucas Alcázar,0.3,Betis
+Xavi Pleguezuelo,0.1,Betis
+Ángel Ortiz,2.5,Betis
+Héctor Bellerín,2.0,Betis
+Youssouf Sabaly,1.8,Betis
+Pablo Busto,0.3,Betis
+Marc Roca,6.0,Betis
+William Carvalho,1.5,Betis
+Carlos Guirao,0.3,Betis
+Johnny Cardoso,25.0,Betis
+Sergi Altimira,15.0,Betis
+Pablo Fornals,6.0,Betis
+Mateo Flores,1.0,Betis
+Giovani Lo Celso,15.0,Betis
+Nabil Fekir,7.0,Betis
+Isco,6.0,Betis
+Dani Pérez,0.5,Betis
+Carlos Reina,0.3,Betis
+Assane Diao,30.0,Betis
+Jesús Rodríguez,30.0,Betis
+Abde Ezzalzouli,12.0,Betis
+Juanmi,2.0,Betis
+Antony,35.0,Betis
+Pablo García,5.0,Betis
+Aitor Ruibal,3.5,Betis
+Rodri Sánchez,2.7,Betis
+Iker Losada,1.5,Betis
+Vitor Roque,20.0,Betis
+Cucho Hernández,18.0,Betis
+Chimy Ávila,2.0,Betis
+Cédric Bakambu,1.5,Betis
+Marcos Fernández,0.4,Betis
+Luiz Júnior,10.0,Villarreal
+Diego Conde,7.5,Villarreal
+Iker Álvarez,0.8,Villarreal
+Rubén Gómez,0.1,Villarreal
+Logan Costa,18.0,Villarreal
+Juan Foyth,15.0,Villarreal
+Willy Kambwala,4.0,Villarreal
+Eric Bailly,2.0,Villarreal
+Raúl Albiol,1.0,Villarreal
+Antonio Espigares,0.5,Villarreal
+Jean Ives Valou,0.2,Villarreal
+Sergi Cardona,10.0,Villarreal
+Alfonso Pedraza,2.5,Villarreal
+Juan Bernat,2.0,Villarreal
+Arnau Solà,0.4,Villarreal
+Pau Navarro,3.0,Villarreal
+Kiko Femenía,0.9,Villarreal
+Pape Gueye,15.0,Villarreal
+Santi Comesaña,8.0,Villarreal
+Ramón Terrats,4.0,Villarreal
+Dani Parejo,1.5,Villarreal
+Dani Requena,0.4,Villarreal
+Thiago Ojeda,0.25,Villarreal
+Alassane Diatta,0.2,Villarreal
+Denis Suárez,1.2,Villarreal
+Álex Baena,55.0,Villarreal
+Arnaut Danjuma,4.0,Villarreal
+Yéremy Pino,30.0,Villarreal
+Ilias Akhomach,15.0,Villarreal
+Tajon Buchanan,6.0,Villarreal
+Nicolas Pépé,6.0,Villarreal
+Thierno Barry,20.0,Villarreal
+Ayoze Pérez,10.0,Villarreal
+Karl Etta Eyong,5.0,Villarreal
+Gerard Moreno,4.0,Villarreal
+Pau Cabanes,0.8,Villarreal
+Giorgi Mamardashvili,30.0,Valencia
+Stole Dimitrievski,2.5,Valencia
+Jaume Doménech,0.4,Valencia
+Vicent Abril,0.2,Valencia
+Raúl Jiménez,0.0,Valencia
+Cristhian Mosquera,30.0,Valencia
+César Tárrega,10.0,Valencia
+Yarek Gasiorowski,7.5,Valencia
+Mouctar Diakhaby,2.0,Valencia
+Cenk Özkacar,1.2,Valencia
+Maximiliano Caufriez,1.0,Valencia
+Álex Serradell,0.15,Valencia
+Iker Córdoba,0.1,Valencia
+José Gayà,9.0,Valencia
+Jesús Vázquez,3.0,Valencia
+Ro Abajas,0.1,Valencia
+Max Aarons,6.0,Valencia
+Thierry Correia,3.0,Valencia
+Dimitri Foulquier,1.5,Valencia
+Rubén Iranzo,0.3,Valencia
+Enzo Barrenechea,10.0,Valencia
+Pepelu,9.0,Valencia
+Hugo Guillamón,2.5,Valencia
+Javi Guerra,25.0,Valencia
+Pedro Alemañ,0.2,Valencia
+Lucas Núñez,0.025,Valencia
+André Almeida,10.0,Valencia
+Iván Jaime,5.0,Valencia
+Martín Tejón,0.5,Valencia
+Luis Rioja,2.0,Valencia
+Sergi Canós,1.0,Valencia
+Pablo López,0.05,Valencia
+Diego López,15.0,Valencia
+Fran Pérez,3.0,Valencia
+Germán Valera,1.5,Valencia
+David Otorbi,0.5,Valencia
+Hamza Bellari,0.1,Valencia
+Ismael Santana,0.025,Valencia
+Hugo Duro,14.0,Valencia
+Umar Sadiq,5.0,Valencia
+Dani Gómez,1.0,Valencia
+Alberto Marí,1.0,Valencia
+Rafa Mir,0.8,Valencia
+Warren Madrigal,0.4,Valencia
+Álvaro Fernández,2.0,Sevilla
+Ørjan Nyland,0.9,Sevilla
+Alberto Flores,0.3,Sevilla
+Matías Árbol,0.1,Sevilla
+Rafa Romero,0.0,Sevilla
+Loïc Badé,25.0,Sevilla
+Kike Salas,8.0,Sevilla
+Marcão,2.0,Sevilla
+Tanguy Nianzou,1.5,Sevilla
+Ramón Martínez,1.0,Sevilla
+Andrés Castrín,0.25,Sevilla
+Adrià Pedrosa,7.0,Sevilla
+Diego Hormigo,0.3,Sevilla
+Oso,0.2,Sevilla
+José Ángel Carmona,12.0,Sevilla
+Juanlu Sánchez,12.0,Sevilla
+Gonzalo Montiel,5.0,Sevilla
+Darío Benavides,0.3,Sevilla
+Jesús Navas,0.0,Sevilla
+Lucien Agoumé,8.0,Sevilla
+Nemanja Gudelj,3.0,Sevilla
+Valentín Barco,12.0,Sevilla
+Albert Sambi Lokonga,8.0,Sevilla
+Djibril Sow,7.5,Sevilla
+Saúl Ñíguez,3.0,Sevilla
+Manu Bueno,1.5,Sevilla
+Pedro Ortiz,0.6,Sevilla
+Pablo Rivera,0.2,Sevilla
+Alberto Collado,0.2,Sevilla
+Lulo Dasilva,0.15,Sevilla
+Stanis Idumbo,2.5,Sevilla
+Rubén Vargas,7.0,Sevilla
+Lucas Ocampos,6.0,Sevilla
+Chidera Ejuke,4.0,Sevilla
+Isra Domínguez,0.2,Sevilla
+Dodi Lukébakio,20.0,Sevilla
+Suso,1.5,Sevilla
+Peque Fernández,3.5,Sevilla
+Isaac Romero,6.0,Sevilla
+Akor Adams,5.0,Sevilla
+Kelechi Iheanacho,4.5,Sevilla
+Álvaro García Pascual,1.0,Sevilla
+Mateo Mejía,0.4,Sevilla
+Leandro Antonetti,0.3,Sevilla
+Pau López,2.5,Girona
+Paulo Gazzaniga,2.5,Girona
+Vladyslav Krapyvtsov,0.2,Girona
+Juan Carlos,0.1,Girona
+Aleksandar Andreev,0.0,Girona
+Lucas García,0.0,Girona
+Jordi Danso,0.0,Girona
+Pau Funallet,0.0,Girona
+Ladislav Krejci,12.0,Girona
+Alejandro Francés,2.0,Girona
+Daley Blind,1.5,Girona
+David López,1.0,Girona
+Juanpe,0.6,Girona
+Oriol Comas,0.0,Girona
+Antal Yaakobishvili,0.0,Girona
+Marc Aznar,0.0,Girona
+Miguel Gutiérrez,20.0,Girona
+Arnau Martínez,10.0,Girona
+Ferran Ruiz,0.0,Girona
+Arthur Melo,5.0,Girona
+Oriol Romeu,1.2,Girona
+Selvi Clua,0.3,Girona
+Yangel Herrera,15.0,Girona
+Donny van de Beek,5.0,Girona
+Jhon Solís,2.5,Girona
+Enric García,0.0,Girona
+Raúl Martínez,0.0,Girona
+Iván Martín,6.0,Girona
+Gabriel Misehouy,1.0,Girona
+Ricard Artero,0.0,Girona
+Bryan Gil,15.0,Girona
+Arnaut Danjuma,4.0,Girona
+Joel Roca,1.0,Girona
+Toni Villa,0.8,Girona
+Min-su Kim,0.3,Girona
+Juan Arango,0.0,Girona
+Jastin Garcia,0.0,Girona
+Viktor Tsygankov,18.0,Girona
+Yáser Asprilla,15.0,Girona
+Portu,1.8,Girona
+Iker Almena,1.3,Girona
+Papa Ba,0.0,Girona
+Abel Ruiz,4.0,Girona
+Bojan Miovski,2.5,Girona
+Cristhian Stuani,1.0,Girona
+Dawda Camara,0.0,Girona
+Iván Villar,0.9,Celta Vigo
+Vicente Guaita,0.7,Celta Vigo
+Marc Vidal,0.3,Celta Vigo
+Coke Carrillo,0.2,Celta Vigo
+César Fernández,0.2,Celta Vigo
+Javi Rodríguez,15.0,Celta Vigo
+Carl Starfelt,6.0,Celta Vigo
+Carlos Domínguez,3.0,Celta Vigo
+Marcos Alonso,1.5,Celta Vigo
+Joseph Aidoo,1.2,Celta Vigo
+Yoel Lago,1.0,Celta Vigo
+Mihailo Ristic,0.9,Celta Vigo
+Tincho Conde,0.3,Celta Vigo
+Óscar Mingueza,20.0,Celta Vigo
+Sergio Carreira,4.0,Celta Vigo
+Javier Manquillo,1.0,Celta Vigo
+Damián Rodríguez,3.0,Celta Vigo
+Jailson,1.0,Celta Vigo
+Fran Beltrán,8.0,Celta Vigo
+Ilaix Moriba,6.0,Celta Vigo
+Hugo Sotelo,4.0,Celta Vigo
+Luca de la Torre,2.0,Celta Vigo
+Miguel Román,0.4,Celta Vigo
+Fer López,5.0,Celta Vigo
+Hugo Álvarez,7.5,Celta Vigo
+Alfon González,5.0,Celta Vigo
+Williot Swedberg,5.0,Celta Vigo
+Jonathan Bamba,3.5,Celta Vigo
+Franco Cervi,0.8,Celta Vigo
+Tadeo Allende,2.0,Celta Vigo
+Jones El-Abdellaoui,1.5,Celta Vigo
+Iker Losada,1.5,Celta Vigo
+Anastasios Douvikas,10.0,Celta Vigo
+Pablo Durán,3.5,Celta Vigo
+Borja Iglesias,3.0,Celta Vigo
+Iago Aspas,2.0,Celta Vigo
+Dinko Horkas,1.2,Las Palmas
+Jasper Cillessen,0.8,Las Palmas
+Álvaro Killane,0.0,Las Palmas
+Victor Puig,0.0,Las Palmas
+Israel Mora,0.0,Las Palmas
+Mika Mármol,10.0,Las Palmas
+Scott McKenna,4.0,Las Palmas
+Juanma Herzog,2.5,Las Palmas
+Andy Pelmard,2.0,Las Palmas
+Álex Suárez,1.0,Las Palmas
+Valentino Raca,0.0,Las Palmas
+Álex Muñoz,1.0,Las Palmas
+Daley Sinkgraven,0.6,Las Palmas
+Diego Martín,0.0,Las Palmas
+Viti Rozada,2.0,Las Palmas
+Marvin Park,1.2,Las Palmas
+Valentín Pezzolesi,0.1,Las Palmas
+Dário Essugo,20.0,Las Palmas
+Stefan Bajcetic,9.0,Las Palmas
+Javi Muñoz,2.0,Las Palmas
+Enzo Loiodice,1.2,Las Palmas
+José Campaña,0.9,Las Palmas
+Fabio González,0.5,Las Palmas
+Aboubacar Bassinga,0.1,Las Palmas
+Kirian Rodríguez,1.0,Las Palmas
+Iván Gil,0.8,Las Palmas
+Sergio Viera,0.0,Las Palmas
+Josito González,0.0,Las Palmas
+Alberto Moleiro,25.0,Las Palmas
+Benito Ramírez,0.7,Las Palmas
+Sergio Ruiz,0.0,Las Palmas
+Arturo Rodríguez,0.0,Las Palmas
+Manu Fuster,1.5,Las Palmas
+Adnan Januzaj,1.2,Las Palmas
+Pejiño,0.8,Las Palmas
+Saliou Mandiang,0.0,Las Palmas
+Fábio Silva,20.0,Las Palmas
+Oli McBurnie,2.5,Las Palmas
+Sandro Ramírez,2.5,Las Palmas
+Marc Cardona,0.8,Las Palmas
+Jaime Mata,0.4,Las Palmas
+Elías Romero,0.0,Las Palmas
+Joan García,25.0,Espanyol
+Fernando Pacheco,0.8,Espanyol
+Ángel Fortuño,0.3,Espanyol
+Pol Tristán,0.1,Espanyol
+Llorenç Serred,0.025,Espanyol
+Marash Kumbulla,7.5,Espanyol
+Fernando Calero,1.5,Espanyol
+Leandro Cabrera,1.0,Espanyol
+Sergi Gómez,0.6,Espanyol
+José Luis Català,0.15,Espanyol
+Pablo Ramón,0.1,Espanyol
+Roger Hinojo,0.05,Espanyol
+Carlos Romero,5.0,Espanyol
+Brian Oliván,1.8,Espanyol
+Omar El Hilali,15.0,Espanyol
+Álvaro Tejero,1.8,Espanyol
+José Ángel López,0.15,Espanyol
+Urko González de Zárate,5.0,Espanyol
+Alex Král,6.0,Espanyol
+Pol Lozano,5.0,Espanyol
+Edu Expósito,3.0,Espanyol
+José Gragera,2.0,Espanyol
+Álvaro Aguado,1.8,Espanyol
+Justin Smith,0.3,Espanyol
+Rafel Bauzà,0.2,Espanyol
+Javi Puado,10.0,Espanyol
+Naci Ünüvar,2.0,Espanyol
+Pere Milla,1.2,Espanyol
+Alex Almansa,0.2,Espanyol
+Jofre Carreras,3.0,Espanyol
+Antoniu Roca,1.8,Espanyol
+Salvi Sánchez,0.6,Espanyol
+Roberto Fernández,6.0,Espanyol
+Irvin Cardona,2.5,Espanyol
+Alejo Veliz,2.5,Espanyol
+Walid Cheddira,2.5,Espanyol
+Omar Sadik,0.5,Espanyol
+Sergio Herrera,3.0,Osasuna
+Aitor Fernández,0.7,Osasuna
+Pablo Valencia,0.2,Osasuna
+Dimitrios Stamatakis,0.2,Osasuna
+Rafa Fernández,0.025,Osasuna
+Enzo Boyomo,20.0,Osasuna
+Jorge Herrando,4.0,Osasuna
+Alejandro Catena,3.0,Osasuna
+Unai García,0.8,Osasuna
+Ismael Sierra,0.2,Osasuna
+Abel Bretones,4.0,Osasuna
+Juan Cruz,1.5,Osasuna
+Jesús Areso,12.0,Osasuna
+Nacho Vidal,1.8,Osasuna
+Rubén Peña,1.2,Osasuna
+Iñigo Arguibide,0.2,Osasuna
+Lucas Torró,3.0,Osasuna
+Iker Muñoz,3.0,Osasuna
+Jon Moncayola,7.0,Osasuna
+Pablo Ibáñez,2.0,Osasuna
+Asier Osambela,0.5,Osasuna
+Aimar Oroz,15.0,Osasuna
+Javi Martínez,0.8,Osasuna
+Jon García,0.3,Osasuna
+Bryan Zaragoza,12.0,Osasuna
+Moi Gómez,2.0,Osasuna
+José Manuel Arnáiz,1.5,Osasuna
+Rubén García,2.0,Osasuna
+Iker Benito,1.5,Osasuna
+Kike Barja,1.5,Osasuna
+Ante Budimir,5.0,Osasuna
+Raúl García,3.0,Osasuna
+Sixtus Ogbuehi,0.2,Osasuna
+Carlos Lumbreras,0.15,Osasuna
+Antonio Sivera,6.0,Alavés
+Jesús Owono,0.9,Alavés
+Adrián Rodríguez,0.2,Alavés
+Grégoire Swiderski,0.15,Alavés
+Abdel Abqar,7.5,Alavés
+Facundo Garcés,2.0,Alavés
+Moussa Diarra,1.8,Alavés
+Adrián Pica,1.2,Alavés
+Aleksandar Sedlar,0.3,Alavés
+Manu Sánchez,6.0,Alavés
+Eneko Ortiz,0.15,Alavés
+Santiago Mouriño,3.0,Alavés
+Nahuel Tenaglia,3.0,Alavés
+Hugo Novoa,1.5,Alavés
+Egoitz Muñoz,0.2,Alavés
+Alejandro Jay,0.15,Alavés
+Antonio Blanco,10.0,Alavés
+Carlos Protesoni,1.2,Alavés
+Ander Guevara,3.5,Alavés
+Jon Guridi,3.0,Alavés
+Carles Aleñá,2.5,Alavés
+Joan Jordán,2.5,Alavés
+Daouda Doumbia,0.2,Alavés
+Lander Pinillos,0.15,Alavés
+Carlos Martín,2.8,Alavés
+Luis Rioja,2.0,Alavés
+Tomás Conechny,1.8,Alavés
+Abde Rebbach,0.7,Alavés
+Carlos Vicente,10.0,Alavés
+Luka Romero,4.0,Alavés
+Julen Lartitegi,0.05,Alavés
+Stoichkov,1.5,Alavés
+Joaquín Panichelli,7.0,Alavés
+Toni Martínez,2.5,Alavés
+Asier Villalibre,1.2,Alavés
+Kike García,0.9,Alavés
+Pau Cabanes,0.8,Alavés
+David Soria,3.0,Getafe
+Jiri Letacek,2.0,Getafe
+Jorge Benito,0.025,Getafe
+Djordjije Medenica,0.0,Getafe
+Diego Ferrer,0.0,Getafe
+Omar Alderete,8.0,Getafe
+Dakonam Djené,1.8,Getafe
+Juan Berrocal,1.5,Getafe
+Domingos Duarte,0.8,Getafe
+Nabil Aberdin,0.7,Getafe
+Luca Lohr,0.15,Getafe
+Guillem Trilla,0.025,Getafe
+Juan Bernat,2.0,Getafe
+Diego Rico,1.2,Getafe
+David Argüelles,0.1,Getafe
+Gorka Rivera,0.1,Getafe
+Juan Iglesias,3.5,Getafe
+Allan Nyom,0.3,Getafe
+Ismael Bekhoucha,0.3,Getafe
+Mauro Arambarri,12.0,Getafe
+Ramón Terrats,4.0,Getafe
+Luis Milla,3.5,Getafe
+Carles Aleñá,2.5,Getafe
+John Patrick,1.2,Getafe
+Yellu Santiago,0.9,Getafe
+Alberto Risco,0.2,Getafe
+Coba da Costa,3.0,Getafe
+Juanmi,2.0,Getafe
+Abdoulaye Keita,0.2,Getafe
+Álex Sola,2.5,Getafe
+Carles Pérez,2.0,Getafe
+Peter Federico,1.2,Getafe
+Christantus Uche,15.0,Getafe
+Borja Mayoral,7.5,Getafe
+Álvaro Rodríguez,2.5,Getafe
+Bertuğ Yıldırım,2.0,Getafe
+Martín Cuéllar,0.0,Getafe
+Dominik Greif,6.0,Mallorca
+Leo Román,5.0,Mallorca
+Iván Cuéllar,0.1,Mallorca
+Pere García,0.05,Mallorca
+Martin Valjent,6.0,Mallorca
+José Copete,3.0,Mallorca
+Siebe Van der Heyden,2.5,Mallorca
+Antonio Raíllo,1.8,Mallorca
+David López,0.5,Mallorca
+Sebas Wade,0.025,Mallorca
+Johan Mojica,2.0,Mallorca
+Toni Lato,1.8,Mallorca
+Pablo Maffeo,5.0,Mallorca
+Mateu Morey,0.8,Mallorca
+Samú Costa,15.0,Mallorca
+Omar Mascarell,0.9,Mallorca
+Sergi Darder,4.0,Mallorca
+Manu Morlanes,2.5,Mallorca
+Antonio Sánchez,2.5,Mallorca
+Jan Salas,0.1,Mallorca
+Dani Rodríguez,0.8,Mallorca
+Daniel Luna,0.5,Mallorca
+Chiquinho,2.0,Mallorca
+Javi Llabrés,0.8,Mallorca
+Robert Navarro,6.0,Mallorca
+Takuma Asano,2.5,Mallorca
+Valery Fernández,2.0,Mallorca
+Vedat Muriqi,5.0,Mallorca
+Cyle Larin,3.5,Mallorca
+Abdón Prats,1.2,Mallorca
+Marc Domènech,1.0,Mallorca
+Karl Hein,3.0,Valladolid
+André Ferreira,0.7,Valladolid
+Álvaro Aceves,0.4,Valladolid
+Arnau Rafús,0.2,Valladolid
+Enzo Boyomo,20.0,Valladolid
+Juma Bah,6.0,Valladolid
+Eray Cömert,2.0,Valladolid
+David Torres,1.5,Valladolid
+Javi Sánchez,1.5,Valladolid
+Cenk Özkacar,1.2,Valladolid
+Joseph Aidoo,1.2,Valladolid
+Iago Parente,0.15,Valladolid
+Adam Aznou,4.0,Valladolid
+Henrique Silva,0.5,Valladolid
+Raúl Chasco,0.15,Valladolid
+Lucas Rosa,3.0,Valladolid
+Antonio Candela,1.8,Valladolid
+Luis Pérez,1.4,Valladolid
+Koke Iglesias,0.2,Valladolid
+Florian Grillitsch,2.0,Valladolid
+Mario Martín,1.5,Valladolid
+Stanko Juric,1.2,Valladolid
+Tamás Nikitscher,1.0,Valladolid
+César de la Hoz,0.35,Valladolid
+Kike Pérez,2.8,Valladolid
+Víctor Meseguer,1.5,Valladolid
+Ibrahim Alani,0.5,Valladolid
+Mario Maroto,0.2,Valladolid
+Adrián Verde,0.15,Valladolid
+Selim Amallah,1.6,Valladolid
+Chuki,1.5,Valladolid
+Raúl Moro,7.5,Valladolid
+Stipe Biuk,2.5,Valladolid
+Darwin Machís,0.6,Valladolid
+Kenedy,0.3,Valladolid
+Amath Ndiaye,0.9,Valladolid
+Anuar,0.9,Valladolid
+Iván Sánchez,0.6,Valladolid
+Xavi Moreno,0.25,Valladolid
+Juanmi Latasa,2.0,Valladolid
+Mamadou Sylla,1.2,Valladolid
+Marcos André,1.0,Valladolid
+Adrián Arnu,0.5,Valladolid
+Augusto Batalla,6.0,Rayo Vallecano
+Dani Cárdenas,1.8,Rayo Vallecano
+Miguel Ángel Morro,0.3,Rayo Vallecano
+Juanpe Gil,0.0,Rayo Vallecano
+Miguel Benedi,0.0,Rayo Vallecano
+Adrián Molina,0.0,Rayo Vallecano
+Abdul Mumin,5.0,Rayo Vallecano
+Florian Lejeune,2.5,Rayo Vallecano
+Pelayo Fernández,0.5,Rayo Vallecano
+Aridane Hernández,0.3,Rayo Vallecano
+Marco de las Sías,0.0,Rayo Vallecano
+Sergio Lozano,0.0,Rayo Vallecano
+Pep Chavarría,5.0,Rayo Vallecano
+Alfonso Espino,1.2,Rayo Vallecano
+Andrei Rațiu,12.0,Rayo Vallecano
+Iván Balliu,1.4,Rayo Vallecano
+Gerard Gumbau,1.5,Rayo Vallecano
+Pedro Díaz,3.0,Rayo Vallecano
+Unai López,2.5,Rayo Vallecano
+Óscar Valentín,2.5,Rayo Vallecano
+Pathé Ciss,2.0,Rayo Vallecano
+Diego Méndez,0.1,Rayo Vallecano
+James Rodríguez,2.5,Rayo Vallecano
+Randy Nteka,1.5,Rayo Vallecano
+Joni Montiel,0.8,Rayo Vallecano
+Óscar Trejo,0.5,Rayo Vallecano
+Álvaro García,2.0,Rayo Vallecano
+Jorge de Frutos,4.0,Rayo Vallecano
+Adrián Embarba,1.2,Rayo Vallecano
+Isi Palazón,3.5,Rayo Vallecano
+Sergio Camello,3.0,Rayo Vallecano
+Raúl de Tomás,0.7,Rayo Vallecano
+Sergi Guardiola,0.5,Rayo Vallecano
+Etienne Eto'o,0.2,Rayo Vallecano
+Juan Soriano,1.0,Leganés
+Marko Dmitrovic,0.8,Leganés
+Alvin Abajas,0.1,Leganés
+Guillermo Ruiz,0.0,Leganés
+Jackson Porozo,2.0,Leganés
+Jorge Sáenz,1.5,Leganés
+Sergio González,0.8,Leganés
+Matija Nastasić,0.8,Leganés
+Aritz Arambarri,0.6,Leganés
+Lalo Aguilar,0.3,Leganés
+Joao Urbáez,0.05,Leganés
+Javi Hernández,2.5,Leganés
+Enric Franquesa,1.5,Leganés
+Borna Barisic,0.8,Leganés
+Iker Bachiller,0.025,Leganés
+Valentin Rosier,3.0,Leganés
+Adrià Altimira,1.5,Leganés
+Yvan Neyou,3.0,Leganés
+Renato Tapia,2.0,Leganés
+Julián Chicco,0.5,Leganés
+Carlos Guirao,0.3,Leganés
+Seydouba Cissé,3.0,Leganés
+Darko Brasanac,0.5,Leganés
+Álex Gil,0.1,Leganés
+Fer Rodríguez,0.0,Leganés
+Hugo Solozábal,0.0,Leganés
+Óscar Rodríguez,2.0,Leganés
+Munir El Haddadi,1.5,Leganés
+Roberto López,1.0,Leganés
+Juan Cruz,5.0,Leganés
+Yan Diomande,1.5,Leganés
+Duk,1.0,Leganés
+Naim García,0.3,Leganés
+Piri,0.0,Leganés
+Adrián Rosell,0.0,Leganés
+Dani Raba,2.5,Leganés
+Sébastien Haller,3.0,Leganés
+Miguel de la Fuente,2.0,Leganés
+Diego García,1.5,Leganés
+Suleiman El Haddadi,0.0,Leganés

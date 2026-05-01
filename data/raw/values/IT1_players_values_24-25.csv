@@ -1,0 +1,862 @@
+Player,Value,Squad
+Josep Martínez,12.0,Inter
+Yann Sommer,4.0,Inter
+Alessandro Calligaris,0.35,Inter
+Raffaele Di Gennaro,0.3,Inter
+Alain Taho,0.0,Inter
+Alessandro Bastoni,80.0,Inter
+Yann Bisseck,35.0,Inter
+Benjamin Pavard,25.0,Inter
+Stefan de Vrij,5.0,Inter
+Tomás Palacios,4.0,Inter
+Francesco Acerbi,3.0,Inter
+Christos Alexiou,0.8,Inter
+Alessandro Fontanarosa,0.7,Inter
+Gabriele Re Cecconi,0.7,Inter
+Federico Dimarco,50.0,Inter
+Carlos Augusto,26.0,Inter
+Matteo Cocchi,1.5,Inter
+Matteo Motta,0.2,Inter
+Denzel Dumfries,35.0,Inter
+Matteo Darmian,2.5,Inter
+Mike Aidoo,0.5,Inter
+Hakan Çalhanoğlu,30.0,Inter
+Kristjan Asllani,13.0,Inter
+Mattia Zanchetta,0.45,Inter
+Nicolò Barella,75.0,Inter
+Davide Frattesi,35.0,Inter
+Petar Sučić,14.0,Inter
+Piotr Zieliński,10.0,Inter
+Henrikh Mkhitaryan,4.0,Inter
+Thomas Berenbruch,1.5,Inter
+Luka Topalović,1.5,Inter
+Luis Henrique,25.0,Inter
+Nicola Zalewski,12.0,Inter
+Valentín Carboni,12.0,Inter
+Daniele Quieto,0.25,Inter
+Tajon Buchanan,6.0,Inter
+Giacomo De Pieri,1.5,Inter
+Sebastiano Esposito,8.5,Inter
+Joaquín Correa,3.0,Inter
+Lautaro Martínez,95.0,Inter
+Marcus Thuram,75.0,Inter
+Pio Esposito,25.0,Inter
+Mehdi Taremi,3.5,Inter
+Marko Arnautovic,3.0,Inter
+Matteo Spinaccè,0.75,Inter
+Matteo Lavelli,0.35,Inter
+Michele Di Gregorio,18.0,Juventus
+Mattia Perin,2.5,Juventus
+Giovanni Daffara,0.5,Juventus
+Carlo Pinsoglio,0.2,Juventus
+Giovanni Garofani,0.075,Juventus
+Bremer,50.0,Juventus
+Pierre Kalulu,28.0,Juventus
+Renato Veiga,25.0,Juventus
+Federico Gatti,24.0,Juventus
+Lloyd Kelly,16.0,Juventus
+Danilo,3.5,Juventus
+Daniele Rugani,3.0,Juventus
+Javier Gil,1.2,Juventus
+Niccolò Rizzo,0.0,Juventus
+Alfonso Montero,0.0,Juventus
+Juan Cabal,9.0,Juventus
+Jonas Rouhi,2.0,Juventus
+Riccardo Turicchia,0.7,Juventus
+Nicolò Savona,12.0,Juventus
+Alberto Costa,10.0,Juventus
+Manuel Locatelli,30.0,Juventus
+Khéphren Thuram,40.0,Juventus
+Douglas Luiz,30.0,Juventus
+Weston McKennie,22.0,Juventus
+Nicolò Fagioli,18.0,Juventus
+Augusto Owusu,0.7,Juventus
+Andrea Cambiaso,35.0,Juventus
+Filip Kostić,5.0,Juventus
+Filippo Pagnucco,0.85,Juventus
+Teun Koopmeiners,35.0,Juventus
+Vasilije Adžić,4.0,Juventus
+Christos Papadopoulos,0.7,Juventus
+Kenan Yıldız,50.0,Juventus
+Nico González,24.0,Juventus
+Samuel Mbangula,14.0,Juventus
+Francisco Conceição,28.0,Juventus
+Timothy Weah,17.0,Juventus
+Alessandro Pietrelli,0.8,Juventus
+Lorenzo Anghelè,0.7,Juventus
+Dušan Vlahović,35.0,Juventus
+Randal Kolo Muani,30.0,Juventus
+Arkadiusz Milik,2.0,Juventus
+Diego Pugno,0.3,Juventus
+Mike Maignan,25.0,Milan
+Marco Sportiello,1.0,Milan
+Lorenzo Torriani,0.5,Milan
+Noah Raveyre,0.3,Milan
+Lapo Nava,0.1,Milan
+Fikayo Tomori,20.0,Milan
+Malick Thiaw,18.0,Milan
+Strahinja Pavlović,18.0,Milan
+Matteo Gabbia,14.0,Milan
+Theo Hernández,35.0,Milan
+Davide Bartesaghi,1.8,Milan
+Álex Jiménez,15.0,Milan
+Emerson Royal,9.0,Milan
+Davide Calabria,4.5,Milan
+Kyle Walker,4.0,Milan
+Filippo Terracciano,3.2,Milan
+Alessandro Florenzi,1.0,Milan
+Youssouf Fofana,30.0,Milan
+Ismaël Bennacer,15.0,Milan
+Silvano Vos,1.4,Milan
+Tijjani Reijnders,60.0,Milan
+Yunus Musah,20.0,Milan
+Ruben Loftus-Cheek,10.0,Milan
+Warren Bondo,10.0,Milan
+Kevin Zeroli,4.0,Milan
+Alexis Saelemaekers,17.0,Milan
+Mattia Liberali,4.0,Milan
+Hugo Cuenca,0.3,Milan
+Rafael Leão,70.0,Milan
+Noah Okafor,13.0,Milan
+Riccardo Sottil,5.0,Milan
+Chaka Traorè,1.0,Milan
+Christian Pulisic,50.0,Milan
+Samuel Chukwueze,10.0,Milan
+Bob Murphy Omoregbe,0.1,Milan
+João Félix,20.0,Milan
+Santiago Gimenez,30.0,Milan
+Tammy Abraham,15.0,Milan
+Álvaro Morata,11.0,Milan
+Francesco Camarda,10.0,Milan
+Luka Jović,4.5,Milan
+Marco Carnesecchi,25.0,Atalanta
+Juan Musso,3.5,Atalanta
+Rui Patrício,0.8,Atalanta
+Paolo Vismara,0.7,Atalanta
+Matevz Dajcar,0.1,Atalanta
+Francesco Rossi,0.1,Atalanta
+Giorgio Scalvini,35.0,Atalanta
+Isak Hien,30.0,Atalanta
+Odilon Kossounou,25.0,Atalanta
+Stefan Posch,8.0,Atalanta
+Sead Kolasinac,7.0,Atalanta
+Ben Godfrey,6.0,Atalanta
+Berat Djimsiti,6.0,Atalanta
+Rafael Tolói,1.4,Atalanta
+Relja Obric,0.8,Atalanta
+Tommaso Del Lungo,0.5,Atalanta
+Pietro Comi,0.25,Atalanta
+Pietro Tornaghi,0.2,Atalanta
+Matteo Ruggeri,16.0,Atalanta
+Marco Palestra,3.5,Atalanta
+Ibrahim Sulemana,7.0,Atalanta
+Marten de Roon,5.0,Atalanta
+Éderson,50.0,Atalanta
+Mario Pasalić,10.0,Atalanta
+Marco Brescianini,8.0,Atalanta
+Lorenzo Riccio,0.95,Atalanta
+Alberto Manzoni,0.9,Atalanta
+Federico Steffanoni,0.0,Atalanta
+Raoul Bellanova,24.0,Atalanta
+Davide Zappacosta,5.0,Atalanta
+Juan Cuadrado,1.0,Atalanta
+Javison Idele,0.4,Atalanta
+Mitchel Bakker,7.0,Atalanta
+Lorenzo Bernasconi,0.8,Atalanta
+Charles De Ketelaere,35.0,Atalanta
+Lazar Samardžić,17.0,Atalanta
+Nicolò Zaniolo,12.0,Atalanta
+Daniel Maldini,10.0,Atalanta
+Federico Cassa,0.8,Atalanta
+Ademola Lookman,60.0,Atalanta
+Dominic Vavassori,1.5,Atalanta
+Mateo Retegui,45.0,Atalanta
+Gianluca Scamacca,24.0,Atalanta
+Vanja Vlahović,6.0,Atalanta
+Alex Meret,18.0,Napoli
+Elia Caprile,9.0,Napoli
+Simone Scuffet,2.0,Napoli
+Nikita Contini,0.4,Napoli
+Claudio Turi,0.15,Napoli
+Alessandro Buongiorno,50.0,Napoli
+Amir Rrahmani,12.0,Napoli
+Natan,9.0,Napoli
+Rafa Marín,7.0,Napoli
+Juan Jesus,1.5,Napoli
+Mattia Esposito,0.075,Napoli
+Mathías Olivera,20.0,Napoli
+Leonardo Spinazzola,3.5,Napoli
+Giovanni Di Lorenzo,12.0,Napoli
+Pasquale Mazzocchi,2.5,Napoli
+Stanislav Lobotka,25.0,Napoli
+Billy Gilmour,20.0,Napoli
+Francesco Gioielli,0.075,Napoli
+Scott McTominay,50.0,Napoli
+Frank Anguissa,27.0,Napoli
+Philip Billing,10.0,Napoli
+Michael Folorunsho,6.0,Napoli
+Luis Hasa,1.0,Napoli
+Gennaro Iaccarino,0.3,Napoli
+Coli Saco,0.25,Napoli
+Alessio Zerbin,4.0,Napoli
+Francesco Mezzoni,0.2,Napoli
+Gianluca Gaetano,4.0,Napoli
+Khvicha Kvaratskhelia,90.0,Napoli
+Noah Okafor,13.0,Napoli
+David Neres,30.0,Napoli
+Matteo Politano,10.0,Napoli
+Cyril Ngonge,8.0,Napoli
+Giacomo Raspadori,25.0,Napoli
+Romelu Lukaku,22.0,Napoli
+Giovanni Simeone,5.0,Napoli
+Walid Cheddira,2.5,Napoli
+Mile Svilar,25.0,Roma
+Mathew Ryan,2.5,Roma
+Pierluigi Gollini,1.0,Roma
+Renato Marin,0.5,Roma
+Giorgio De Marzi,0.0,Roma
+Alessio Marcaccini,0.0,Roma
+Evan Ndicka,30.0,Roma
+Gianluca Mancini,15.0,Roma
+Victor Nelsson,10.0,Roma
+Mario Hermoso,7.0,Roma
+Mats Hummels,2.0,Roma
+Chris Smalling,1.5,Roma
+Federico Nardin,0.0,Roma
+Angeliño,20.0,Roma
+Anass Salah-Eddine,8.0,Roma
+Samuel Dahl,7.0,Roma
+Devyne Rensch,10.0,Roma
+Zeki Çelik,6.0,Roma
+Saud Abdulhamid,3.0,Roma
+Buba Sangaré,1.0,Roma
+Lucas Gourna-Douath,8.0,Roma
+Bryan Cristante,7.0,Roma
+Leandro Paredes,5.0,Roma
+Alessandro Romano,0.5,Roma
+Manu Koné,40.0,Roma
+Enzo Le Fée,18.0,Roma
+Niccolò Pisilli,13.0,Roma
+Edoardo Bove,5.0,Roma
+Alexis Saelemaekers,17.0,Roma
+Nicola Zalewski,12.0,Roma
+Tommaso Baldanzi,12.0,Roma
+Lorenzo Pellegrini,9.0,Roma
+Stephan El Shaarawy,3.5,Roma
+Matías Soulé,30.0,Roma
+João Costa,2.8,Roma
+Paulo Dybala,8.0,Roma
+Artem Dovbyk,30.0,Roma
+Tammy Abraham,15.0,Roma
+Eldor Shomurodov,5.0,Roma
+David de Gea,5.0,Fiorentina
+Tommaso Martinelli,1.8,Fiorentina
+Pietro Terracciano,1.0,Fiorentina
+Pietro Leonardelli,0.125,Fiorentina
+Pietro Comuzzo,25.0,Fiorentina
+Luca Ranieri,12.0,Fiorentina
+Marin Pongracic,10.0,Fiorentina
+Lucas Martínez Quarta,7.0,Fiorentina
+Nicolás Valentini,6.0,Fiorentina
+Pablo Marí,3.5,Fiorentina
+Matías Moreno,3.4,Fiorentina
+Eddy Kouadio,0.275,Fiorentina
+Leonardo Baroncelli,0.2,Fiorentina
+Lorenzo Romani,0.125,Fiorentina
+Niccolò Fortini,8.5,Fiorentina
+Robin Gosens,8.0,Fiorentina
+Fabiano Parisi,6.0,Fiorentina
+Cristiano Biraghi,1.8,Fiorentina
+Dodô,24.0,Fiorentina
+Michael Kayode,18.0,Fiorentina
+Sofyan Amrabat,17.0,Fiorentina
+Rolando Mandragora,12.0,Fiorentina
+Yacine Adli,11.0,Fiorentina
+Danilo Cataldi,3.5,Fiorentina
+Nicolò Fagioli,18.0,Fiorentina
+Amir Richardson,8.5,Fiorentina
+Michael Folorunsho,6.0,Fiorentina
+Alessandro Bianco,5.0,Fiorentina
+Edoardo Bove,5.0,Fiorentina
+Cher Ndour,5.0,Fiorentina
+Gino Infantino,2.0,Fiorentina
+Jonas Harder,0.9,Fiorentina
+Lucas Beltrán,18.0,Fiorentina
+Nicolò Zaniolo,12.0,Fiorentina
+Andrea Colpani,9.5,Fiorentina
+Antonín Barák,2.5,Fiorentina
+Tommaso Rubino,1.2,Fiorentina
+Riccardo Sottil,5.0,Fiorentina
+Josip Brekalo,3.3,Fiorentina
+Maat Daniel Caprini,2.0,Fiorentina
+Jonathan Ikoné,7.0,Fiorentina
+Albert Gudmundsson,18.0,Fiorentina
+Moise Kean,50.0,Fiorentina
+Christian Kouamé,4.0,Fiorentina
+Lukasz Skorupski,2.5,Bologna
+Federico Ravaglia,1.5,Bologna
+Nicola Bagnolini,0.2,Bologna
+Massimo Pessina,0.0,Bologna
+Sam Beukema,28.0,Bologna
+Jhon Lucumí,22.0,Bologna
+Stefan Posch,8.0,Bologna
+Nicolò Casale,6.0,Bologna
+Martin Erlić,4.0,Bologna
+Mihajlo Ilić,3.5,Bologna
+Juan Miranda,15.0,Bologna
+Samuel Iling-Junior,10.0,Bologna
+Tommaso Corazza,1.5,Bologna
+Charalampos Lykogiannis,1.5,Bologna
+Emil Holm,8.0,Bologna
+Davide Calabria,4.5,Bologna
+Lorenzo De Silvestri,0.8,Bologna
+Nikola Moro,4.5,Bologna
+Oussama El Azzouzi,1.4,Bologna
+Andri Fannar Baldursson,0.6,Bologna
+Lewis Ferguson,28.0,Bologna
+Tommaso Pobega,9.0,Bologna
+Michel Aebischer,7.5,Bologna
+Kacper Urbanski,6.0,Bologna
+Remo Freuler,5.0,Bologna
+Naïm Byar,0.5,Bologna
+Jens Odgaard,12.0,Bologna
+Giovanni Fabbian,12.0,Bologna
+Benja Domínguez,15.0,Bologna
+Nicolò Cambiaghi,8.5,Bologna
+Jesper Karlsson,4.0,Bologna
+Estanis Pedrola,1.8,Bologna
+Tommaso Ravaglioli,0.65,Bologna
+Flavio Ferrari,0.2,Bologna
+Dan Ndoye,35.0,Bologna
+Riccardo Orsolini,25.0,Bologna
+Santiago Castro,35.0,Bologna
+Thijs Dallinga,12.0,Bologna
+Christos Mandas,10.0,Lazio
+Ivan Provedel,3.0,Lazio
+Davide Renzetti,0.1,Lazio
+Alessio Furlanetto,0.05,Lazio
+Mario Gila,30.0,Lazio
+Alessio Romagnoli,7.0,Lazio
+Nicolò Casale,6.0,Lazio
+Oliver Provstgaard,3.5,Lazio
+Samuel Gigot,3.0,Lazio
+Patric,2.5,Lazio
+Filipe Bordon,0.8,Lazio
+Matteo Zazza,0.375,Lazio
+Nuno Tavares,25.0,Lazio
+Luca Pellegrini,3.0,Lazio
+Alessandro Milani,0.25,Lazio
+Manuel Lazzari,3.5,Lazio
+Adam Marusic,3.5,Lazio
+Elseid Hysaj,1.5,Lazio
+Nicolò Rovella,30.0,Lazio
+Reda Belahyane,10.0,Lazio
+Danilo Cataldi,3.5,Lazio
+Marco Nazzaro,0.125,Lazio
+Mattéo Guendouzi,32.0,Lazio
+Matías Vecino,2.0,Lazio
+Gaetano Castrovilli,1.5,Lazio
+Toma Bašić,0.8,Lazio
+Jean-Daniel Akpa Akpro,0.5,Lazio
+Leonardo Di Tommaso,0.225,Lazio
+Fisayo Dele-Bashiru,7.5,Lazio
+Arijon Ibrahimovic,4.0,Lazio
+Cristo Muñoz,0.25,Lazio
+André Anderson,0.15,Lazio
+Mattia Zaccagni,20.0,Lazio
+Gustav Isaksen,20.0,Lazio
+Loum Tchaouna,10.0,Lazio
+Tijjani Noslin,7.5,Lazio
+Pedro,1.0,Lazio
+Taty Castellanos,25.0,Lazio
+Boulaye Dia,15.0,Lazio
+Federico Serra,0.45,Lazio
+Mahamadou Baldé,0.325,Lazio
+Vanja Milinković-Savić,16.0,Torino
+Mihai Popa,0.65,Torino
+Alberto Paleari,0.5,Torino
+Francesco Plaia,0.2,Torino
+Antonio Donnarumma,0.2,Torino
+Saúl Coco,10.0,Torino
+Perr Schuurs,5.0,Torino
+Sebastian Walukiewicz,4.5,Torino
+Guillermo Maripán,4.0,Torino
+Alessandro Dellavalle,3.0,Torino
+Saba Sazonov,2.0,Torino
+Adam Masina,1.5,Torino
+Senan Mullen,0.175,Torino
+Borna Sosa,4.5,Torino
+Cristiano Biraghi,1.8,Torino
+Valentino Lazaro,4.5,Torino
+Mërgim Vojvoda,3.0,Torino
+Marcus Pedersen,3.0,Torino
+Ali Dembélé,0.9,Torino
+Côme Bianay Balcot,0.175,Torino
+Samuele Ricci,30.0,Torino
+Adrien Tamèze,2.0,Torino
+Ivan Ilić,16.0,Torino
+Cesare Casadei,15.0,Torino
+Gvidas Gineitis,6.0,Torino
+Karol Linetty,1.8,Torino
+Emirhan İlkhan,1.7,Torino
+Aaron Ciammaglichella,0.7,Torino
+Marco Dalla Vecchia,0.25,Torino
+Raoul Bellanova,24.0,Torino
+Brian Bayeye,0.3,Torino
+Edoardo Zaia,0.1,Torino
+Demyan Yesin,0.0,Torino
+Eljif Elmas,14.0,Torino
+Nikola Vlašić,8.0,Torino
+Sergiu Perciun,1.5,Torino
+Krisztofer Horváth,1.0,Torino
+Alieu Njie,2.5,Torino
+Yann Karamoh,1.8,Torino
+Alessio Cacciamani,0.5,Torino
+Zanos Savva,0.9,Torino
+Ché Adams,15.0,Torino
+Duván Zapata,3.5,Torino
+Antonio Sanabria,2.8,Torino
+Pietro Pellegri,2.0,Torino
+Amine Salama,1.5,Torino
+Tommaso Gabellini,0.8,Torino
+Alessio Raballo,0.025,Torino
+Jean Butez,3.5,Como
+Emil Audero,3.2,Como
+Pepe Reina,0.5,Como
+Mauro Vigorito,0.15,Como
+Pierre Bolchini,0.05,Como
+Alberto Dossena,8.0,Como
+Marc Oliver Kempf,3.0,Como
+Edoardo Goldaniga,3.0,Como
+Fellipe Jack,1.4,Como
+Federico Barba,0.5,Como
+Alessio Chiesa,0.075,Como
+Sven Lesjak,0.05,Como
+Raphaël Varane,0.0,Como
+Álex Valle,6.0,Como
+Alberto Moreno,1.5,Como
+Marco Sala,0.9,Como
+Ignace Van der Brempt,4.0,Como
+Mërgim Vojvoda,3.0,Como
+Ivan Smolcic,1.8,Como
+Tommaso Cassandro,0.7,Como
+William Feola,0.075,Como
+Máximo Perrone,12.0,Como
+Yannik Engelhardt,6.0,Como
+Oliver Abildgaard,1.0,Como
+Francesco Andrealli,0.0,Como
+Maxence Caqueret,16.0,Como
+Lucas Da Cunha,10.0,Como
+Luca Mazzitelli,1.5,Como
+Sergi Roberto,1.5,Como
+Matthias Braunöder,1.4,Como
+Ben Lhassine Kone,0.5,Como
+Daniele Baselli,0.3,Como
+Giuseppe Mazzaglia,0.25,Como
+Alessio Iovine,0.4,Como
+Nico Paz,35.0,Como
+Dele Alli,2.0,Como
+Simone Verdi,1.5,Como
+Naj Razi,0.3,Como
+Assane Diao,30.0,Como
+Alieu Fadera,4.5,Como
+Ali Jasim,0.55,Como
+Jonathan Ikoné,7.0,Como
+Gabriel Strefezza,6.0,Como
+Anastasios Douvikas,10.0,Como
+Patrick Cutrone,6.0,Como
+Iván Azón,3.0,Como
+Andrea Belotti,2.0,Como
+Nicholas Gioacchini,1.3,Como
+Alberto Cerri,1.0,Como
+Alessandro Gabrielloni,0.85,Como
+Federico Chinetti,0.175,Como
+Maduka Okoye,7.5,Udinese
+Răzvan Sava,2.5,Udinese
+Egil Selvik,1.5,Udinese
+Marco Silvestri,0.5,Udinese
+Daniele Padelli,0.15,Udinese
+Edoardo Piana,0.05,Udinese
+Marco Cassin,0.0,Udinese
+Oumar Solet,18.0,Udinese
+Jaka Bijol,18.0,Udinese
+Nehuén Pérez,13.0,Udinese
+Isaak Touré,7.0,Udinese
+Thomas Kristensen,6.0,Udinese
+Enzo Ebosse,2.0,Udinese
+Lautaro Giannetti,2.0,Udinese
+James Abankwah,1.0,Udinese
+Matteo Palma,1.0,Udinese
+Christian Kabasele,0.7,Udinese
+Axel Guessand,0.4,Udinese
+Jordan Zemura,4.5,Udinese
+Hassane Kamara,3.5,Udinese
+Festy Ebosele,4.6,Udinese
+Kingsley Ehizibue,2.4,Udinese
+Rui Modesto,2.0,Udinese
+Gonçalo Esteves,0.5,Udinese
+Jesper Karlström,4.0,Udinese
+Sandi Lovrić,8.5,Udinese
+Arthur Atta,8.0,Udinese
+Jurgen Ekkelenkamp,7.0,Udinese
+Martín Payero,5.5,Udinese
+Oier Zarraga,2.0,Udinese
+Lazar Samardžić,17.0,Udinese
+Simone Pafundi,5.0,Udinese
+David Pejičić,1.0,Udinese
+Florian Thauvin,5.0,Udinese
+Lorenzo Lucca,22.0,Udinese
+Brenner,4.0,Udinese
+Keinan Davis,3.4,Udinese
+Damián Pizarro,3.2,Udinese
+Iker Bravo,3.0,Udinese
+Alexis Sánchez,1.5,Udinese
+Nicola Leali,1.5,Genoa
+Pierluigi Gollini,1.0,Genoa
+Benjamin Siegrist,0.65,Genoa
+Franz Stolz,0.25,Genoa
+Daniele Sommariva,0.1,Genoa
+Koni De Winter,22.0,Genoa
+Johan Vásquez,14.0,Genoa
+Alan Matturro,7.0,Genoa
+Alessandro Vogliacco,2.8,Genoa
+Alessandro Marcandalli,2.0,Genoa
+Sebastian Otoa,2.0,Genoa
+Mattia Bani,1.8,Genoa
+Matteo Barbini,0.5,Genoa
+Tommaso Pittino,0.15,Genoa
+Aarón Martín,6.5,Genoa
+Honest Ahanor,5.0,Genoa
+Alessandro Zanoli,6.0,Genoa
+Brooke Norton-Cuffy,3.5,Genoa
+Stefano Sabelli,1.4,Genoa
+Jean Onana,1.8,Genoa
+Emil Bohinen,1.5,Genoa
+Milan Badelj,0.8,Genoa
+Morten Frendrup,20.0,Genoa
+Fabio Miretti,14.0,Genoa
+Patrizio Masini,6.0,Genoa
+Morten Thorsby,3.0,Genoa
+Lior Kassa,1.5,Genoa
+Filippo Melegoni,0.7,Genoa
+Ruslan Malinovskyi,2.5,Genoa
+Christos Papadopoulos,0.7,Genoa
+Gastón Pereiro,0.5,Genoa
+Hugo Cuenca,0.3,Genoa
+Filippo Carbone,0.2,Genoa
+Roberto Scaglione,0.0,Genoa
+Maxwel Cornet,8.0,Genoa
+Federico Accornero,0.4,Genoa
+Lysandros Papastylianou,0.05,Genoa
+Junior Messias,1.5,Genoa
+Lorenzo Venturino,1.5,Genoa
+Seydou Fini,1.3,Genoa
+Andrea Pinamonti,15.0,Genoa
+Vitinha,8.0,Genoa
+Jeff Ekhator,5.0,Genoa
+Caleb Ekuban,1.3,Genoa
+David Ankeye,0.85,Genoa
+Mario Balotelli,0.5,Genoa
+Ifenna Dorgu,0.3,Genoa
+Joi Nuredini,0.0,Genoa
+Zion Suzuki,20.0,Parma
+Edoardo Corvi,0.35,Parma
+Leandro Chichizola,0.25,Parma
+Richard Marcone,0.25,Parma
+Manuel Moretta,0.01,Parma
+Giovanni Leoni,18.0,Parma
+Alessandro Circati,8.0,Parma
+Alessandro Vogliacco,2.8,Parma
+Botond Balogh,2.4,Parma
+Yordan Osorio,1.5,Parma
+Lautaro Valenti,1.5,Parma
+Nicolas Trabucchi,0.25,Parma
+Mathias Løvik,5.0,Parma
+Emanuele Valeri,3.0,Parma
+Gianluca Di Chiara,0.25,Parma
+Enrico Delprato,6.5,Parma
+Woyo Coulibaly,2.0,Parma
+Antoine Hainaut,1.0,Parma
+Mandela Keita,12.0,Parma
+Nahuel Estévez,2.0,Parma
+Adrián Bernabé,15.0,Parma
+Simon Sohm,5.0,Parma
+Hernani,1.6,Parma
+Drissa Camara,1.5,Parma
+Wylan Cyprien,0.3,Parma
+Elia Plicco,0.25,Parma
+Jacob Ondrejka,8.0,Parma
+Adrian Benedyczak,4.5,Parma
+Valentin Mihăilă,3.0,Parma
+Dennis Man,10.0,Parma
+Matteo Cancellieri,4.5,Parma
+Pontus Almqvist,2.5,Parma
+Anas Haj Mohamed,1.8,Parma
+Anthony Partipilo,0.5,Parma
+Ange-Yoan Bonny,20.0,Parma
+Mateo Pellegrino,6.0,Parma
+Milan Djuric,1.5,Parma
+Gabriel Charpentier,1.3,Parma
+Daniel Mikolajewski,0.5,Parma
+Mateusz Kowalski,0.3,Parma
+Wladimiro Falcone,3.5,Lecce
+Christian Früchtl,1.3,Lecce
+Alexandru Borbei,0.1,Lecce
+Jasper Samooja,0.075,Lecce
+Federico Baschirotto,3.6,Lecce
+Kialonda Gaspar,3.5,Lecce
+Andy Pelmard,2.0,Lecce
+Gaby Jean,2.0,Lecce
+Tiago Gabriel,1.0,Lecce
+Kevin Bonifazi,0.75,Lecce
+Elijah Scott,0.3,Lecce
+Cristian Pehlivanov,0.2,Lecce
+Sebastian Esposito,0.2,Lecce
+Patrick Dorgu,25.0,Lecce
+Antonino Gallo,4.3,Lecce
+Marco Sala,0.9,Lecce
+Vernon Addo,0.2,Lecce
+Valentin Gendrey,7.0,Lecce
+Frédéric Guilbert,2.5,Lecce
+Danilo Veiga,1.0,Lecce
+Ylber Ramadani,1.8,Lecce
+Balthazar Pierret,1.7,Lecce
+Thórir Jóhann Helgason,3.0,Lecce
+Lassana Coulibaly,2.5,Lecce
+Mohamed Kaba,2.0,Lecce
+Medon Berisha,1.5,Lecce
+Hamza Rafia,1.4,Lecce
+Luis Hasa,1.0,Lecce
+Joan González,0.8,Lecce
+Ed McJannet,0.15,Lecce
+Filip Marchwinski,3.0,Lecce
+Rémi Oudin,1.5,Lecce
+Lameck Banda,4.5,Lecce
+Jesper Karlsson,4.0,Lecce
+Tete Morente,2.0,Lecce
+Ante Rebić,1.0,Lecce
+Nicola Sansone,0.4,Lecce
+Santiago Pierotti,4.0,Lecce
+Konan N’Dri,1.4,Lecce
+Jeppe Corfitzen,0.25,Lecce
+Dario Daka,0.1,Lecce
+Nikola Krstović,15.0,Lecce
+Rareș Burnete,0.7,Lecce
+Joel Voelkerling Persson,0.3,Lecce
+Lorenzo Montipò,2.0,Hellas Verona
+Simone Perilli,0.4,Hellas Verona
+Federico Magro,0.3,Hellas Verona
+Alessandro Berardi,0.05,Hellas Verona
+Diego Coppola,10.0,Hellas Verona
+Nicolás Valentini,6.0,Hellas Verona
+Daniele Ghilardi,5.0,Hellas Verona
+Flavius Daniliuc,2.7,Hellas Verona
+Pawel Dawidowicz,2.5,Hellas Verona
+Tobias Slotsager,2.0,Hellas Verona
+Giangiacomo Magnani,1.8,Hellas Verona
+Luan Patrick,1.0,Hellas Verona
+Yllan Okou,0.8,Hellas Verona
+Christian Corradi,0.7,Hellas Verona
+Federico Ceccherini,0.4,Hellas Verona
+Karlson Nwanege,0.2,Hellas Verona
+Domagoj Bradarić,4.0,Hellas Verona
+Martin Frese,2.0,Hellas Verona
+Jackson Tchatchoua,8.0,Hellas Verona
+Davide Faraoni,0.8,Hellas Verona
+Daniel Oyegoke,0.5,Hellas Verona
+Reda Belahyane,10.0,Hellas Verona
+Dani Silva,2.5,Hellas Verona
+Cheikh Niasse,2.5,Hellas Verona
+Suat Serdar,4.5,Hellas Verona
+Ondrej Duda,3.5,Hellas Verona
+Antoine Bernede,2.5,Hellas Verona
+Abdou Harroui,1.8,Hellas Verona
+Darko Lazović,0.8,Hellas Verona
+Tomas Suslov,6.0,Hellas Verona
+Ayanda Sishuba,1.5,Hellas Verona
+Grigoris Kastanos,1.5,Hellas Verona
+Alphadjo Cissè,1.0,Hellas Verona
+Stefan Mitrović,1.5,Hellas Verona
+Faride Alidou,1.0,Hellas Verona
+Elayis Tavsan,1.2,Hellas Verona
+Casper Tengstedt,6.0,Hellas Verona
+Amin Sarr,5.0,Hellas Verona
+Daniel Mosquera,1.5,Hellas Verona
+Mathis Lambourde,0.8,Hellas Verona
+Dailon Livramento,0.8,Hellas Verona
+Junior Ajayi,0.3,Hellas Verona
+Devis Vásquez,2.0,Empoli
+Jacopo Seghetti,1.0,Empoli
+Marco Silvestri,0.5,Empoli
+Samuele Perisan,0.4,Empoli
+Niccolò Chiorra,0.3,Empoli
+Federico Brancolini,0.2,Empoli
+Saba Goglichidze,8.0,Empoli
+Luca Marianucci,7.5,Empoli
+Ardian Ismajli,6.0,Empoli
+Mattia Viti,5.5,Empoli
+Sebastian Walukiewicz,4.5,Empoli
+Saba Sazonov,2.0,Empoli
+Gabriele Guarino,1.5,Empoli
+Lorenzo Tosto,1.2,Empoli
+Darius Fălcușan,0.3,Empoli
+Jeremy Moray,0.075,Empoli
+Dawid Bembnista,0.0,Empoli
+Liberato Cacace,3.0,Empoli
+Giuseppe Pezzella,2.5,Empoli
+Junior Sambia,1.0,Empoli
+Tyronne Ebuehi,1.0,Empoli
+Mattia De Sciglio,0.8,Empoli
+Petar Stojanović,0.75,Empoli
+Francesco Donati,0.4,Empoli
+Alberto Grassi,1.8,Empoli
+Alessio Baralla,0.0,Empoli
+Jacopo Fazzini,10.0,Empoli
+Youssef Maleh,3.2,Empoli
+Liam Henderson,2.0,Empoli
+Szymon Żurkowski,1.8,Empoli
+Jacopo Bacci,0.8,Empoli
+Luca Belardinelli,0.7,Empoli
+Nicolas Haas,0.7,Empoli
+Vincenzo Di Leva,0.05,Empoli
+Emmanuel Gyasi,1.4,Empoli
+Noah El Biache,0.2,Empoli
+Tino Anjorin,6.0,Empoli
+Viktor Kovalenko,1.0,Empoli
+Andrea Sodero,0.3,Empoli
+Ank Bølling Asmussen,0.0,Empoli
+Emmanuel Ekong,0.55,Empoli
+Ola Solbakken,2.3,Empoli
+Sebastiano Esposito,8.5,Empoli
+Lorenzo Colombo,5.0,Empoli
+Christian Kouamé,4.0,Empoli
+Pietro Pellegri,2.0,Empoli
+Stiven Shpendi,1.5,Empoli
+Thomas Campaniello,1.0,Empoli
+Ismaël Konaté,1.0,Empoli
+Brayan,0.35,Empoli
+Francesco Caputo,0.0,Empoli
+Bogdan Popov,0.0,Empoli
+Stefano Turati,6.5,Monza
+Semuel Pizzignacco,0.8,Monza
+Alessandro Sorrentino,0.5,Monza
+Andrea Mazza,0.075,Monza
+Davide Bifulco,0.05,Monza
+Andrea Vailati,0.0,Monza
+Tomás Palacios,4.0,Monza
+Pablo Marí,3.5,Monza
+Andrea Carboni,2.8,Monza
+Stefan Leković,1.7,Monza
+Armando Izzo,1.5,Monza
+Luca Caldirola,0.7,Monza
+Danilo D'Ambrosio,0.7,Monza
+Arvid Brorsson,0.6,Monza
+Davide Bettella,0.3,Monza
+Nicolò Postiglione,0.1,Monza
+Georgios Kyriakopoulos,2.5,Monza
+Samuele Birindelli,2.8,Monza
+Pedro Pereira,1.5,Monza
+Leonardo Colombo,0.25,Monza
+Warren Bondo,10.0,Monza
+Kacper Urbanski,6.0,Monza
+Matteo Pessina,6.0,Monza
+Alessandro Bianco,5.0,Monza
+Kevin Zeroli,4.0,Monza
+Gaetano Castrovilli,1.5,Monza
+Roberto Gagliardini,1.4,Monza
+Stefano Sensi,1.0,Monza
+Mattia Valoti,0.9,Monza
+Pepín Machín,0.5,Monza
+Jean-Daniel Akpa Akpro,0.5,Monza
+Alessandro Berretta,0.325,Monza
+Patrick Ciurria,1.5,Monza
+Endris Scaramelli,0.025,Monza
+Daniel Maldini,10.0,Monza
+Samuele Vignato,2.2,Monza
+Keita Baldé,0.9,Monza
+Omari Forson,2.0,Monza
+Kevin Martins,1.4,Monza
+Marco D'Alessandro,0.2,Monza
+Gianluca Caprari,1.0,Monza
+Dany Mota,4.0,Monza
+Milan Djuric,1.5,Monza
+Silvere Ganvoula,1.4,Monza
+Andrea Petagna,1.0,Monza
+Mirko Marić,0.7,Monza
+Filip Stanković,6.0,Venezia
+Ionuț Radu,2.5,Venezia
+Jesse Joronen,0.5,Venezia
+Matteo Grandi,0.1,Venezia
+Bruno Bertinato,0.0,Venezia
+Jay Idzes,7.5,Venezia
+Joël Schingtienne,3.5,Venezia
+Fali Candé,2.5,Venezia
+Michael Svoboda,2.5,Venezia
+Alessandro Marcandalli,2.0,Venezia
+Lorenzo Lucchesi,1.4,Venezia
+Giorgio Altare,1.0,Venezia
+Marin Šverko,1.0,Venezia
+Franco Carboni,1.0,Venezia
+Ridgeciano Haps,0.9,Venezia
+Richie Sagrado,2.0,Venezia
+Antonio Candela,1.8,Venezia
+Cheick Condé,1.8,Venezia
+Hans Nicolussi Caviglia,8.5,Venezia
+Gianluca Busio,6.0,Venezia
+Mikael Egill Ellertsson,3.4,Venezia
+Kike Pérez,2.8,Venezia
+Issa Doumbia,2.4,Venezia
+Alfred Duncan,1.4,Venezia
+Magnus Kofod Andersen,1.0,Venezia
+Nunzio Lella,0.7,Venezia
+Domen Crnigoj,0.5,Venezia
+Alessio Zerbin,4.0,Venezia
+Francesco Zampano,1.0,Venezia
+Alberto Chiesurin,0.025,Venezia
+Bjarki Bjarkason,0.8,Venezia
+Gaetano Oristanio,6.0,Venezia
+John Yeboah,2.8,Venezia
+Saad El Haddad,0.4,Venezia
+Marco Ladisa,0.175,Venezia
+Nicholas Pierini,3.0,Venezia
+Joel Pohjanpalo,4.5,Venezia
+Antonio Raimondo,3.8,Venezia
+Daniel Fila,3.0,Venezia
+Christian Gytkjaer,0.7,Venezia
+Mirko Marić,0.7,Venezia
+Elia Caprile,9.0,Cagliari
+Simone Scuffet,2.0,Cagliari
+Alen Sherri,1.0,Cagliari
+Velizar-Iliya Iliev,0.2,Cagliari
+Giuseppe Ciocci,0.1,Cagliari
+Henrijs Auseklis,0.075,Cagliari
+Sebastiano Luperto,4.0,Cagliari
+Pantelis Hatzidiakos,3.2,Cagliari
+Yerry Mina,3.0,Cagliari
+Adam Obert,3.0,Cagliari
+Mateusz Wieteska,2.0,Cagliari
+José Luis Palomino,0.7,Cagliari
+Nicola Pintus,0.4,Cagliari
+Andrea Cogoni,0.4,Cagliari
+Tommaso Augello,1.8,Cagliari
+Nadir Zortea,5.0,Cagliari
+Gabriele Zappa,4.0,Cagliari
+Alessandro Di Pardo,0.8,Cagliari
+Matteo Prati,6.0,Cagliari
+Antoine Makoumbou,3.5,Cagliari
+Michel Adopo,4.0,Cagliari
+Răzvan Marin,3.5,Cagliari
+Alessandro Deiola,1.6,Cagliari
+Paulo Azzi,0.8,Cagliari
+Jakub Jankto,0.8,Cagliari
+Gianluca Gaetano,4.0,Cagliari
+Nicolas Viola,1.0,Cagliari
+Gastón Pereiro,0.5,Cagliari
+Florinel Coman,5.0,Cagliari
+Mattia Felici,2.8,Cagliari
+Alessandro Vinciguerra,0.4,Cagliari
+Roberto Piccoli,12.0,Cagliari
+Zito Luvumbo,5.0,Cagliari
+Gianluca Lapadula,0.75,Cagliari
+Leonardo Pavoletti,0.7,Cagliari
+Kingstone Mutandwa,0.6,Cagliari

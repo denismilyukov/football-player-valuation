@@ -1,0 +1,35 @@
+Player,Nation,Pos,Squad,Age,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,PKsv%,Value
+Denis Adamov,RUS,GK,Zenit,26,4,3,327,3.6,5,1.38,14,9,64.3,2,0,1,1,33.3,0,0,0,0,0.0,1.0
+Stanislav Agkatsev,RUS,GK,Krasnodar,22,30,30,2700,30.0,23,0.77,98,79,77.6,20,7,3,15,50.0,4,1,3,0,75.0,7.5
+Igor Akinfeev,RUS,GK,CSKA Moscow,38,28,28,2520,28.0,21,0.75,71,53,74.6,15,8,5,12,42.9,3,3,0,0,0.0,1.0
+Rustam Yatimov,TJK,GK,Rostov,26,20,20,1771,19.7,26,1.32,81,57,70.4,9,6,5,3,15.0,3,2,0,1,0.0,1.5
+Aleksandr Belenov,RUS,GK,Fakel Voronezh,37,12,12,1080,12.0,17,1.42,48,31,64.6,1,4,7,3,25.0,0,0,0,0,0.0,0.1
+Aleksandr Dovbnya,RUS,GK,Spartak Moscow,37,1,0,21,0.2,0,0.0,0,0,,0,0,0,1,,0,0,0,0,0.0,0.05
+Vitali Gudiyev,RUS,GK,Fakel Voronezh,29,18,18,1620,18.0,25,1.39,78,59,75.6,1,8,9,5,27.8,6,6,0,0,0.0,0.4
+Hidajet Hankic,BIH,GK,Rostov,30,2,2,180,2.0,4,2.0,9,5,55.6,0,1,1,0,0.0,0,0,0,0,0.0,0.4
+Nikita Kokarev,RUS,GK,FC Khimki,21,21,21,1890,21.0,35,1.67,116,85,71.6,5,8,8,5,23.8,4,2,2,0,50.0,1.5
+Ilya Lantratov,RUS,GK,Loko Moscow,28,22,22,1980,22.0,35,1.59,95,62,65.3,13,3,6,5,22.7,2,2,0,0,0.0,2.5
+Yevgeni Latyshonok,RUS,GK,Zenit,26,27,27,2373,26.4,13,0.49,77,65,84.4,18,6,3,16,59.3,2,1,1,0,50.0,4.0
+Igor Leshchuk,RUS,GK,Dynamo Moscow,28,5,4,372,4.1,3,0.73,24,21,87.5,2,2,0,1,25.0,0,0,0,0,0.0,0.7
+Ivan Lomaev,RUS,GK,Samara,25,13,12,1106,12.3,20,1.63,57,39,66.7,2,3,7,2,16.7,2,1,1,0,50.0,1.5
+Vadim Lukyanov,RUS,GK,Nizhny Novgorod,21,2,2,180,2.0,4,2.0,11,7,63.6,0,1,1,0,0.0,0,0,0,0,0.0,0.3
+Andrey Lunyov,RUS,GK,Dynamo Moscow,32,26,26,2328,25.9,32,1.24,108,79,73.1,14,6,6,5,19.2,4,3,0,1,0.0,1.2
+Timur Magomedov,RUS,GK,D'mo Makhachkala,22,10,10,900,10.0,13,1.3,41,28,68.3,3,2,5,1,10.0,2,0,0,2,0.0,0.7
+Aleksandr Maksimenko,RUS,GK,Spartak Moscow,26,27,27,2430,27.0,23,0.85,74,52,70.3,15,5,7,15,55.6,1,1,0,0,0.0,4.5
+Nikita Medvedev,RUS,GK,Nizhny Novgorod,29,28,28,2520,28.0,50,1.79,147,104,69.4,7,5,16,6,21.4,7,5,2,0,28.6,0.8
+Anton Mitryushkin,RUS,GK,Loko Moscow,28,8,8,720,8.0,6,0.75,37,31,83.8,2,5,1,3,37.5,0,0,0,0,0.0,1.8
+Bogdan Moskvichev,RUS,GK,Orenburg,20,17,17,1516,16.8,33,1.96,79,52,63.3,3,4,10,2,11.8,7,4,3,0,42.9,0.8
+Artur Nigmatullin,RUS,GK,Rubin Kazan,33,2,2,180,2.0,6,3.0,7,2,28.6,1,0,1,0,0.0,1,1,0,0,0.0,0.4
+Igor Obukhov,RUS,GK,FC Khimki,28,9,9,810,9.0,21,2.33,44,25,54.5,1,3,5,0,0.0,2,1,1,0,50.0,0.4
+Daniil Odoevski,RUS,GK,Rostov,21,9,8,749,8.3,13,1.56,43,32,74.4,1,2,5,2,25.0,2,2,0,0,0.0,0.8
+Mikhail Oparin,RUS,GK,Akhmat Grozny,31,1,1,90,1.0,0,0.0,2,2,100.0,1,0,0,1,100.0,0,0,0,0,0.0,0.25
+Sergei Pesyakov,RUS,GK,Samara,35,19,18,1594,17.7,31,1.75,77,53,68.8,6,4,8,3,16.7,7,7,0,0,0.0,0.3
+Ilya Pomazun,RUS,GK,Spartak Moscow,27,3,3,249,2.8,2,0.72,10,9,90.0,2,1,0,2,66.7,1,1,0,0,0.0,1.2
+Giorgi Shelia,RUS,GK,Akhmat Grozny,35,27,27,2430,27.0,44,1.63,121,82,67.8,3,12,12,5,18.5,5,5,0,0,0.0,0.3
+Evgenii Staver,RUS,GK,Rubin Kazan,26,28,28,2520,28.0,39,1.39,121,91,74.4,12,6,10,7,25.0,9,8,1,0,11.1,1.5
+Nikolai Sysuyev,RUS,GK,Orenburg,25,14,13,1184,13.2,23,1.75,74,52,70.3,1,3,9,2,15.4,1,1,0,0,0.0,0.8
+Vladislav Torop,RUS,GK,CSKA Moscow,20,2,2,180,2.0,0,0.0,6,6,100.0,2,0,0,2,100.0,0,0,0,0,0.0,1.0
+Vadim Ulyanov,RUS,GK,Akhmat Grozny,22,2,2,180,2.0,4,2.0,14,13,92.9,0,1,1,0,0.0,3,3,0,0,0.0,0.5
+Aleksandr Vasyutin,RUS,GK,FK Akron Tolyatti,29,15,15,1228,13.6,21,1.54,85,69,78.8,8,2,5,7,46.7,5,3,2,0,40.0,0.9
+David Volk,RUS,GK,D'mo Makhachkala,23,20,20,1800,20.0,22,1.1,65,45,69.2,3,9,8,6,30.0,4,2,0,2,0.0,1.2
+Sergei Volkov,RUS,GK,FK Akron Tolyatti,29,18,15,1472,16.4,34,2.08,93,61,65.6,2,3,10,4,26.7,3,2,0,1,0.0,1.0

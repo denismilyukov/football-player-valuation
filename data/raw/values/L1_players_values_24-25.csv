@@ -1,0 +1,641 @@
+Player,Value,Squad
+Jonas Urbig,12.0,Bayern Munich
+Manuel Neuer,4.0,Bayern Munich
+Daniel Peretz,3.0,Bayern Munich
+Max Schmitt,0.7,Bayern Munich
+Sven Ulreich,0.5,Bayern Munich
+Anthony Pavlesic,0.15,Bayern Munich
+Leon Klanac,0.0,Bayern Munich
+Dayot Upamecano,50.0,Bayern Munich
+Min-jae Kim,40.0,Bayern Munich
+Jonathan Tah,30.0,Bayern Munich
+Hiroki Ito,25.0,Bayern Munich
+Eric Dier,8.0,Bayern Munich
+Tarek Buchmann,0.5,Bayern Munich
+Cassiano Kiala,0.0,Bayern Munich
+Alphonso Davies,50.0,Bayern Munich
+Raphaël Guerreiro,8.0,Bayern Munich
+Adam Aznou,4.0,Bayern Munich
+Josip Stanisic,32.0,Bayern Munich
+Konrad Laimer,25.0,Bayern Munich
+Sacha Boey,18.0,Bayern Munich
+Aleksandar Pavlovic,55.0,Bayern Munich
+Joshua Kimmich,45.0,Bayern Munich
+João Palhinha,30.0,Bayern Munich
+Noel Aseko,0.7,Bayern Munich
+David Santos Daiber,0.0,Bayern Munich
+Tom Bischof,30.0,Bayern Munich
+Leon Goretzka,22.0,Bayern Munich
+Jamal Musiala,140.0,Bayern Munich
+Arijon Ibrahimovic,4.0,Bayern Munich
+Maurice Krattenmacher,3.5,Bayern Munich
+Jonathan Asp Jensen,1.5,Bayern Munich
+Lennart Karl,1.5,Bayern Munich
+Kingsley Coman,30.0,Bayern Munich
+Gabriel Vidovic,3.0,Bayern Munich
+Wisdom Mike,0.0,Bayern Munich
+Michael Olise,100.0,Bayern Munich
+Leroy Sané,32.0,Bayern Munich
+Nestory Irankunda,4.0,Bayern Munich
+Serge Gnabry,22.0,Bayern Munich
+Thomas Müller,6.0,Bayern Munich
+Harry Kane,75.0,Bayern Munich
+Mathys Tel,35.0,Bayern Munich
+Jonah Kusi-Asare,2.5,Bayern Munich
+Matej Kovar,5.0,Leverkusen
+Lukas Hradecky,2.0,Leverkusen
+Niklas Lomb,0.25,Leverkusen
+Simeon Rapsch,0.0,Leverkusen
+Luca Novodomsky,0.0,Leverkusen
+Piero Hincapié,50.0,Leverkusen
+Edmond Tapsoba,35.0,Leverkusen
+Jonathan Tah,30.0,Leverkusen
+Odilon Kossounou,25.0,Leverkusen
+Jeanuël Belocian,15.0,Leverkusen
+Mario Hermoso,7.0,Leverkusen
+Andrea Natali,0.0,Leverkusen
+Ben Hawighorst,0.0,Leverkusen
+Alejandro Grimaldo,30.0,Leverkusen
+Jeremie Frimpong,50.0,Leverkusen
+Nordi Mukiele,10.0,Leverkusen
+Arthur,7.0,Leverkusen
+Othniël Raterink,0.0,Leverkusen
+Granit Xhaka,12.0,Leverkusen
+Robert Andrich,9.0,Leverkusen
+Exequiel Palacios,40.0,Leverkusen
+Aleix García,20.0,Leverkusen
+Florian Wirtz,140.0,Leverkusen
+Emiliano Buendía,15.0,Leverkusen
+Jonas Hofmann,2.0,Leverkusen
+Francis Onyeka,0.5,Leverkusen
+Amine Adli,18.0,Leverkusen
+Martin Terrier,17.0,Leverkusen
+Kerim Alajbegovic,0.0,Leverkusen
+Nathan Tella,15.0,Leverkusen
+Victor Boniface,40.0,Leverkusen
+Patrik Schick,27.0,Leverkusen
+Artem Stepanov,0.8,Leverkusen
+Alejo Sarco,0.8,Leverkusen
+Maarten Vandevoordt,8.0,RB Leipzig
+Péter Gulácsi,2.0,RB Leipzig
+Leopold Zingerle,0.4,RB Leipzig
+Fernando Dickes,0.0,RB Leipzig
+Castello Lukeba,40.0,RB Leipzig
+Mohamed Simakan,23.0,RB Leipzig
+El Chadaille Bitshiabu,18.0,RB Leipzig
+Willi Orbán,8.0,RB Leipzig
+Lukas Klostermann,8.0,RB Leipzig
+Jonathan Norbye,0.0,RB Leipzig
+David Raum,20.0,RB Leipzig
+Lionel Voufack,0.0,RB Leipzig
+Lutsharel Geertruida,20.0,RB Leipzig
+Benjamin Henrichs,15.0,RB Leipzig
+Kosta Nedeljkovic,10.0,RB Leipzig
+Ridle Baku,9.0,RB Leipzig
+Leon Koß,0.0,RB Leipzig
+Arthur Vermeeren,22.0,RB Leipzig
+Nicolas Seiwald,18.0,RB Leipzig
+Amadou Haidara,16.0,RB Leipzig
+Xaver Schlager,10.0,RB Leipzig
+Assan Ouédraogo,7.0,RB Leipzig
+Kevin Kampl,2.5,RB Leipzig
+Mika Walther,0.0,RB Leipzig
+Xavi Simons,70.0,RB Leipzig
+Eljif Elmas,14.0,RB Leipzig
+Christoph Baumgartner,12.0,RB Leipzig
+Viggo Gebel,0.35,RB Leipzig
+Nuha Jatta,0.25,RB Leipzig
+Faik Sakar,0.2,RB Leipzig
+Antonio Nusa,28.0,RB Leipzig
+Tidiam Gomis,3.0,RB Leipzig
+Benjamin Sesko,70.0,RB Leipzig
+Loïs Openda,50.0,RB Leipzig
+Yussuf Poulsen,5.0,RB Leipzig
+André Silva,4.0,RB Leipzig
+Robert Ramsak,0.0,RB Leipzig
+Gregor Kobel,40.0,Dortmund
+Alexander Meyer,0.8,Dortmund
+Marcel Lotka,0.8,Dortmund
+Silas Ostrzinski,0.2,Dortmund
+Robin Lisewski,0.0,Dortmund
+Nico Schlotterbeck,40.0,Dortmund
+Waldemar Anton,18.0,Dortmund
+Niklas Süle,8.0,Dortmund
+Soumaïla Coulibaly,8.0,Dortmund
+Ramy Bensebaini,7.0,Dortmund
+Emre Can,7.0,Dortmund
+Yannik Lührs,0.6,Dortmund
+Filippo Mane,0.6,Dortmund
+David Lelle,0.2,Dortmund
+Elias Benkara,0.0,Dortmund
+Tyler Meiser,0.0,Dortmund
+Almugera Kabar,1.0,Dortmund
+Julian Ryerson,20.0,Dortmund
+Niklas Jessen,0.225,Dortmund
+Salih Özcan,4.0,Dortmund
+Ayman Azhil,0.7,Dortmund
+Felix Nmecha,28.0,Dortmund
+Jobe Bellingham,22.0,Dortmund
+Carney Chukwuemeka,18.0,Dortmund
+Marcel Sabitzer,8.0,Dortmund
+Pascal Groß,5.0,Dortmund
+Kjell Wätjen,2.5,Dortmund
+Yan Couto,20.0,Dortmund
+Daniel Svensson,12.0,Dortmund
+Julian Brandt,25.0,Dortmund
+Giovanni Reyna,7.0,Dortmund
+Jamie Gittens,50.0,Dortmund
+Julien Duranville,8.5,Dortmund
+Rodney Elongo-Yombo,0.4,Dortmund
+Mathis Albert,0.0,Dortmund
+Karim Adeyemi,45.0,Dortmund
+Donyell Malen,25.0,Dortmund
+Cole Campbell,1.5,Dortmund
+Samuele Inácio,0.0,Dortmund
+Serhou Guirassy,45.0,Dortmund
+Maximilian Beier,25.0,Dortmund
+Sébastien Haller,3.0,Dortmund
+Jordi Paulina,0.25,Dortmund
+Kevin Trapp,2.5,Eint Frankfurt
+Kauã Santos,2.5,Eint Frankfurt
+Nils Ramming,0.3,Eint Frankfurt
+Jens Grahl,0.2,Eint Frankfurt
+Yurij Obert,0.05,Eint Frankfurt
+Amil Siljevic,0.0,Eint Frankfurt
+Arthur Theate,24.0,Eint Frankfurt
+Robin Koch,18.0,Eint Frankfurt
+Tuta,15.0,Eint Frankfurt
+Nnamdi Collins,10.0,Eint Frankfurt
+Aurèle Amenda,7.5,Eint Frankfurt
+Nathaniel Brown,22.0,Eint Frankfurt
+Niels Nkounkou,3.5,Eint Frankfurt
+Rasmus Kristensen,14.0,Eint Frankfurt
+Timothy Chandler,0.35,Eint Frankfurt
+Ellyes Skhiri,7.5,Eint Frankfurt
+Eba Bekir Is,0.5,Eint Frankfurt
+Noah Fenyö,0.35,Eint Frankfurt
+Hugo Larsson,40.0,Eint Frankfurt
+Oscar Højlund,7.5,Eint Frankfurt
+Mahmoud Dahoud,3.5,Eint Frankfurt
+Junior Dina Ebimbe,6.0,Eint Frankfurt
+Can Uzun,18.0,Eint Frankfurt
+Farès Chaïbi,9.0,Eint Frankfurt
+Mario Götze,4.0,Eint Frankfurt
+Krisztián Lisztes,2.0,Eint Frankfurt
+Jean-Mattéo Bahoya,17.0,Eint Frankfurt
+Ansgar Knauff,15.0,Eint Frankfurt
+Omar Marmoush,75.0,Eint Frankfurt
+Hugo Ekitiké,75.0,Eint Frankfurt
+Elye Wahi,22.0,Eint Frankfurt
+Igor Matanovic,5.0,Eint Frankfurt
+Michy Batshuayi,4.0,Eint Frankfurt
+Alexander Nübel,12.0,Stuttgart
+Dennis Seimen,2.5,Stuttgart
+Fabian Bredlow,0.8,Stuttgart
+Stefan Drljaca,0.325,Stuttgart
+Finn Jeltsch,20.0,Stuttgart
+Jeff Chabot,12.0,Stuttgart
+Anthony Rouault,10.0,Stuttgart
+Ameen Al-Dakhil,7.5,Stuttgart
+Luca Jaquez,6.0,Stuttgart
+Ramon Hendriks,5.0,Stuttgart
+Anrie Chase,3.0,Stuttgart
+Dan-Axel Zagadou,2.0,Stuttgart
+Maximilian Mittelstädt,20.0,Stuttgart
+Frans Krätzig,3.5,Stuttgart
+Josha Vagnoman,10.0,Stuttgart
+Leonidas Stergiou,5.0,Stuttgart
+Pascal Stenzel,2.0,Stuttgart
+Christopher Olivier,0.5,Stuttgart
+Angelo Stiller,45.0,Stuttgart
+Atakan Karazor,12.0,Stuttgart
+Yannik Keitel,3.5,Stuttgart
+Nikolas Nartey,0.4,Stuttgart
+Enzo Millot,35.0,Stuttgart
+Fabian Rieder,6.0,Stuttgart
+Chris Führich,15.0,Stuttgart
+Jacob Bruun Larsen,5.0,Stuttgart
+Justin Diehl,3.0,Stuttgart
+Jarzinho Malanga,1.7,Stuttgart
+Benjamin Boakye,0.5,Stuttgart
+Jamie Leweling,20.0,Stuttgart
+Silas,7.0,Stuttgart
+Luca Raimund,0.4,Stuttgart
+Nick Woltemade,30.0,Stuttgart
+Ermedin Demirovic,22.0,Stuttgart
+Deniz Undav,20.0,Stuttgart
+El Bilal Touré,15.0,Stuttgart
+Wahid Faghir,0.7,Stuttgart
+Eliot Bujupi,0.5,Stuttgart
+Thomas Kastanaras,0.4,Stuttgart
+Kamil Grabara,14.0,Wolfsburg
+Marius Müller,1.5,Wolfsburg
+Pavao Pervan,0.3,Wolfsburg
+Niklas Klinger,0.1,Wolfsburg
+Maxence Lacroix,25.0,Wolfsburg
+Konstantinos Koulierakis,25.0,Wolfsburg
+Cédric Zesiger,7.0,Wolfsburg
+Denis Vavro,7.0,Wolfsburg
+Sebastiaan Bornauw,6.0,Wolfsburg
+Moritz Jenz,5.0,Wolfsburg
+David Odogu,1.5,Wolfsburg
+Mathys Angély,0.6,Wolfsburg
+Till Neininger,0.0,Wolfsburg
+Joakim Maehle,14.0,Wolfsburg
+Nicolas Cozza,3.5,Wolfsburg
+Rogério,2.5,Wolfsburg
+Ridle Baku,9.0,Wolfsburg
+Kilian Fischer,6.0,Wolfsburg
+Mads Roerslev,6.0,Wolfsburg
+Jan Bürger,0.0,Wolfsburg
+Salih Özcan,4.0,Wolfsburg
+Mattias Svanberg,12.0,Wolfsburg
+Aster Vranckx,7.0,Wolfsburg
+Maximilian Arnold,5.0,Wolfsburg
+Yannick Gerhardt,2.5,Wolfsburg
+Kevin Paredes,7.5,Wolfsburg
+Lovro Majer,17.0,Wolfsburg
+Bence Dárdai,12.0,Wolfsburg
+Jakub Kaminski,5.0,Wolfsburg
+Patrick Wimmer,15.0,Wolfsburg
+Andreas Skov Olsen,14.0,Wolfsburg
+Bennit Bröger,0.5,Wolfsburg
+Mohamed Amoura,32.0,Wolfsburg
+Tiago Tomás,12.0,Wolfsburg
+Jonas Wind,12.0,Wolfsburg
+Lukas Nmecha,3.0,Wolfsburg
+Kevin Behrens,1.0,Wolfsburg
+Bartosz Bialek,0.8,Wolfsburg
+Jonathan Akaegbobi,0.0,Wolfsburg
+Moritz Nicolas,5.0,Gladbach
+Jonas Omlin,2.5,Gladbach
+Tiago Pereira Cardoso,1.5,Gladbach
+Tobias Sippel,0.3,Gladbach
+Ko Itakura,12.0,Gladbach
+Nico Elvedi,8.0,Gladbach
+Marvin Friedrich,3.5,Gladbach
+Fabio Chiarodia,2.0,Gladbach
+Lukas Ullrich,8.0,Gladbach
+Luca Netz,6.0,Gladbach
+Joe Scally,10.0,Gladbach
+Stefan Lainer,1.2,Gladbach
+Julian Weigl,6.0,Gladbach
+Niklas Swider,0.25,Gladbach
+Veit Stange,0.15,Gladbach
+Manu Koné,40.0,Gladbach
+Rocco Reitz,15.0,Gladbach
+Philipp Sander,4.0,Gladbach
+Florian Neuhaus,3.5,Gladbach
+Kevin Stöger,3.5,Gladbach
+Robin Hack,12.0,Gladbach
+Yvandro Borges Sanches,0.5,Gladbach
+Noah Pesch,0.3,Gladbach
+Franck Honorat,12.0,Gladbach
+Nathan Ngoumou,4.0,Gladbach
+Charles Herrmann,0.3,Gladbach
+Tim Kleindienst,17.0,Gladbach
+Alassane Pléa,5.0,Gladbach
+Tomas Cvancara,3.0,Gladbach
+Grant-Leon Ranos,0.5,Gladbach
+Shio Fukuda,0.5,Gladbach
+Oliver Baumann,3.0,Hoffenheim
+Luca Philipp,0.75,Hoffenheim
+Jakob Busk,0.25,Hoffenheim
+Lúkas Petersson,0.25,Hoffenheim
+Benjamin Lade,0.0,Hoffenheim
+Tim Philipp,0.0,Hoffenheim
+Leo Østigård,10.0,Hoffenheim
+Ozan Kabak,5.0,Hoffenheim
+Arthur Chaves,5.0,Hoffenheim
+Robin Hranac,3.5,Hoffenheim
+Tim Drexler,3.0,Hoffenheim
+Kevin Akpoguma,2.5,Hoffenheim
+Stanley Nsoki,2.5,Hoffenheim
+Attila Szalai,1.7,Hoffenheim
+Luca Erlein,0.3,Hoffenheim
+Noah König,0.25,Hoffenheim
+David Jurásek,5.0,Hoffenheim
+Alexander Prass,5.0,Hoffenheim
+Christopher Lenz,0.5,Hoffenheim
+Hennes Behrens,0.35,Hoffenheim
+Valentin Gendrey,7.0,Hoffenheim
+Pavel Kaderabek,1.7,Hoffenheim
+Lars Strobl,0.025,Hoffenheim
+Anton Stach,14.0,Hoffenheim
+Florian Grillitsch,2.0,Hoffenheim
+Diadié Samassékou,1.0,Hoffenheim
+Tom Bischof,30.0,Hoffenheim
+Umut Tohumcu,6.0,Hoffenheim
+Grischa Prömel,3.0,Hoffenheim
+Dennis Geiger,2.0,Hoffenheim
+Finn Becker,2.0,Hoffenheim
+Luka Duric,0.25,Hoffenheim
+Andrej Kramaric,4.0,Hoffenheim
+Julian Justvan,2.2,Hoffenheim
+Florian Micheler,0.5,Hoffenheim
+Bazoumana Touré,9.0,Hoffenheim
+Jacob Bruun Larsen,5.0,Hoffenheim
+Marius Bülter,2.5,Hoffenheim
+Paul Hennrich,0.4,Hoffenheim
+Adam Hlozek,18.0,Hoffenheim
+Gift Orban,10.0,Hoffenheim
+Max Moerstedt,7.0,Hoffenheim
+Mergim Berisha,3.5,Hoffenheim
+Haris Tabakovic,2.5,Hoffenheim
+Erencan Yardımcı,2.5,Hoffenheim
+Ihlas Bebou,1.0,Hoffenheim
+David Mokwa,1.0,Hoffenheim
+Simon Kalambayi,0.175,Hoffenheim
+Noah Atubolu,18.0,Freiburg
+Florian Müller,1.2,Freiburg
+Jannik Huth,0.4,Freiburg
+Philipp Lienhart,12.0,Freiburg
+Max Rosenfelder,8.0,Freiburg
+Matthias Ginter,7.0,Freiburg
+Bruno Ogbus,1.0,Freiburg
+Kenneth Schmidt,0.8,Freiburg
+Manuel Gulde,0.4,Freiburg
+Jordy Makengo,6.0,Freiburg
+Christian Günter,3.5,Freiburg
+Roland Sallai,10.0,Freiburg
+Kiliann Sildillia,10.0,Freiburg
+Lukas Kübler,1.5,Freiburg
+Patrick Osterhage,10.0,Freiburg
+Nicolas Höfler,0.5,Freiburg
+Maximilian Eggestein,10.0,Freiburg
+Johan Manzambi,8.0,Freiburg
+Yann Sturm,0.5,Freiburg
+Merlin Röhl,12.0,Freiburg
+Florent Muslija,1.8,Freiburg
+Daniel-Kofi Kyereh,0.8,Freiburg
+Vincenzo Grifo,6.0,Freiburg
+Noah Weißhaupt,5.0,Freiburg
+Ritsu Doan,25.0,Freiburg
+Eren Dinkçi,8.0,Freiburg
+Niklas Beste,7.0,Freiburg
+Maximilian Philipp,0.8,Freiburg
+Junior Adamu,5.0,Freiburg
+Lucas Höler,3.0,Freiburg
+Michael Gregoritsch,3.0,Freiburg
+Robin Zentner,4.0,Mainz 05
+Lasse Rieß,0.4,Mainz 05
+Daniel Batz,0.25,Mainz 05
+Andreas Hanche-Olsen,6.0,Mainz 05
+Moritz Jenz,5.0,Mainz 05
+Dominik Kohr,3.5,Mainz 05
+Maxim Leitsch,1.5,Mainz 05
+Danny da Costa,1.5,Mainz 05
+Stefan Bell,0.8,Mainz 05
+Maxim Dal,0.15,Mainz 05
+Phillipp Mwene,1.8,Mainz 05
+Anthony Caci,12.0,Mainz 05
+Nikolas Veratschnig,1.5,Mainz 05
+Silvan Widmer,1.2,Mainz 05
+Kaishu Sano,20.0,Mainz 05
+Lennard Maloney,3.5,Mainz 05
+Edimilson Fernandes,3.0,Mainz 05
+Nadiem Amiri,20.0,Mainz 05
+Daniel Gleiber,0.225,Mainz 05
+Paul Nebel,24.0,Mainz 05
+Hyun-seok Hong,3.5,Mainz 05
+Jae-sung Lee,2.5,Mainz 05
+Marco Richter,1.5,Mainz 05
+Aymen Barkok,0.5,Mainz 05
+Gabriel Vidovic,3.0,Mainz 05
+Arnaud Nordin,5.0,Mainz 05
+Armindo Sieb,3.0,Mainz 05
+Jonathan Burkardt,35.0,Mainz 05
+Nelson Weiper,10.0,Mainz 05
+Karim Onisiwo,0.8,Mainz 05
+Finn Dahmen,9.0,Augsburg
+Nediljko Labrovic,2.5,Augsburg
+Daniel Klein,0.15,Augsburg
+Chrislain Matsima,22.0,Augsburg
+Felix Uduokhai,7.0,Augsburg
+Cédric Zesiger,7.0,Augsburg
+Keven Schlotterbeck,6.0,Augsburg
+Noahkai Banks,6.0,Augsburg
+Maximilian Bauer,2.0,Augsburg
+Jeffrey Gouweleeuw,1.5,Augsburg
+Reece Oxford,0.5,Augsburg
+Felix Meiser,0.15,Augsburg
+David Deger,0.1,Augsburg
+Dimitrios Giannoulis,3.0,Augsburg
+Mads Pedersen,2.0,Augsburg
+Marius Wolf,3.0,Augsburg
+Henri Koudossou,2.0,Augsburg
+Robert Gumny,1.5,Augsburg
+Kristijan Jakic,6.5,Augsburg
+Niklas Dorsch,3.5,Augsburg
+Tim Breithaupt,2.5,Augsburg
+Mahmut Kücüksahin,0.175,Augsburg
+Arne Engels,12.0,Augsburg
+Frank Onyeka,7.0,Augsburg
+Arne Maier,4.0,Augsburg
+Elvis Rexhbecaj,3.5,Augsburg
+Alexis Claude-Maurice,12.0,Augsburg
+Mert Kömür,5.0,Augsburg
+Fredrik Jensen,3.5,Augsburg
+Juan Cabrera,0.3,Augsburg
+Rubén Vargas,7.0,Augsburg
+Yusuf Kabadayi,1.5,Augsburg
+Phillip Tietz,5.0,Augsburg
+Samuel Essende,4.5,Augsburg
+Mergim Berisha,3.5,Augsburg
+Steve Mounié,2.0,Augsburg
+Frederik Rönnow,3.0,Union Berlin
+Alexander Schwolow,0.5,Union Berlin
+Carl Klaus,0.35,Union Berlin
+Diogo Leite,17.0,Union Berlin
+Danilho Doekhi,13.0,Union Berlin
+Leopold Querfeld,13.0,Union Berlin
+Paul Jaeckel,1.0,Union Berlin
+Kevin Vogt,1.0,Union Berlin
+Oluwaseun Ogbemudia,0.0,Union Berlin
+Tom Rothe,10.0,Union Berlin
+Robin Gosens,8.0,Union Berlin
+Jérôme Roussillon,0.8,Union Berlin
+Josip Juranovic,4.0,Union Berlin
+Christopher Trimmel,0.6,Union Berlin
+Aljoscha Kemlein,7.0,Union Berlin
+Rani Khedira,2.5,Union Berlin
+András Schäfer,5.0,Union Berlin
+László Bénes,3.0,Union Berlin
+Janik Haberer,2.5,Union Berlin
+Lucas Tousart,2.5,Union Berlin
+Robert Skov,4.0,Union Berlin
+Woo-yeong Jeong,4.0,Union Berlin
+Kevin Volland,0.7,Union Berlin
+David Preu,0.4,Union Berlin
+Benedict Hollerbach,12.0,Union Berlin
+Yorbe Vertessen,6.0,Union Berlin
+Andrej Ilic,4.0,Union Berlin
+Marin Ljubicic,4.0,Union Berlin
+Jordan,3.0,Union Berlin
+Tim Skarke,2.0,Union Berlin
+Ivan Prtajin,1.2,Union Berlin
+Michael Zetterer,4.5,Werder Bremen
+Mio Backhaus,2.0,Werder Bremen
+Markus Kolke,0.3,Werder Bremen
+Marco Friedl,12.0,Werder Bremen
+Niklas Stark,4.0,Werder Bremen
+Amos Pieper,3.5,Werder Bremen
+Milos Veljkovic,3.0,Werder Bremen
+Julián Malatini,2.5,Werder Bremen
+Anthony Jung,1.0,Werder Bremen
+Mick Schmetgens,0.0,Werder Bremen
+Karim Coulibaly,0.0,Werder Bremen
+Felix Agu,8.0,Werder Bremen
+Derrick Köhn,5.0,Werder Bremen
+Olivier Deman,3.0,Werder Bremen
+Mitchell Weiser,5.0,Werder Bremen
+Issa Kaboré,4.0,Werder Bremen
+Senne Lynen,9.0,Werder Bremen
+Skelly Alvero,2.5,Werder Bremen
+Wesley Adeh,0.0,Werder Bremen
+Jens Stage,14.0,Werder Bremen
+Leonardo Bittencourt,1.5,Werder Bremen
+Romano Schmid,17.0,Werder Bremen
+Isak Hansen-Aarøen,1.0,Werder Bremen
+Leon Opitz,0.6,Werder Bremen
+Patrice Covic,0.0,Werder Bremen
+Marco Grüll,4.0,Werder Bremen
+Abdenego Nankishi,0.45,Werder Bremen
+Justin Njinmah,7.0,Werder Bremen
+Marvin Ducksch,6.0,Werder Bremen
+André Silva,4.0,Werder Bremen
+Keke Topp,4.0,Werder Bremen
+Oliver Burke,3.0,Werder Bremen
+Maik Lukowicz,0.15,Werder Bremen
+Kevin Müller,0.7,Heidenheim
+Frank Feller,0.5,Heidenheim
+Vitus Eicher,0.25,Heidenheim
+Paul Tschernuth,0.1,Heidenheim
+Benedikt Gimber,3.0,Heidenheim
+Patrick Mainka,3.0,Heidenheim
+Tim Siersleben,2.0,Heidenheim
+Thomas Keller,0.5,Heidenheim
+Frans Krätzig,3.5,Heidenheim
+Jonas Föhrenbach,1.5,Heidenheim
+Omar Traoré,4.0,Heidenheim
+Marnon Busch,1.2,Heidenheim
+Lennard Maloney,3.5,Heidenheim
+Niklas Dorsch,3.5,Heidenheim
+Julian Niehues,1.5,Heidenheim
+Luka Janes,0.2,Heidenheim
+Norman Theuerkauf,0.175,Heidenheim
+Jan Schöppner,4.0,Heidenheim
+Luca Kerber,1.5,Heidenheim
+Paul Wanner,18.0,Heidenheim
+Adrian Beck,2.0,Heidenheim
+Denis Thomalla,0.45,Heidenheim
+Leo Scienza,3.0,Heidenheim
+Mathias Honsak,2.0,Heidenheim
+Christopher Negele,0.25,Heidenheim
+Sirlord Conteh,1.5,Heidenheim
+Marvin Pieringer,5.5,Heidenheim
+Budu Zivzivadze,2.0,Heidenheim
+Maximilian Breunig,1.5,Heidenheim
+Mikkel Kaufmann,1.2,Heidenheim
+Stefan Schimmer,0.5,Heidenheim
+Nikola Vasilj,3.5,St. Pauli
+Ben Voll,0.5,St. Pauli
+Eric Oelschlägel,0.3,St. Pauli
+Sascha Burchert,0.2,St. Pauli
+Ronny Seibt,0.075,St. Pauli
+Sören Ahlers,0.05,St. Pauli
+Eric Smith,5.0,St. Pauli
+David Nemeth,4.0,St. Pauli
+Siebe Van der Heyden,2.5,St. Pauli
+Hauke Wahl,1.5,St. Pauli
+Karol Mets,1.3,St. Pauli
+Adam Dzwigala,0.6,St. Pauli
+Emil Staugaard,0.125,St. Pauli
+Muhammad Dahaba,0.125,St. Pauli
+Lars Ritzka,1.0,St. Pauli
+Julien Yanda,0.25,St. Pauli
+Philipp Treu,5.0,St. Pauli
+Manolis Saliakas,3.0,St. Pauli
+Fin Stevens,0.5,St. Pauli
+James Sands,3.0,St. Pauli
+Marwin Schmitz,0.2,St. Pauli
+Robert Wagner,3.0,St. Pauli
+Connor Metcalfe,2.5,St. Pauli
+Jackson Irvine,2.0,St. Pauli
+Carlo Boukhalfa,2.0,St. Pauli
+Erik Ahlstrand,0.5,St. Pauli
+Danel Sinani,1.5,St. Pauli
+Noah Weißhaupt,5.0,St. Pauli
+Elias Saad,4.0,St. Pauli
+Romeo Aigbekaen,0.1,St. Pauli
+Oladapo Afolayan,4.0,St. Pauli
+Morgan Guilavogui,4.0,St. Pauli
+Scott Banks,0.5,St. Pauli
+Johannes Eggestein,2.5,St. Pauli
+Abdoulie Ceesay,0.5,St. Pauli
+Maurides,0.35,St. Pauli
+Andreas Albers,0.3,St. Pauli
+Simon Zoller,0.3,St. Pauli
+Timo Horn,0.8,Bochum
+Patrick Drewes,0.5,Bochum
+Paul Grave,0.05,Bochum
+Bernardo,5.5,Bochum
+Erhan Masovic,2.0,Bochum
+Jakov Medic,2.0,Bochum
+Ivan Ordets,1.0,Bochum
+Noah Loosli,0.6,Bochum
+Mohammed Tolba,0.2,Bochum
+Maximilian Wittek,1.5,Bochum
+Tim Oermann,5.0,Bochum
+Felix Passlack,2.0,Bochum
+Cristian Gamboa,0.5,Bochum
+Kacper Koscierski,0.2,Bochum
+Ibrahima Sissoko,6.0,Bochum
+Anthony Losilla,0.5,Bochum
+Niklas Jahn,0.2,Bochum
+Tom Krauß,4.0,Bochum
+Matus Bero,3.0,Bochum
+Moritz-Broni Kwarteng,1.0,Bochum
+Mats Pannewig,1.0,Bochum
+Agon Elezi,0.65,Bochum
+Koji Miyoshi,1.5,Bochum
+Dani de Wit,2.5,Bochum
+Lukas Daschner,0.9,Bochum
+Lennart Koerdt,0.0,Bochum
+Georgios Masouras,2.0,Bochum
+Aliou Baldé,0.8,Bochum
+Gerrit Holtmann,0.7,Bochum
+Samuel Bamba,0.5,Bochum
+Myron Boadu,7.0,Bochum
+Moritz Broschinski,2.0,Bochum
+Philipp Hofmann,1.0,Bochum
+Timon Weiner,1.0,Holstein Kiel
+Thomas Dähne,0.4,Holstein Kiel
+Marcel Engelhardt,0.175,Holstein Kiel
+David Zec,2.5,Holstein Kiel
+Marko Ivezic,2.0,Holstein Kiel
+Max Geschwill,1.5,Holstein Kiel
+Timo Becker,1.5,Holstein Kiel
+Colin Kleine-Bekel,1.5,Holstein Kiel
+Marco Komenda,0.8,Holstein Kiel
+Patrick Erras,0.8,Holstein Kiel
+Ivan Nekic,0.8,Holstein Kiel
+Carl Johansson,0.5,Holstein Kiel
+John Tolkin,2.5,Holstein Kiel
+Tymoteusz Puchacz,1.5,Holstein Kiel
+Dominik Javorcek,0.55,Holstein Kiel
+Lasse Rosenboom,1.5,Holstein Kiel
+Nicolai Remberg,3.0,Holstein Kiel
+Marvin Schulz,0.7,Holstein Kiel
+Armin Gigovic,3.0,Holstein Kiel
+Magnus Knudsen,2.5,Holstein Kiel
+Lewis Holtby,0.5,Holstein Kiel
+Finn Porath,1.7,Holstein Kiel
+Aurel Wagbe,0.1,Holstein Kiel
+Andu Kelati,0.8,Holstein Kiel
+Alexander Bernhardsson,3.0,Holstein Kiel
+Shuto Machino,5.0,Holstein Kiel
+Phil Harres,4.0,Holstein Kiel
+Benedikt Pichler,1.5,Holstein Kiel
+Steven Skrzybski,1.0,Holstein Kiel
+Fiete Arp,0.8,Holstein Kiel

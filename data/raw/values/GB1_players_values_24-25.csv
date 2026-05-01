@@ -1,0 +1,803 @@
+Player,Value,Squad
+Ederson,20.0,Manchester City
+Stefan Ortega,8.0,Manchester City
+Marcus Bettinelli,0.6,Manchester City
+Scott Carson,0.1,Manchester City
+Spike Brits,0.0,Manchester City
+Max Hudson,0.0,Manchester City
+Josko Gvardiol,75.0,Manchester City
+Rúben Dias,65.0,Manchester City
+Abdukodir Khusanov,35.0,Manchester City
+Vitor Reis,30.0,Manchester City
+Manuel Akanji,28.0,Manchester City
+John Stones,25.0,Manchester City
+Nathan Aké,25.0,Manchester City
+Jahmai Simpson-Pusey,5.0,Manchester City
+Max Alleyne,0.5,Manchester City
+Kaden Braithwaite,0.0,Manchester City
+Rayan Aït-Nouri,35.0,Manchester City
+Nico O'Reilly,18.0,Manchester City
+Josh Wilson-Esbrand,4.0,Manchester City
+Rico Lewis,40.0,Manchester City
+Matheus Nunes,35.0,Manchester City
+Kyle Walker,4.0,Manchester City
+Issa Kaboré,4.0,Manchester City
+Rodri,110.0,Manchester City
+Nico González,40.0,Manchester City
+Kalvin Phillips,12.0,Manchester City
+Jacob Wright,0.8,Manchester City
+Tijjani Reijnders,60.0,Manchester City
+Mateo Kovacic,20.0,Manchester City
+İlkay Gündoğan,5.0,Manchester City
+Bernardo Silva,38.0,Manchester City
+Kevin De Bruyne,20.0,Manchester City
+James McAtee,20.0,Manchester City
+Claudio Echeverri,18.0,Manchester City
+Jérémy Doku,50.0,Manchester City
+Savinho,50.0,Manchester City
+Jack Grealish,28.0,Manchester City
+Phil Foden,100.0,Manchester City
+Rayan Cherki,45.0,Manchester City
+Oscar Bobb,25.0,Manchester City
+Farid Alfa-Ruprecht,0.0,Manchester City
+Erling Haaland,180.0,Manchester City
+Omar Marmoush,75.0,Manchester City
+Divin Mubama,4.0,Manchester City
+Robert Sánchez,20.0,Chelsea
+Filip Jørgensen,18.0,Chelsea
+Mike Penders,12.0,Chelsea
+Gabriel Slonina,3.5,Chelsea
+Lucas Bergström,0.7,Chelsea
+Marcus Bettinelli,0.6,Chelsea
+Max Merrick,0.0,Chelsea
+Ted Curd,0.0,Chelsea
+Levi Colwill,55.0,Chelsea
+Renato Veiga,25.0,Chelsea
+Trevoh Chalobah,25.0,Chelsea
+Wesley Fofana,25.0,Chelsea
+Axel Disasi,22.0,Chelsea
+Benoît Badiashile,22.0,Chelsea
+Tosin Adarabioyo,20.0,Chelsea
+Mamadou Sarr,20.0,Chelsea
+Aarón Anselmino,8.0,Chelsea
+Josh Acheampong,8.0,Chelsea
+Harrison Murray-Campbell,0.5,Chelsea
+Kaiden Wilson,0.0,Chelsea
+Marc Cucurella,35.0,Chelsea
+Ben Chilwell,15.0,Chelsea
+Ishé Samuels-Smith,0.7,Chelsea
+Malo Gusto,35.0,Chelsea
+Reece James,30.0,Chelsea
+Genesis Antwi,0.35,Chelsea
+Richard Olise,0.0,Chelsea
+Moisés Caicedo,90.0,Chelsea
+Roméo Lavia,40.0,Chelsea
+Dário Essugo,20.0,Chelsea
+Sam Rak-Sakyi,0.8,Chelsea
+Landon Emenalo,0.0,Chelsea
+Enzo Fernández,75.0,Chelsea
+Andrey Santos,35.0,Chelsea
+Kiernan Dewsbury-Hall,20.0,Chelsea
+Carney Chukwuemeka,18.0,Chelsea
+Cesare Casadei,15.0,Chelsea
+Mathis Amougou,10.0,Chelsea
+Kiano Dyer,0.0,Chelsea
+Reggie Walsh,0.0,Chelsea
+Harvey Vale,1.5,Chelsea
+Cole Palmer,120.0,Chelsea
+Omari Kellyman,1.5,Chelsea
+Jadon Sancho,28.0,Chelsea
+Tyrique George,10.0,Chelsea
+Mykhaylo Mudryk,0.0,Chelsea
+Pedro Neto,50.0,Chelsea
+Noni Madueke,40.0,Chelsea
+Ato Ampah,0.0,Chelsea
+João Félix,20.0,Chelsea
+João Pedro,50.0,Chelsea
+Nicolas Jackson,50.0,Chelsea
+Liam Delap,40.0,Chelsea
+Christopher Nkunku,35.0,Chelsea
+Deivid Washington,8.0,Chelsea
+Marc Guiu,8.0,Chelsea
+David Datro Fofana,6.0,Chelsea
+Shumaira Mheuka,0.8,Chelsea
+David Raya,40.0,Arsenal
+Aaron Ramsdale,16.0,Arsenal
+Neto,1.5,Arsenal
+Jack Porter,0.4,Arsenal
+Alexéi Rojas,0.25,Arsenal
+Tommy Setford,0.0,Arsenal
+William Saliba,80.0,Arsenal
+Gabriel Magalhães,75.0,Arsenal
+Jakub Kiwior,28.0,Arsenal
+Takehiro Tomiyasu,18.0,Arsenal
+Ayden Heaven,5.0,Arsenal
+Zane Monlouis,0.4,Arsenal
+Maldini Kacurri,0.3,Arsenal
+Brayden Clarke,0.0,Arsenal
+Myles Lewis-Skelly,45.0,Arsenal
+Riccardo Calafiori,35.0,Arsenal
+Oleksandr Zinchenko,20.0,Arsenal
+Kieran Tierney,9.0,Arsenal
+Jurriën Timber,55.0,Arsenal
+Ben White,45.0,Arsenal
+Michal Rosiak,0.0,Arsenal
+Josh Robinson,0.0,Arsenal
+Josh Nichols,0.0,Arsenal
+Thomas Partey,14.0,Arsenal
+Jorginho,6.0,Arsenal
+Jack Henry-Francis,0.2,Arsenal
+Declan Rice,120.0,Arsenal
+Mikel Merino,35.0,Arsenal
+Salah-Eddine Oulad M'Hand,0.4,Arsenal
+Jimi Gower,0.0,Arsenal
+Martin Ødegaard,85.0,Arsenal
+Ethan Nwaneri,55.0,Arsenal
+Gabriel Martinelli,55.0,Arsenal
+Leandro Trossard,22.0,Arsenal
+Reiss Nelson,16.0,Arsenal
+Bukayo Saka,150.0,Arsenal
+Raheem Sterling,10.0,Arsenal
+Ismeal Kabia,0.0,Arsenal
+Kai Havertz,65.0,Arsenal
+Gabriel Jesus,32.0,Arsenal
+Eddie Nketiah,18.0,Arsenal
+Nathan Butler-Oyedeji,1.0,Arsenal
+Alisson,20.0,Liverpool
+Caoimhín Kelleher,20.0,Liverpool
+Vitezslav Jaros,4.0,Liverpool
+Harvey Davies,0.5,Liverpool
+Ibrahima Konaté,60.0,Liverpool
+Virgil van Dijk,23.0,Liverpool
+Joe Gomez,20.0,Liverpool
+Jarell Quansah,20.0,Liverpool
+Amara Nallo,1.0,Liverpool
+Konstantinos Tsimikas,18.0,Liverpool
+Andrew Robertson,18.0,Liverpool
+James Norris,0.15,Liverpool
+Trent Alexander-Arnold,75.0,Liverpool
+Conor Bradley,30.0,Liverpool
+Isaac Mabaya,0.0,Liverpool
+Ryan Gravenberch,75.0,Liverpool
+Wataru Endo,8.0,Liverpool
+Tyler Morton,7.0,Liverpool
+James McConnell,2.0,Liverpool
+Alexis Mac Allister,100.0,Liverpool
+Curtis Jones,45.0,Liverpool
+Trey Nyoni,4.5,Liverpool
+Dominik Szoboszlai,80.0,Liverpool
+Harvey Elliott,30.0,Liverpool
+Kieran Morrison,0.0,Liverpool
+Luis Díaz,70.0,Liverpool
+Cody Gakpo,70.0,Liverpool
+Diogo Jota,40.0,Liverpool
+Trent Kone-Doherty,0.0,Liverpool
+Rio Ngumoha,0.0,Liverpool
+Mohamed Salah,50.0,Liverpool
+Federico Chiesa,14.0,Liverpool
+Ranel Young,0.0,Liverpool
+Darwin Núñez,45.0,Liverpool
+Jayden Danns,0.8,Liverpool
+André Onana,25.0,Manchester Utd
+Altay Bayındır,8.0,Manchester Utd
+Tom Heaton,0.2,Manchester Utd
+Dermot Mee,0.0,Manchester Utd
+Hubert Graczyk,0.0,Manchester Utd
+Elyh Harrison,0.0,Manchester Utd
+Will Murdock,0.0,Manchester Utd
+Leny Yoro,55.0,Manchester Utd
+Lisandro Martínez,40.0,Manchester Utd
+Matthijs de Ligt,38.0,Manchester Utd
+Harry Maguire,13.0,Manchester Utd
+Victor Lindelöf,8.0,Manchester Utd
+Ayden Heaven,5.0,Manchester Utd
+Tyler Fredricson,3.0,Manchester Utd
+Jonny Evans,1.0,Manchester Utd
+Godwill Kukonki,0.0,Manchester Utd
+Patrick Dorgu,25.0,Manchester Utd
+Luke Shaw,12.0,Manchester Utd
+Tyrell Malacia,8.0,Manchester Utd
+Harry Amass,5.0,Manchester Utd
+Diogo Dalot,30.0,Manchester Utd
+Noussair Mazraoui,25.0,Manchester Utd
+Habeeb Ogunneye,0.0,Manchester Utd
+Jaydan Kamason,0.0,Manchester Utd
+Manuel Ugarte,45.0,Manchester Utd
+Casemiro,10.0,Manchester Utd
+Toby Collyer,5.0,Manchester Utd
+Sékou Koné,0.0,Manchester Utd
+Scott McTominay,50.0,Manchester Utd
+Kobbie Mainoo,50.0,Manchester Utd
+Daniel Gore,0.8,Manchester Utd
+Jack Moorhouse,0.0,Manchester Utd
+Jayce Fitzgerald,0.0,Manchester Utd
+Bruno Fernandes,50.0,Manchester Utd
+Mason Mount,28.0,Manchester Utd
+Christian Eriksen,4.0,Manchester Utd
+Jack Fletcher,0.0,Manchester Utd
+Marcus Rashford,50.0,Manchester Utd
+Alejandro Garnacho,45.0,Manchester Utd
+Jadon Sancho,28.0,Manchester Utd
+James Scanlon,0.0,Manchester Utd
+Amad Diallo,45.0,Manchester Utd
+Antony,35.0,Manchester Utd
+Facundo Pellistri,8.0,Manchester Utd
+Bendito Mantato,0.0,Manchester Utd
+Rasmus Højlund,35.0,Manchester Utd
+Joshua Zirkzee,30.0,Manchester Utd
+Chido Obi,5.0,Manchester Utd
+Ethan Wheatley,0.0,Manchester Utd
+Guglielmo Vicario,32.0,Tottenham
+Antonín Kinský,15.0,Tottenham
+Fraser Forster,1.0,Tottenham
+Brandon Austin,0.6,Tottenham
+Alfie Whiteman,0.5,Tottenham
+Cristian Romero,50.0,Tottenham
+Micky van de Ven,50.0,Tottenham
+Kevin Danso,25.0,Tottenham
+Radu Drăgușin,25.0,Tottenham
+Ben Davies,6.0,Tottenham
+Alfie Dorrington,0.7,Tottenham
+Dante Cassanova,0.0,Tottenham
+Maeson King,0.0,Tottenham
+Malachi Hardy,0.0,Tottenham
+Destiny Udogie,40.0,Tottenham
+Djed Spence,20.0,Tottenham
+Sergio Reguilón,6.0,Tottenham
+Pedro Porro,38.0,Tottenham
+Yves Bissouma,25.0,Tottenham
+Archie Gray,38.0,Tottenham
+Lucas Bergvall,38.0,Tottenham
+Pape Matar Sarr,32.0,Tottenham
+Rodrigo Bentancur,30.0,Tottenham
+Callum Olusesi,0.5,Tottenham
+Rio Kyerematen,0.0,Tottenham
+Dejan Kulusevski,50.0,Tottenham
+James Maddison,42.0,Tottenham
+Alfie Devine,3.5,Tottenham
+Lucá Williams-Barnett,0.0,Tottenham
+Heung-min Son,20.0,Tottenham
+Wilson Odobert,20.0,Tottenham
+Mikey Moore,18.0,Tottenham
+Timo Werner,7.0,Tottenham
+Brennan Johnson,40.0,Tottenham
+Min-hyeok Yang,3.5,Tottenham
+Damola Ajayi,0.0,Tottenham
+Dominic Solanke,40.0,Tottenham
+Mathys Tel,35.0,Tottenham
+Richarlison,20.0,Tottenham
+Will Lankshear,3.0,Tottenham
+Dane Scarlett,2.0,Tottenham
+Emiliano Martínez,20.0,Aston Villa
+Joe Gauci,1.5,Aston Villa
+Robin Olsen,1.0,Aston Villa
+Oliwier Zych,0.8,Aston Villa
+Sam Proctor,0.0,Aston Villa
+Ezri Konsa,35.0,Aston Villa
+Pau Torres,32.0,Aston Villa
+Axel Disasi,22.0,Aston Villa
+Diego Carlos,9.5,Aston Villa
+Tyrone Mings,5.0,Aston Villa
+Kortney Hause,1.0,Aston Villa
+Sil Swinkels,0.15,Aston Villa
+Ian Maatsen,28.0,Aston Villa
+Lucas Digne,10.0,Aston Villa
+Travis Patterson,0.0,Aston Villa
+Matty Cash,25.0,Aston Villa
+Kosta Nedeljkovic,10.0,Aston Villa
+Andrés García,7.0,Aston Villa
+Triston Rowe,0.0,Aston Villa
+Amadou Onana,50.0,Aston Villa
+Boubacar Kamara,40.0,Aston Villa
+Lamare Bogarde,6.0,Aston Villa
+Youri Tielemans,38.0,Aston Villa
+Jacob Ramsey,32.0,Aston Villa
+John McGinn,16.0,Aston Villa
+Ross Barkley,6.0,Aston Villa
+Aidan Borland,0.0,Aston Villa
+Morgan Rogers,55.0,Aston Villa
+Marco Asensio,20.0,Aston Villa
+Emiliano Buendía,15.0,Aston Villa
+Jamaldeen Jimoh-Aloba,0.3,Aston Villa
+Marcus Rashford,50.0,Aston Villa
+Jaden Philogene,16.0,Aston Villa
+Kadan Young,0.3,Aston Villa
+Ben Broggio,0.0,Aston Villa
+Leon Bailey,28.0,Aston Villa
+Donyell Malen,25.0,Aston Villa
+Bradley Burrowes,0.0,Aston Villa
+Ollie Watkins,40.0,Aston Villa
+Jhon Durán,35.0,Aston Villa
+Kobei Moore,0.0,Aston Villa
+Nick Pope,8.0,Newcastle Utd
+Odysseas Vlachodimos,5.0,Newcastle Utd
+Martin Dúbravka,1.0,Newcastle Utd
+Mark Gillespie,0.2,Newcastle Utd
+John Ruddy,0.15,Newcastle Utd
+Sven Botman,42.0,Newcastle Utd
+Lloyd Kelly,16.0,Newcastle Utd
+Fabian Schär,7.0,Newcastle Utd
+Dan Burn,6.0,Newcastle Utd
+Jamaal Lascelles,4.0,Newcastle Utd
+Lewis Hall,32.0,Newcastle Utd
+Matt Targett,5.0,Newcastle Utd
+Jamal Lewis,2.5,Newcastle Utd
+Alex Murphy,0.3,Newcastle Utd
+Tino Livramento,40.0,Newcastle Utd
+Kieran Trippier,4.0,Newcastle Utd
+Emil Krafth,2.0,Newcastle Utd
+Harrison Ashby,1.4,Newcastle Utd
+Leo Shahar,0.0,Newcastle Utd
+Sandro Tonali,60.0,Newcastle Utd
+Isaac Hayden,0.7,Newcastle Utd
+Bruno Guimarães,80.0,Newcastle Utd
+Joelinton,35.0,Newcastle Utd
+Joe Willock,22.0,Newcastle Utd
+Lewis Miley,22.0,Newcastle Utd
+Sean Longstaff,20.0,Newcastle Utd
+Joe White,0.275,Newcastle Utd
+Anthony Gordon,65.0,Newcastle Utd
+Harvey Barnes,35.0,Newcastle Utd
+Trevan Sanusi,0.0,Newcastle Utd
+Jacob Murphy,16.0,Newcastle Utd
+Miguel Almirón,10.0,Newcastle Utd
+Alexander Isak,120.0,Newcastle Utd
+Callum Wilson,8.0,Newcastle Utd
+William Osula,7.0,Newcastle Utd
+Sean Neave,0.0,Newcastle Utd
+Bart Verbruggen,30.0,Brighton
+Carl Rushworth,3.0,Brighton
+Jason Steele,1.5,Brighton
+Tom McGill,0.6,Brighton
+Killian Cahill,0.15,Brighton
+Jan Paul van Hecke,32.0,Brighton
+Igor Julio,20.0,Brighton
+Adam Webster,11.0,Brighton
+Eiran Cashin,8.0,Brighton
+Lewis Dunk,6.0,Brighton
+Ruairi McConville,1.8,Brighton
+Ed Turns,0.35,Brighton
+Freddie Simmonds,0.0,Brighton
+Pervis Estupiñán,30.0,Brighton
+Ferdi Kadıoğlu,25.0,Brighton
+Jacob Slater,0.2,Brighton
+Imari Samuels,0.1,Brighton
+Tariq Lamptey,11.0,Brighton
+Joël Veltman,4.0,Brighton
+Odeluga Offiah,0.6,Brighton
+Charlie Tasker,0.2,Brighton
+Carlos Baleba,40.0,Brighton
+Mats Wieffer,25.0,Brighton
+Jack Hinshelwood,24.0,Brighton
+Billy Gilmour,20.0,Brighton
+Yasin Ayari,22.0,Brighton
+Matt O'Riley,22.0,Brighton
+Malick Yalcouyé,17.0,Brighton
+Diego Gómez,14.0,Brighton
+Jakub Moder,12.0,Brighton
+Valentín Barco,12.0,Brighton
+James Milner,1.0,Brighton
+Jensen Weir,0.35,Brighton
+Joe Knight,0.0,Brighton
+Julio Enciso,22.0,Brighton
+Harry Howell,0.0,Brighton
+Kaoru Mitoma,40.0,Brighton
+Simon Adingra,28.0,Brighton
+Jeremy Sarmiento,7.0,Brighton
+Cameron Peupion,0.225,Brighton
+Yankuba Minteh,30.0,Brighton
+Brajan Gruda,25.0,Brighton
+Solly March,6.0,Brighton
+Amario Cozier-Duberry,2.0,Brighton
+João Pedro,50.0,Brighton
+Georginio Rutter,32.0,Brighton
+Evan Ferguson,25.0,Brighton
+Danny Welbeck,5.0,Brighton
+Mark O'Mahony,0.5,Brighton
+Dean Henderson,20.0,Crystal Palace
+Sam Johnstone,6.0,Crystal Palace
+Matt Turner,2.5,Crystal Palace
+Joe Whitworth,1.7,Crystal Palace
+Remi Matthews,0.4,Crystal Palace
+Marc Guéhi,45.0,Crystal Palace
+Joachim Andersen,27.0,Crystal Palace
+Trevoh Chalobah,25.0,Crystal Palace
+Maxence Lacroix,25.0,Crystal Palace
+Chadi Riad,15.0,Crystal Palace
+Chris Richards,14.0,Crystal Palace
+Rob Holding,3.5,Crystal Palace
+Tyrick Mitchell,25.0,Crystal Palace
+Ben Chilwell,15.0,Crystal Palace
+Daniel Muñoz,25.0,Crystal Palace
+Nathaniel Clyne,1.0,Crystal Palace
+Caleb Kporha,1.0,Crystal Palace
+Joel Ward,0.5,Crystal Palace
+Adam Wharton,45.0,Crystal Palace
+Cheick Doucouré,25.0,Crystal Palace
+Jefferson Lerma,10.0,Crystal Palace
+David Ozoh,0.7,Crystal Palace
+Kaden Rodney,0.2,Crystal Palace
+Will Hughes,7.0,Crystal Palace
+Naouirou Ahamada,3.5,Crystal Palace
+Jeffrey Schlupp,3.0,Crystal Palace
+Eberechi Eze,55.0,Crystal Palace
+Daichi Kamada,12.0,Crystal Palace
+Matheus França,10.0,Crystal Palace
+Justin Devenny,6.0,Crystal Palace
+Asher Agbinone,0.075,Crystal Palace
+Ismaïla Sarr,25.0,Crystal Palace
+Romain Esse,12.0,Crystal Palace
+Malcolm Ebiowei,1.2,Crystal Palace
+Franco Umeh-Chibueze,0.075,Crystal Palace
+Jean-Philippe Mateta,30.0,Crystal Palace
+Eddie Nketiah,18.0,Crystal Palace
+Odsonne Édouard,8.0,Crystal Palace
+Jordan Ayew,2.5,Crystal Palace
+Zach Marsh,0.0,Crystal Palace
+Kepa Arrizabalaga,10.0,Bournemouth
+Mark Travers,4.0,Bournemouth
+Neto,1.5,Bournemouth
+Callan McKenna,0.6,Bournemouth
+Will Dennis,0.35,Bournemouth
+Dean Huijsen,60.0,Bournemouth
+Ilya Zabarnyi,42.0,Bournemouth
+Marcos Senesi,22.0,Bournemouth
+Chris Mepham,6.0,Bournemouth
+James Hill,3.0,Bournemouth
+Matai Akinmboni,1.0,Bournemouth
+Max Kinsey,0.0,Bournemouth
+Milos Kerkez,45.0,Bournemouth
+Julio Soler,8.0,Bournemouth
+Archie Harris,0.1,Bournemouth
+Julián Araujo,10.0,Bournemouth
+Max Aarons,6.0,Bournemouth
+Adam Smith,0.75,Bournemouth
+Tyler Adams,18.0,Bournemouth
+Ben Winterburn,0.5,Bournemouth
+Alex Scott,20.0,Bournemouth
+Lewis Cook,15.0,Bournemouth
+Philip Billing,10.0,Bournemouth
+Ryan Christie,10.0,Bournemouth
+Marcus Tavernier,18.0,Bournemouth
+Justin Kluivert,35.0,Bournemouth
+Dango Ouattara,28.0,Bournemouth
+Hamed Traoré,20.0,Bournemouth
+Luis Sinisterra,15.0,Bournemouth
+Jaidon Anthony,9.0,Bournemouth
+Zain Silcott-Duberry,0.2,Bournemouth
+Antoine Semenyo,40.0,Bournemouth
+David Brooks,10.0,Bournemouth
+Dominic Sadi,0.15,Bournemouth
+Evanilson,35.0,Bournemouth
+Enes Ünal,10.0,Bournemouth
+Daniel Jebbison,4.0,Bournemouth
+Remy Rees-Dottin,0.3,Bournemouth
+Daniel Adu-Adjei,0.15,Bournemouth
+Matz Sels,7.0,Nott'ham Forest
+Carlos Miguel,4.0,Nott'ham Forest
+Matt Turner,2.5,Nott'ham Forest
+Wayne Hennessey,0.15,Nott'ham Forest
+Murillo,55.0,Nott'ham Forest
+Nikola Milenković,35.0,Nott'ham Forest
+Morato,14.0,Nott'ham Forest
+Andrew Omobamidele,8.0,Nott'ham Forest
+Willy Boly,1.5,Nott'ham Forest
+Tyler Bindon,1.2,Nott'ham Forest
+Zach Abbott,0.3,Nott'ham Forest
+Neco Williams,20.0,Nott'ham Forest
+Álex Moreno,7.0,Nott'ham Forest
+Harry Toffolo,3.0,Nott'ham Forest
+Ola Aina,22.0,Nott'ham Forest
+Eric da Silva Moreira,1.0,Nott'ham Forest
+Danilo,28.0,Nott'ham Forest
+Ibrahim Sangaré,24.0,Nott'ham Forest
+Ben Perry,0.15,Nott'ham Forest
+Elliot Anderson,32.0,Nott'ham Forest
+Nicolás Domínguez,18.0,Nott'ham Forest
+Ryan Yates,12.0,Nott'ham Forest
+James Ward-Prowse,8.0,Nott'ham Forest
+Lewis O'Brien,4.0,Nott'ham Forest
+Morgan Gibbs-White,50.0,Nott'ham Forest
+Callum Hudson-Odoi,25.0,Nott'ham Forest
+Ramón Sosa,12.0,Nott'ham Forest
+Anthony Elanga,42.0,Nott'ham Forest
+Jota Silva,15.0,Nott'ham Forest
+Josh Bowler,1.0,Nott'ham Forest
+Taiwo Awoniyi,16.0,Nott'ham Forest
+Chris Wood,10.0,Nott'ham Forest
+Emmanuel Dennis,2.5,Nott'ham Forest
+José Sá,7.0,Wolves
+Sam Johnstone,6.0,Wolves
+Daniel Bentley,1.5,Wolves
+Tom King,0.2,Wolves
+Toti,28.0,Wolves
+Emmanuel Agbadou,20.0,Wolves
+Santiago Bueno,10.0,Wolves
+Nasser Djiga,10.0,Wolves
+Yerson Mosquera,8.0,Wolves
+Bastien Meupiyou,2.5,Wolves
+Craig Dawson,1.5,Wolves
+Alfie Pond,0.25,Wolves
+Rayan Aït-Nouri,35.0,Wolves
+Nélson Semedo,9.0,Wolves
+Pedro Lima,5.0,Wolves
+Matt Doherty,2.0,Wolves
+Wesley Okoduwa,0.0,Wolves
+André,28.0,Wolves
+Mario Lemina,7.5,Wolves
+Boubacar Traoré,5.0,Wolves
+Joe Hodge,1.0,Wolves
+Luke Rawlings,0.0,Wolves
+João Gomes,40.0,Wolves
+Jean-Ricner Bellegarde,18.0,Wolves
+Marshall Munetsi,15.0,Wolves
+Tommy Doyle,10.0,Wolves
+Luke Cundle,3.2,Wolves
+Rodrigo Gomes,15.0,Wolves
+Chem Campbell,0.9,Wolves
+Tawanda Chirewa,0.5,Wolves
+Gonçalo Guedes,11.0,Wolves
+Carlos Forbs,8.0,Wolves
+Daniel Podence,5.5,Wolves
+Enso González,4.0,Wolves
+Chiquinho,2.0,Wolves
+Pablo Sarabia,5.0,Wolves
+Tom Edozie,0.0,Wolves
+Matheus Cunha,60.0,Wolves
+Jørgen Strand Larsen,30.0,Wolves
+Hee-chan Hwang,12.0,Wolves
+Sasa Kalajdzic,4.0,Wolves
+Leon Chiwome,0.7,Wolves
+Nathan Fraser,0.6,Wolves
+Mateus Mané,0.2,Wolves
+Mark Flekken,10.0,Brentford
+Hákon Valdimarsson,2.5,Brentford
+Matthew Cox,0.8,Brentford
+Ben Winterbottom,0.0,Brentford
+Julian Eyestone,0.0,Brentford
+Nathan Collins,28.0,Brentford
+Sepp van den Berg,22.0,Brentford
+Kristoffer Ajer,18.0,Brentford
+Ethan Pinnock,7.0,Brentford
+Ben Mee,0.7,Brentford
+Ji-soo Kim,0.6,Brentford
+Benjamin Fredrick,0.15,Brentford
+Benjamin Arthur,0.0,Brentford
+Rico Henry,15.0,Brentford
+Jayden Meghoma,0.5,Brentford
+Michael Kayode,18.0,Brentford
+Aaron Hickey,10.0,Brentford
+Mads Roerslev,6.0,Brentford
+Vitaly Janelt,20.0,Brentford
+Christian Nørgaard,11.0,Brentford
+Yunus Konak,4.5,Brentford
+Yegor Yarmolyuk,15.0,Brentford
+Mathias Jensen,14.0,Brentford
+Frank Onyeka,7.0,Brentford
+Josh Dasilva,5.0,Brentford
+Paris Maghoma,0.8,Brentford
+Ryan Trevitt,0.275,Brentford
+Keane Lewis-Potter,23.0,Brentford
+Mikkel Damsgaard,28.0,Brentford
+Fábio Carvalho,14.0,Brentford
+Myles Peart-Harris,0.9,Brentford
+Kevin Schade,30.0,Brentford
+Gustavo Nunes,10.0,Brentford
+Tony Yogane,0.125,Brentford
+Bryan Mbeumo,55.0,Brentford
+Yoane Wissa,32.0,Brentford
+Igor Thiago,18.0,Brentford
+Iwan Morgan,0.0,Brentford
+Alphonse Areola,9.0,West Ham
+Wes Foderingham,0.6,West Ham
+Lukasz Fabianski,0.5,West Ham
+Jean-Clair Todibo,25.0,West Ham
+Maximilian Kilman,25.0,West Ham
+Konstantinos Mavropanos,17.0,West Ham
+Kaelan Casey,1.0,West Ham
+Ezra Mayers,0.0,West Ham
+Emerson,10.0,West Ham
+Oliver Scarles,8.0,West Ham
+Aaron Cresswell,0.5,West Ham
+Aaron Wan-Bissaka,24.0,West Ham
+Vladimír Coufal,5.0,West Ham
+Edson Álvarez,25.0,West Ham
+Tomáš Souček,18.0,West Ham
+Guido Rodríguez,10.0,West Ham
+Carlos Soler,18.0,West Ham
+James Ward-Prowse,8.0,West Ham
+Andrew Irving,4.0,West Ham
+Lewis Orford,0.4,West Ham
+Lucas Paquetá,28.0,West Ham
+Crysencio Summerville,22.0,West Ham
+Mohammed Kudus,45.0,West Ham
+Jarrod Bowen,40.0,West Ham
+Luís Guilherme,15.0,West Ham
+Evan Ferguson,25.0,West Ham
+Niclas Füllkrug,10.0,West Ham
+Danny Ings,6.0,West Ham
+Michail Antonio,0.7,West Ham
+Jordan Pickford,18.0,Everton
+João Virgínia,0.8,Everton
+Asmir Begovic,0.25,Everton
+Zan Luk Leban,0.15,Everton
+Jarrad Branthwaite,50.0,Everton
+James Tarkowski,9.0,Everton
+Michael Keane,5.0,Everton
+Mason Holgate,4.0,Everton
+Reece Welch,0.35,Everton
+Bradley Moonan,0.0,Everton
+Vitaliy Mykolenko,28.0,Everton
+Jake O'Brien,18.0,Everton
+Nathan Patterson,15.0,Everton
+Ashley Young,0.5,Everton
+Séamus Coleman,0.5,Everton
+Roman Dixon,0.2,Everton
+Orel Mangala,18.0,Everton
+James Garner,18.0,Everton
+Idrissa Gueye,1.5,Everton
+Luke Butterfield,0.0,Everton
+Carlos Alcaraz,14.0,Everton
+Tim Iroegbunam,9.0,Everton
+Harrison Armstrong,0.8,Everton
+Jenson Metcalfe,0.175,Everton
+Callum Bates,0.0,Everton
+Abdoulaye Doucouré,7.0,Everton
+Owen Barker,0.0,Everton
+Dwight McNeil,25.0,Everton
+Jack Harrison,14.0,Everton
+Isaac Heath,0.0,Everton
+Coby Ebere,0.0,Everton
+Iliman Ndiaye,22.0,Everton
+Jesper Lindstrøm,18.0,Everton
+Beto,22.0,Everton
+Dominic Calvert-Lewin,16.0,Everton
+Armando Broja,12.0,Everton
+Neal Maupay,8.0,Everton
+Youssef Chermiti,8.0,Everton
+Martin Sherif,0.0,Everton
+Bernd Leno,10.0,Fulham
+Steven Benda,1.0,Fulham
+Joachim Andersen,27.0,Fulham
+Calvin Bassey,25.0,Fulham
+Issa Diop,14.0,Fulham
+Jorge Cuenca,5.0,Fulham
+Sam Amissah,0.0,Fulham
+Antonee Robinson,35.0,Fulham
+Ryan Sessegnon,15.0,Fulham
+Kenny Tete,13.0,Fulham
+Timothy Castagne,13.0,Fulham
+Sander Berge,25.0,Fulham
+Saša Lukić,14.0,Fulham
+Harrison Reed,6.0,Fulham
+Tom Cairney,1.5,Fulham
+Josh King,1.0,Fulham
+Emile Smith Rowe,30.0,Fulham
+Andreas Pereira,18.0,Fulham
+Alex Iwobi,28.0,Fulham
+Reiss Nelson,16.0,Fulham
+Willian,0.75,Fulham
+Martial Godo,0.6,Fulham
+Harry Wilson,15.0,Fulham
+Adama Traoré,9.0,Fulham
+Rodrigo Muniz,20.0,Fulham
+Jay Stansfield,11.0,Fulham
+Raúl Jiménez,5.0,Fulham
+Carlos Vinícius,3.5,Fulham
+Aaron Ramsdale,16.0,Southampton
+Gavin Bazunu,9.0,Southampton
+Joe Lumley,0.5,Southampton
+Alex McCarthy,0.35,Southampton
+Taylor Harwood-Bellis,22.0,Southampton
+Jan Bednarek,9.0,Southampton
+Armel Bella-Kotchap,9.0,Southampton
+Ronnie Edwards,3.8,Southampton
+Nathan Wood,3.5,Southampton
+Jack Stephens,1.5,Southampton
+Joachim Kayi Sanda,1.5,Southampton
+Jayden Moore,0.0,Southampton
+Juan Larios,3.5,Southampton
+Ryan Manning,3.0,Southampton
+Welington,3.0,Southampton
+Charlie Taylor,2.2,Southampton
+Kyle Walker-Peters,15.0,Southampton
+Yukinari Sugawara,11.0,Southampton
+James Bree,2.5,Southampton
+Lesley Ugochukwu,18.0,Southampton
+Flynn Downes,13.0,Southampton
+Shea Charles,10.0,Southampton
+Mateus Fernandes,15.0,Southampton
+Carlos Alcaraz,14.0,Southampton
+Joe Aribo,6.0,Southampton
+Will Smallbone,6.0,Southampton
+Joe O'Brien-Whitmarsh,0.3,Southampton
+Romeo Akachukwu,0.15,Southampton
+Albert Grønbæk,11.0,Southampton
+Adam Lallana,0.75,Southampton
+Kamaldeen Sulemana,13.0,Southampton
+Maxwel Cornet,8.0,Southampton
+Samuel Edozie,6.0,Southampton
+Ryan Fraser,2.0,Southampton
+Jay Robinson,0.0,Southampton
+Tyler Dibling,25.0,Southampton
+Samuel Amo-Ameyaw,4.0,Southampton
+Adam Armstrong,12.0,Southampton
+Cameron Archer,12.0,Southampton
+Ben Brereton Díaz,7.5,Southampton
+Paul Onuachu,6.0,Southampton
+Ross Stewart,4.0,Southampton
+Arijanet Murić,5.0,Ipswich Town
+Christian Walton,1.0,Ipswich Town
+Alex Palmer,1.0,Ipswich Town
+Cieran Slicker,0.3,Ipswich Town
+Jacob Greaves,18.0,Ipswich Town
+Dara O'Shea,14.0,Ipswich Town
+Ben Godfrey,6.0,Ipswich Town
+Axel Tuanzebe,5.0,Ipswich Town
+Luke Woolfenden,2.0,Ipswich Town
+Cameron Burgess,2.0,Ipswich Town
+George Edmundson,0.8,Ipswich Town
+Leif Davis,22.0,Ipswich Town
+Conor Townsend,0.8,Ipswich Town
+Somto Boniface,0.0,Ipswich Town
+Ben Johnson,8.0,Ipswich Town
+Harry Clarke,4.5,Ipswich Town
+Kalvin Phillips,12.0,Ipswich Town
+Jens Cajuste,12.0,Ipswich Town
+Jack Taylor,3.0,Ipswich Town
+Sam Morsy,0.5,Ipswich Town
+Massimo Luongo,0.4,Ipswich Town
+Wes Burns,2.0,Ipswich Town
+Julio Enciso,22.0,Ipswich Town
+Omari Hutchinson,22.0,Ipswich Town
+Sammie Szmodics,10.0,Ipswich Town
+Marcus Harness,0.8,Ipswich Town
+Jaden Philogene,16.0,Ipswich Town
+Jack Clarke,15.0,Ipswich Town
+Nathan Broadhead,4.5,Ipswich Town
+Chiedozie Ogbene,7.0,Ipswich Town
+Conor Chaplin,6.0,Ipswich Town
+Liam Delap,40.0,Ipswich Town
+George Hirst,4.0,Ipswich Town
+Ali Al-Hamadi,2.5,Ipswich Town
+Tom Taylor,0.0,Ipswich Town
+Mads Hermansen,15.0,Leicester City
+Daniel Iversen,2.5,Leicester City
+Danny Ward,1.2,Leicester City
+Jakub Stolarczyk,1.0,Leicester City
+Wout Faes,15.0,Leicester City
+Caleb Okoli,10.0,Leicester City
+Harry Souttar,6.0,Leicester City
+Conor Coady,2.2,Leicester City
+Jannik Vestergaard,2.0,Leicester City
+Ben Nelson,0.5,Leicester City
+Tom Wilson-Brown,0.0,Leicester City
+Victor Kristiansen,15.0,Leicester City
+Luke Thomas,6.0,Leicester City
+James Justin,13.0,Leicester City
+Ricardo Pereira,4.5,Leicester City
+Woyo Coulibaly,2.0,Leicester City
+Olabade Aluko,0.0,Leicester City
+Wilfred Ndidi,15.0,Leicester City
+Boubakary Soumaré,12.0,Leicester City
+Oliver Skipp,10.0,Leicester City
+Hamza Choudhury,4.5,Leicester City
+Sammy Braybrooke,0.3,Leicester City
+Harry Winks,9.0,Leicester City
+Michael Golding,2.0,Leicester City
+Henry Cartwright,0.0,Leicester City
+Kasey McAteer,2.0,Leicester City
+Bilal El Khannouss,28.0,Leicester City
+Facundo Buonanotte,20.0,Leicester City
+Will Alves,0.4,Leicester City
+Stephy Mavididi,10.0,Leicester City
+Jeremy Monga,0.0,Leicester City
+Issahaku Fatawu,11.0,Leicester City
+Bobby De Cordova-Reid,2.5,Leicester City
+Tom Cannon,10.0,Leicester City
+Patson Daka,9.0,Leicester City
+Odsonne Édouard,8.0,Leicester City
+Jordan Ayew,2.5,Leicester City
+Jamie Vardy,1.0,Leicester City
+Jake Evans,0.15,Leicester City
+Chris Popov,0.1,Leicester City

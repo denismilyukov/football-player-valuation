@@ -1,0 +1,705 @@
+Player,Value,Squad
+Rui Silva,7.0,Sporting CP
+Franco Israel,5.0,Sporting CP
+Vladan Kovacevic,3.0,Sporting CP
+Diego Callai,1.0,Sporting CP
+Diogo Pinto,0.5,Sporting CP
+Francisco Silva,0.0,Sporting CP
+Gonçalo Inácio,45.0,Sporting CP
+Ousmane Diomande,45.0,Sporting CP
+Zeno Debast,30.0,Sporting CP
+Eduardo Quaresma,18.0,Sporting CP
+Jeremiah St Juste,6.0,Sporting CP
+João Muniz,0.5,Sporting CP
+Bruno Ramos,0.1,Sporting CP
+David Moreira,0.0,Sporting CP
+Miguel Alves,0.0,Sporting CP
+Lucas Taibo,0.0,Sporting CP
+Maxi Araújo,17.0,Sporting CP
+Nuno Santos,9.0,Sporting CP
+Matheus Reis,6.0,Sporting CP
+Iván Fresneda,8.0,Sporting CP
+Ricardo Esgaio,1.5,Sporting CP
+Morten Hjulmand,50.0,Sporting CP
+Dário Essugo,20.0,Sporting CP
+Eduardo Felicíssimo,3.0,Sporting CP
+Henrique Arreiol,1.0,Sporting CP
+Alexandre Brito,0.0,Sporting CP
+Mateus Fernandes,15.0,Sporting CP
+Hidemasa Morita,13.0,Sporting CP
+Daniel Bragança,12.0,Sporting CP
+Samuel Justo,0.4,Sporting CP
+Geny Catamo,15.0,Sporting CP
+José Silva,0.0,Sporting CP
+Denilson Santos,0.0,Sporting CP
+João Simões,6.0,Sporting CP
+Kauã Oliveira,0.0,Sporting CP
+Luís Gomes,0.0,Sporting CP
+Manuel Mendonça,0.0,Sporting CP
+Pedro Gonçalves,30.0,Sporting CP
+Biel,5.0,Sporting CP
+Afonso Moreira,0.4,Sporting CP
+Geovany Quenda,45.0,Sporting CP
+Francisco Trincão,35.0,Sporting CP
+Marcus Edwards,12.0,Sporting CP
+Mauro Couto,0.2,Sporting CP
+Viktor Gyökeres,75.0,Sporting CP
+Conrad Harder,24.0,Sporting CP
+Rodrigo Ribeiro,2.5,Sporting CP
+Lucas Anjos,0.0,Sporting CP
+Gabriel Silva,0.0,Sporting CP
+Rafael Nel,0.0,Sporting CP
+Diogo Costa,40.0,Porto
+Cláudio Ramos,1.2,Porto
+Samuel Portugal,1.0,Porto
+Diogo Fernandes,0.9,Porto
+Nehuén Pérez,13.0,Porto
+David Carmo,10.0,Porto
+Otávio,10.0,Porto
+Tiago Djaló,8.0,Porto
+Zé Pedro,4.0,Porto
+Gabriel Brás,1.2,Porto
+Iván Marcano,0.2,Porto
+Francisco Moura,15.0,Porto
+Wendell,3.5,Porto
+Zaidu,2.0,Porto
+Martim Fernandes,12.0,Porto
+Nico González,40.0,Porto
+Alan Varela,32.0,Porto
+Marko Grujić,4.0,Porto
+Tomás Pérez,3.0,Porto
+Domingos Andrade,1.0,Porto
+André Oliveira,0.8,Porto
+Stephen Eustaquio,10.0,Porto
+Vasco Sousa,4.0,Porto
+João Teixeira,0.65,Porto
+João Mário,10.0,Porto
+Rodrigo Mora,40.0,Porto
+Fábio Vieira,22.0,Porto
+Gabri Veiga,18.0,Porto
+Iván Jaime,5.0,Porto
+André Franco,2.5,Porto
+Galeno,24.0,Porto
+William Gomes,9.0,Porto
+Ángel Alarcón,1.5,Porto
+Pepê,22.0,Porto
+Gonçalo Borges,5.0,Porto
+Gonçalo Sousa,1.5,Porto
+Samu Aghehowa,50.0,Porto
+Evanilson,35.0,Porto
+Fran Navarro,6.0,Porto
+Danny Namaso,4.0,Porto
+Deniz Gül,4.0,Porto
+Toni Martínez,2.5,Porto
+Anatoliy Trubin,28.0,Benfica
+Samuel Soares,4.0,Benfica
+André Gomes,2.5,Benfica
+Diogo Ferreira,0.0,Benfica
+Tomás Araújo,32.0,Benfica
+António Silva,32.0,Benfica
+Morato,14.0,Benfica
+Adrian Bajrami,1.5,Benfica
+Joshua Wynder,1.5,Benfica
+Gustavo Marques,1.4,Benfica
+Nicolás Otamendi,1.0,Benfica
+João Fonseca,0.25,Benfica
+Gonçalo Oliveira,0.0,Benfica
+Álvaro Carreras,35.0,Benfica
+Samuel Dahl,7.0,Benfica
+Tiago Parente,0.3,Benfica
+Alexander Bah,10.0,Benfica
+Issa Kaboré,4.0,Benfica
+Leandro Santos,1.0,Benfica
+Florentino,22.0,Benfica
+Manu Silva,10.0,Benfica
+Nuno Félix,1.7,Benfica
+Rafael Luís,1.2,Benfica
+Orkun Kökçü,30.0,Benfica
+Fredrik Aursnes,20.0,Benfica
+Leandro Barreiro,15.0,Benfica
+Renato Sanches,3.0,Benfica
+Martim Neto,2.5,Benfica
+Diogo Prioste,1.8,Benfica
+João Veloso,0.5,Benfica
+Tiago Freitas,0.0,Benfica
+João Rego,3.0,Benfica
+Hugo Félix,2.5,Benfica
+João Mário,2.1,Benfica
+Kerem Aktürkoğlu,24.0,Benfica
+Andreas Schjelderup,15.0,Benfica
+Bruma,7.0,Benfica
+Benjamín Rollheiser,8.0,Benfica
+Gianluca Prestianni,8.0,Benfica
+Niklas Beste,7.0,Benfica
+Tiago Gouveia,4.0,Benfica
+Ángel Di María,2.0,Benfica
+Gerson Sousa,1.3,Benfica
+Vangelis Pavlidis,35.0,Benfica
+Marcos Leonardo,18.0,Benfica
+Zeki Amdouni,12.0,Benfica
+Arthur Cabral,10.0,Benfica
+Andrea Belotti,2.0,Benfica
+Gustavo Varela,1.2,Benfica
+Lukas Hornicek,6.0,Braga
+Matheus,2.5,Braga
+João Carvalho,1.0,Braga
+Tiago Sá,0.5,Braga
+Sikou Niakaté,8.0,Braga
+Bright Arrey-Mbi,6.0,Braga
+Robson Bambu,3.0,Braga
+Serdar Saatçı,2.5,Braga
+Paulo Oliveira,1.0,Braga
+Jonatás Noro,1.0,Braga
+Zé Pedro,0.0,Braga
+Rodrigo Beirão,0.0,Braga
+Chissumba,5.0,Braga
+Adrián Marín,1.5,Braga
+Yuri Ribeiro,1.2,Braga
+Bartlomiej Wdowik,1.0,Braga
+Víctor Gómez,6.0,Braga
+Joe Mendes,3.0,Braga
+João Ferreira,3.0,Braga
+André Ferreira,0.0,Braga
+Gui Costa,0.0,Braga
+Vítor Carvalho,6.0,Braga
+Uros Racic,3.5,Braga
+Thiago Helguera,3.5,Braga
+Rodrigo Zalazar,18.0,Braga
+André Horta,4.0,Braga
+Gorby,4.0,Braga
+Diego Rodrigues,2.0,Braga
+João Moutinho,0.6,Braga
+Vasconcelos,2.0,Braga
+Ricardo Horta,12.0,Braga
+Ismaël Gharbi,7.5,Braga
+Bruma,7.0,Braga
+Gabri Martínez,4.0,Braga
+João Marques,3.0,Braga
+Sandro Vidigal,0.0,Braga
+Roger Fernandes,22.0,Braga
+Rafik Guitane,4.0,Braga
+Rúben Furtado,0.0,Braga
+Simon Banza,14.0,Braga
+Roberto Fernández,6.0,Braga
+Fran Navarro,6.0,Braga
+Amine El Ouazzani,3.5,Braga
+Afonso Patrão,2.0,Braga
+Rodrigo Macedo,0.0,Braga
+Yan Said,0.0,Braga
+Bruno Varela,2.5,Vitoria
+Charles,0.3,Vitoria
+Jota,0.1,Vitoria
+Gui,0.0,Vitoria
+Toni Borevković,5.0,Vitoria
+Filipe Relvas,3.0,Vitoria
+Jorge Fernandes,2.0,Vitoria
+Tomás Ribeiro,1.0,Vitoria
+Mikel Villanueva,1.0,Vitoria
+Óscar Rivas,0.5,Vitoria
+Rika,0.0,Vitoria
+João Mendes,3.0,Vitoria
+Ricardo Mangas,2.5,Vitoria
+Alberto Costa,10.0,Vitoria
+Maga,2.0,Vitoria
+Hevertton,1.0,Vitoria
+Bruno Gaspar,0.6,Vitoria
+Rodrigo Silva,0.0,Vitoria
+Tomás Händel,13.0,Vitoria
+Manu Silva,10.0,Vitoria
+Diogo Sousa,0.0,Vitoria
+Tiago Silva,3.0,Vitoria
+Beni,2.0,Vitoria
+Zé Carlos,1.0,Vitoria
+Nuno Santos,2.5,Vitoria
+João Mendes,2.0,Vitoria
+Samu,1.8,Vitoria
+Marco Cruz,0.2,Vitoria
+Vando Félix,1.0,Vitoria
+Jota Silva,15.0,Vitoria
+Kaio César,5.0,Vitoria
+Telmo Arcanjo,3.0,Vitoria
+Gustavo Silva,3.0,Vitoria
+Úmaro Embaló,0.7,Vitoria
+Rodrigo Duarte,0.0,Vitoria
+Jesús Ramírez,1.0,Vitoria
+Nélson Oliveira,0.35,Vitoria
+Bica,0.3,Vitoria
+Dieu-Merci Michel,0.3,Vitoria
+Luiz Júnior,10.0,Famalicão
+Ivan Zlobin,1.5,Famalicão
+Lazar Carević,1.5,Famalicão
+Hugo Cunha,0.1,Famalicão
+Gabriel Cabral,0.0,Famalicão
+Enea Mihaj,4.0,Famalicão
+Justin de Haas,3.0,Famalicão
+Riccieli,2.0,Famalicão
+Léo Realpe,1.5,Famalicão
+Ibrahima Ba,0.5,Famalicão
+Francisco Moura,15.0,Famalicão
+Rafa Soares,1.5,Famalicão
+Pedro Bondo,0.5,Famalicão
+Diogo Costa,0.2,Famalicão
+Calegari,3.5,Famalicão
+Rodrigo Pinheiro,2.5,Famalicão
+Mirko Topić,5.0,Famalicão
+Tom van de Looi,2.0,Famalicão
+Gustavo Assunção,1.0,Famalicão
+Zaydou Youssouf,6.0,Famalicão
+Mathias de Amorim,1.5,Famalicão
+Otar Mamageishvili,0.7,Famalicão
+Samuel Lobato,0.2,Famalicão
+Gustavo Sá,16.0,Famalicão
+Otso Liimatta,0.8,Famalicão
+Rodrigo Ribeiro,0.0,Famalicão
+Sorriso,5.0,Famalicão
+Óscar Aranda,4.0,Famalicão
+Rochinha,1.0,Famalicão
+Gil Dias,1.5,Famalicão
+Afonso Rodrigues,0.35,Famalicão
+Dudá,0.0,Famalicão
+Mario González,1.2,Famalicão
+Simon Elisor,1.0,Famalicão
+Vaclav Sejk,0.8,Famalicão
+Yassir Zabiri,0.6,Famalicão
+Leonardo Oliveira,0.1,Famalicão
+Cezary Miszta,3.0,Rio Ave
+Matheus Teixeira,0.4,Rio Ave
+Jhonatan,0.3,Rio Ave
+Antzelo Sina,0.2,Rio Ave
+Andreas Ntoi,4.5,Rio Ave
+Francisco Petrasso,1.5,Rio Ave
+Jonathan Panzo,1.2,Rio Ave
+Patrick William,0.9,Rio Ave
+Nelson Abbey,0.7,Rio Ave
+Renato Pantalon,0.6,Rio Ave
+Konstantinos Kostoulas,0.5,Rio Ave
+João Muniz,0.5,Rio Ave
+Miguel Nóbrega,0.4,Rio Ave
+Aderllan Santos,0.1,Rio Ave
+Omar Richards,2.5,Rio Ave
+João Pedro,0.4,Rio Ave
+Georgios Okkas,0.15,Rio Ave
+Marios Vrousai,2.0,Rio Ave
+João Tomé,0.6,Rio Ave
+Demir Ege Tıknaz,5.0,Rio Ave
+Theofanis Bakoulas,1.0,Rio Ave
+Amine Oudrhiri,0.3,Rio Ave
+Vítor Gomes,0.1,Rio Ave
+Martim Neto,2.5,Rio Ave
+Brandon Aguilera,1.5,Rio Ave
+João Novais,0.4,Rio Ave
+João Graça,0.3,Rio Ave
+Dijar Ferati,0.1,Rio Ave
+Karse,0.1,Rio Ave
+Ole Pohlmann,2.5,Rio Ave
+Tiago Morais,3.0,Rio Ave
+Tobías Medina,1.0,Rio Ave
+Kiko Bondoso,0.8,Rio Ave
+Tim,0.15,Rio Ave
+André Luiz,2.5,Rio Ave
+Fábio Ronaldo,1.0,Rio Ave
+Amine Rehmi,0.175,Rio Ave
+Clayton,5.0,Rio Ave
+Karem Zoabi,0.9,Rio Ave
+Ahmed Hassan,0.8,Rio Ave
+Chukwudi Igbokwe,0.1,Rio Ave
+Naziru Shuabiu,0.0,Rio Ave
+Dani Figueira,0.75,Estoril
+Joel Robles,0.5,Estoril
+Kevin Chamorro,0.3,Estoril
+Diogo Dias,0.2,Estoril
+Željko Vitorović,0.0,Estoril
+Kévin Boma,4.0,Estoril
+Pedro Álvaro,2.0,Estoril
+Felix Bacher,2.0,Estoril
+Bernardo Vital,1.2,Estoril
+Finn Dicke,0.25,Estoril
+Ismael Sierra,0.2,Estoril
+Eliaquim Mangala,0.2,Estoril
+Philippe Lanquetin,0.0,Estoril
+Pedro Amaral,1.0,Estoril
+Gonçalo Costa,0.5,Estoril
+Tiago Parente,0.0,Estoril
+Wagner Pina,5.0,Estoril
+Pedro Carvalho,0.4,Estoril
+Jordan Holsgrove,3.5,Estoril
+Zanocelo,2.5,Estoril
+Jandro Orellana,1.0,Estoril
+Mor Ndiaye,0.4,Estoril
+Tiago Brito,0.0,Estoril
+Xeka,2.0,Estoril
+Michel Costa,0.55,Estoril
+Andrei Florea,0.1,Estoril
+Fran Pereira,0.0,Estoril
+João Carvalho,3.0,Estoril
+Foe Ondoa,0.4,Estoril
+André Lacximicant,1.0,Estoril
+André Gonçalves,0.15,Estoril
+Rafik Guitane,4.0,Estoril
+Fabrício Garcia,0.8,Estoril
+Hélder Costa,0.4,Estoril
+Yanis Begraoui,3.5,Estoril
+Alejandro Marqués,2.5,Estoril
+Israel Salazar,0.2,Estoril
+Gabriel Batista,4.0,Santa Clara
+Neneca,0.4,Santa Clara
+Denivys,0.1,Santa Clara
+Sidney Lima,3.5,Santa Clara
+Pedro Pacheco,0.7,Santa Clara
+Gui Ramos,0.7,Santa Clara
+Alysson,0.6,Santa Clara
+Frederico Venâncio,0.6,Santa Clara
+Habraão,0.4,Santa Clara
+Luís Rocha,0.1,Santa Clara
+Italo Cabelinho,0.0,Santa Clara
+Henrique Silva,0.0,Santa Clara
+Matheus Pereira,2.5,Santa Clara
+Paulo Henrique,0.6,Santa Clara
+Edney,0.3,Santa Clara
+Adriano Firmino,2.5,Santa Clara
+Pedro Ferreira,2.0,Santa Clara
+Dani Borges,0.4,Santa Clara
+Serginho,1.0,Santa Clara
+Gustavo Klismahn,0.6,Santa Clara
+Djé,0.0,Santa Clara
+Lucas Soares,1.5,Santa Clara
+Calila,1.0,Santa Clara
+MT,5.0,Santa Clara
+Matheusinho,1.5,Santa Clara
+Rildo,1.0,Santa Clara
+Gabriel Silva,5.0,Santa Clara
+Ricardinho,1.0,Santa Clara
+Vital Maia,0.0,Santa Clara
+Vinícius Lopes,2.5,Santa Clara
+Bruno Almeida,0.7,Santa Clara
+Rodrigo Varanda,0.0,Santa Clara
+Adriel Moraes,0.0,Santa Clara
+Wendel,1.2,Santa Clara
+Alisson Safira,0.6,Santa Clara
+João Costa,0.5,Santa Clara
+Gustavo Veiga,0.0,Santa Clara
+Nico Mantl,1.5,Arouca
+João Valido,0.3,Arouca
+Thiago Silva,0.175,Arouca
+Jakub Vinarčík,0.15,Arouca
+Chico Lamba,3.0,Arouca
+José Fontán,2.0,Arouca
+Boris Popović,1.5,Arouca
+Matías Rocha,0.4,Arouca
+Nino Galović,0.3,Arouca
+Weverson,1.5,Arouca
+Amadou Dante,1.5,Arouca
+Quaresma,0.65,Arouca
+Tiago Esgaio,0.9,Arouca
+Alex Pinto,0.5,Arouca
+Mamadou Loum,1.2,Arouca
+Uri Busquets,0.3,Arouca
+Taichi Fukui,2.0,Arouca
+Pedro Santos,1.2,Arouca
+David Simão,0.1,Arouca
+Pedro Moreira,0.05,Arouca
+Ivo Rodrigues,1.0,Arouca
+Pablo Gozálbez,0.5,Arouca
+Morlaye Sylla,2.5,Arouca
+Brian Mansilla,1.0,Arouca
+Miguel Puche,0.4,Arouca
+Jason Remeseiro,2.5,Arouca
+Alfonso Trezza,1.0,Arouca
+Cristo,5.0,Arouca
+Henrique Araújo,2.0,Arouca
+Güven Yalçın,1.2,Arouca
+Dylan Nandín,0.8,Arouca
+Vladislav Morozov,0.25,Arouca
+Andrew,4.0,Gil Vicente FC
+Brian Araújo,0.3,Gil Vicente FC
+Miloš Gordić,0.2,Gil Vicente FC
+Marvin Elimbi,0.75,Gil Vicente FC
+Jonathan Buatu,0.6,Gil Vicente FC
+Felipe Silva,0.5,Gil Vicente FC
+Josué Sá,0.3,Gil Vicente FC
+Rúben Fernandes,0.05,Gil Vicente FC
+Carlos Ventura,0.0,Gil Vicente FC
+Sandro Cruz,1.0,Gil Vicente FC
+Kazu,0.3,Gil Vicente FC
+Zé Carlos,0.8,Gil Vicente FC
+Jonathan Mutombo,0.5,Gil Vicente FC
+Mory Gbane,4.0,Gil Vicente FC
+Mohamed Bamba,3.0,Gil Vicente FC
+Jesús Castillo,0.7,Gil Vicente FC
+Diogo Pereira,0.1,Gil Vicente FC
+Gui Beleza,0.0,Gil Vicente FC
+Maxime Dominguez,1.2,Gil Vicente FC
+Facundo Cáseres,1.0,Gil Vicente FC
+João Teixeira,0.3,Gil Vicente FC
+Yaya Sithole,0.2,Gil Vicente FC
+Kanya Fujimoto,4.0,Gil Vicente FC
+Santi García,0.8,Gil Vicente FC
+Félix Correia,4.0,Gil Vicente FC
+João Marques,3.0,Gil Vicente FC
+Tidjany Touré,0.5,Gil Vicente FC
+Diego Collado,0.4,Gil Vicente FC
+Sergio Bermejo,0.9,Gil Vicente FC
+Jordi Mboula,0.5,Gil Vicente FC
+Rodrigo Rodrigues,0.0,Gil Vicente FC
+João Pinto,0.2,Gil Vicente FC
+Cauê,0.8,Gil Vicente FC
+Pablo,0.8,Gil Vicente FC
+Carlos Eduardo,0.7,Gil Vicente FC
+Jorge Aguirre,0.6,Gil Vicente FC
+Depú,0.25,Gil Vicente FC
+Patrick Sequeira,4.0,Casa Pia
+Daniel Azevedo,0.1,Casa Pia
+Ricardo Batista,0.1,Casa Pia
+João Goulart,2.0,Casa Pia
+Tchamba,1.0,Casa Pia
+Ruben Kluivert,0.7,Casa Pia
+Nermin Zolotic,0.6,Casa Pia
+Kaly,0.25,Casa Pia
+José Fonte,0.1,Casa Pia
+Isaac Monteiro,0.1,Casa Pia
+Leonardo Lelo,4.0,Casa Pia
+Fahem Benaïssa,0.4,Casa Pia
+Gaizka Larrazabal,2.0,Casa Pia
+André Geraldes,0.2,Casa Pia
+Iyad Mohamed,0.6,Casa Pia
+Rafael Brito,0.5,Casa Pia
+Telasco Segovia,2.5,Casa Pia
+Beni,2.0,Casa Pia
+Andrian Kraev,1.5,Casa Pia
+Pablo Roberto,0.8,Casa Pia
+Miguel Sousa,0.5,Casa Pia
+Renato Nhaga,0.1,Casa Pia
+Raúl Blanco,0.3,Casa Pia
+Nuno Moreira,3.0,Casa Pia
+Henrique Pereira,0.8,Casa Pia
+Tiago Dias,0.2,Casa Pia
+Jérémy Livolant,1.5,Casa Pia
+Korede Osundina,0.45,Casa Pia
+Kiki,0.2,Casa Pia
+Cauê,0.8,Casa Pia
+Samuel Obeng,0.55,Casa Pia
+Max Svensson,0.5,Casa Pia
+Cassiano,0.2,Casa Pia
+Clau Mendes,0.2,Casa Pia
+Kewin,1.0,Moreirense
+Caio Secco,0.2,Moreirense
+Mika,0.1,Moreirense
+Maracás,1.0,Moreirense
+Michel,1.0,Moreirense
+Ponck,0.6,Moreirense
+Gilberto Batista,0.2,Moreirense
+Marcelo,0.1,Moreirense
+Godfried Frimpong,2.0,Moreirense
+Leonardo Buta,2.0,Moreirense
+Fabiano,1.7,Moreirense
+Dinis Pinto,1.5,Moreirense
+Dani Morer,0.2,Moreirense
+Rúben Ismael,1.5,Moreirense
+Guilherme Liberato,0.3,Moreirense
+Afonso Assis,0.1,Moreirense
+Lawrence Ofori,2.0,Moreirense
+Sidnei Tavares,0.8,Moreirense
+Castro,0.05,Moreirense
+Alan,4.0,Moreirense
+Ivo Rodrigues,1.0,Moreirense
+Benny,1.0,Moreirense
+Madson,2.0,Moreirense
+Gabrielzinho,0.8,Moreirense
+Cedric Teguia,0.8,Moreirense
+Jeremy Antonisse,0.7,Moreirense
+Joel Jorquera,0.3,Moreirense
+Pedro Santos,0.8,Moreirense
+Hernâni,0.2,Moreirense
+Luis Asué,2.0,Moreirense
+Guilherme Schettine,0.9,Moreirense
+Yan Maranhão,0.6,Moreirense
+Ricardo Velho,4.0,Farense
+Kaique Pereira,0.6,Farense
+Lucas Cañizares,0.4,Farense
+Miguel Carvalho,0.1,Farense
+Tomás Ribeiro,1.0,Farense
+Marco Moreno,0.7,Farense
+Artur Jorge,0.3,Farense
+Lucas Áfrico,0.3,Farense
+Raúl Silva,0.1,Farense
+Paulo Victor,0.8,Farense
+Talys,0.35,Farense
+Derick Poloni,0.3,Farense
+Talocha,0.075,Farense
+Pastor,1.0,Farense
+Rivaldo,0.2,Farense
+Claudio Falcão,0.8,Farense
+Gio Almeida,0.3,Farense
+André Seruca,0.25,Farense
+Zé Carlos,1.0,Farense
+Miguel Menino,1.0,Farense
+Samuel Justo,0.4,Farense
+Neto,0.2,Farense
+Filipe Soares,1.0,Farense
+Rafael Barbosa,0.35,Farense
+Jhon Velásquez,0.2,Farense
+Rafinha,0.0,Farense
+Álex Bermejo,0.4,Farense
+Marco Matias,0.1,Farense
+Mohamed Belloumi,4.5,Farense
+Rony Lopes,2.0,Farense
+Mehdi Merghem,0.45,Farense
+Elves Baldé,0.3,Farense
+Jaiminho,0.2,Farense
+André Candeias,0.0,Farense
+Yusupha Njie,0.8,Farense
+Rui Costa,0.6,Farense
+Álex Millán,0.5,Farense
+Darío Poveda,0.5,Farense
+Cuba,0.25,Farense
+Tomané,0.2,Farense
+João Costa,0.8,Estrela
+Bruno Brígido,0.2,Estrela
+Francisco Meixedo,0.2,Estrela
+Marko Gudžulić,0.2,Estrela
+Tiago Gabriel,1.0,Estrela
+Till Cissokho,0.8,Estrela
+Ferro,0.7,Estrela
+Issiar Dramé,0.6,Estrela
+Renato Pantalon,0.6,Estrela
+Semeu Commey,0.3,Estrela
+Georgiy Tunguliyadi,0.0,Estrela
+Otávio,0.0,Estrela
+Nilton,1.5,Estrela
+Guilherme Montóia,0.4,Estrela
+Rúben Lima,0.1,Estrela
+Diogo Travassos,1.5,Estrela
+Danilo Veiga,1.0,Estrela
+Juan Mina,0.2,Estrela
+Miguel Lopes,0.05,Estrela
+Igor Jesus,3.5,Estrela
+Leonel Bucca,0.6,Estrela
+Manuel Keliano,0.4,Estrela
+Amine Oudrhiri,0.3,Estrela
+Daniel Cabral,0.1,Estrela
+Léo Cordeiro,1.0,Estrela
+Paulo Moreira,0.4,Estrela
+Botche Candé,0.0,Estrela
+Alex Sola,0.0,Estrela
+Euri Carvalho,0.1,Estrela
+Alan Ruiz,0.4,Estrela
+Jovane Cabral,1.0,Estrela
+Chico Banza,0.8,Estrela
+Petterson,0.75,Estrela
+Gustavo Henrique,0.25,Estrela
+Nani,0.0,Estrela
+Sérgio Malé,0.0,Estrela
+André Luiz,2.5,Estrela
+Gerson Sousa,1.3,Estrela
+Fábio Ronaldo,1.0,Estrela
+Caio Santana,0.1,Estrela
+Mamede,0.1,Estrela
+Manu,0.0,Estrela
+Kikas,1.0,Estrela
+Rodrigo Pinho,0.25,Estrela
+Bilal Mazhar,0.2,Estrela
+Lucas França,1.0,Nacional
+Rui Encarnação,0.2,Nacional
+César Augusto,0.1,Nacional
+Zé Vítor,2.0,Nacional
+Ulisses,1.5,Nacional
+Léo Santos,0.6,Nacional
+Ivanildo Fernandes,0.2,Nacional
+Chico Gonçalves,0.2,Nacional
+Douglas Sequeira,0.175,Nacional
+José Gomes,1.0,Nacional
+Arvin Appiah,0.5,Nacional
+Afonso Freitas,0.4,Nacional
+Garcia,3.0,Nacional
+João Aurélio,0.05,Nacional
+Djibril Soumaré,1.5,Nacional
+Matheus Dias,1.5,Nacional
+Bruno Costa,0.5,Nacional
+Chiheb Labidi,0.5,Nacional
+Jota,0.075,Nacional
+André Sousa,0.05,Nacional
+Luís Esteves,1.0,Nacional
+Daniel Penha,0.75,Nacional
+Miguel Baeza,0.4,Nacional
+Paulinho Bóia,0.7,Nacional
+Rúben Macedo,0.45,Nacional
+Nigel Thomas,0.3,Nacional
+Gabriel Santos,0.275,Nacional
+Fuki Yamada,0.7,Nacional
+Isaac,0.7,Nacional
+Dudu Teodora,0.6,Nacional
+Tiago Reis,0.4,Nacional
+Adrián Butzke,0.3,Nacional
+Joel Tagueu,0.3,Nacional
+Dyego Sousa,0.05,Nacional
+Guillermo Ochoa,0.5,AVS Futebol
+Simão,0.3,AVS Futebol
+Trigueira,0.05,AVS Futebol
+Clayton,1.0,AVS Futebol
+Baptiste Roux,0.8,AVS Futebol
+Cristian Devenish,0.8,AVS Futebol
+Nacho Rodríguez,0.6,AVS Futebol
+Aderllan Santos,0.1,AVS Futebol
+Jorge Teixeira,0.05,AVS Futebol
+Rafa Rodrigues,0.8,AVS Futebol
+Kiki,0.5,AVS Futebol
+Zé Ricardo,0.2,AVS Futebol
+Eric Veiga,0.2,AVS Futebol
+Fernando Fonseca,0.5,AVS Futebol
+Léo Alaba,0.4,AVS Futebol
+Gustavo Assunção,1.0,AVS Futebol
+Lucas Piazón,0.8,AVS Futebol
+Tomás Tavares,0.8,AVS Futebol
+Tiago Hernández,0.4,AVS Futebol
+Issiaka Kamate,0.75,AVS Futebol
+Jaume Grau,0.7,AVS Futebol
+Giorgi Aburjania,0.4,AVS Futebol
+Gustavo Mendonça,0.4,AVS Futebol
+Jonatan Lucca,0.2,AVS Futebol
+Luís Silva,0.1,AVS Futebol
+Lucas Fernandes,1.5,AVS Futebol
+John Mercado,2.5,AVS Futebol
+Tunde Akinsola,0.5,AVS Futebol
+Vasco Lopes,0.5,AVS Futebol
+Yair Mena,0.1,AVS Futebol
+Rodrigo Ribeiro,2.5,AVS Futebol
+Gerson Rodrigues,0.6,AVS Futebol
+Zé Luís,0.1,AVS Futebol
+Nenê,0.05,AVS Futebol
+Samuel Granada,0.0,AVS Futebol
+João Gonçalves,0.7,Boavista
+Tomáš Vaclík,0.4,Boavista
+César,0.3,Boavista
+Tomé Sousa,0.2,Boavista
+Luís Pires,0.1,Boavista
+Rodrigo Abascal,0.7,Boavista
+Sidoine Fogning,0.5,Boavista
+Pedro Gomes,0.4,Boavista
+Vitaliy Lystsov,0.3,Boavista
+Alex Marques,0.1,Boavista
+Steven Vitória,0.05,Boavista
+Leo Ferreira,0.0,Boavista
+Bruno Onyemaechi,2.7,Boavista
+Layvin Kurzawa,1.0,Boavista
+Augusto Dabó,0.3,Boavista
+Filipe Ferreira,0.1,Boavista
+Tomás Silva,0.1,Boavista
+Osman Kakay,0.4,Boavista
+Gonçalo Miguel,0.25,Boavista
+Seba Pérez,1.0,Boavista
+Ibrahima Camará,0.5,Boavista
+Joel Silva,0.8,Boavista
+Miguel Reisinho,0.7,Boavista
+Ilija Vukotić,0.6,Boavista
+Marco van Ginkel,0.4,Boavista
+Marco Ribeiro,0.2,Boavista
+Gboly Ariyibi,0.2,Boavista
+João Barros,0.2,Boavista
+Salvador Agra,0.2,Boavista
+Abdoulay Diaby,0.2,Boavista
+Róbert Boženík,4.0,Boavista
+Moussa Koné,0.4,Boavista
+Manuel Namora,0.1,Boavista
+Tiago Machado,0.1,Boavista
+Diego Llorente,0.1,Boavista
+Fábio Sambú,0.1,Boavista
