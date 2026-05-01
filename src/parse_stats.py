@@ -24,5 +24,5 @@ for champ_id in champ_ids:
     df = df.drop(['Born', 'Matches'], axis=1)
 
     df['Nation'] = df['Nation'].str.replace(r'[^A-Z]', '', regex=True)
-    df.to_csv(f'csv/stats/{champ_id}_shooting_24-25.csv', index=False)
+    df.to_csv(f'../data/raw/stats/{champ_id}_shooting_24-25.csv', index=False)
     print(df)
