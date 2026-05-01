@@ -82,7 +82,6 @@ for country in leagues:
         url = url[:-1] + '3'
     response = make_safe_request(url)
     html = response.text
-    #print(html)
 
     soup = BeautifulSoup(html, 'html.parser')
 
@@ -107,7 +106,6 @@ for country in leagues:
         response = make_safe_request(url)
 
         print(response.status_code)
-        #print(response.text)
         html = response.text
 
         frames = pd.read_html(html)
