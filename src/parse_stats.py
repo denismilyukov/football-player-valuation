@@ -6,17 +6,14 @@ pd.set_option('display.width', None)
 champ_ids = ['RU1', 'BE1', 'BRA1', 'ES1', 'FR1', 'GB1', 'IT1', 'L1', 'NL1', 'PO1']
 
 for champ_id in champ_ids:
-    html = open(f'txt_for_parsing/{champ_id}_24-25_shooting_stats.txt', errors='ignore').read()
+    html = open(f'data/fbref_html/{champ_id}_24-25_shooting_stats.txt', errors='ignore').read()
 
     df = pd.read_html(html)
     df = df[0]
     print(df)
 
-    #columns = list(df.iloc[0])
-    #print(columns)
     df.columns = df.columns.droplevel(0)
-    # print(df[df['Rk']=='Rk'])
-    # pd.options.display.max_rows = 600
+    
     print(df)
     for i in range(25, len(df), 25):
         if i < len(df):
